@@ -1,0 +1,11 @@
+code_snippet,label
+"char buf[10]; gets(buf);",1
+"printf(\"Hello world\");",0
+"strcpy(dest, src);",1
+"puts(\"Safe string output\");",0
+"gets(user_input);",1
+"printf(user_input);",1
+"snprintf(dest, sizeof(dest), \'%s\', src);",0
+"scanf(\'%s\', buffer);",1
+"memcpy(dst, src, size);",1
+"fgets(buffer, size, stdin);",0

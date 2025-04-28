@@ -1,0 +1,11 @@
+code,label
+"open('file.txt', 'w')",1
+eval(user_input),1
+"cursor.execute('SELECT * FROM users WHERE id = ?', (user_id,))",0
+os.system(command),1
+password = 'hardcodedpass',1
+print('Hello World'),0
+exec(input()),1
+conn = sqlite3.connect('database.db'),0
+input_data = input('Enter your age: '),1
+"with open('file.txt', 'r') as file:",0

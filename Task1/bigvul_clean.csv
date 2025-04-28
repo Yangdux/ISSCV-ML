@@ -1,0 +1,5001 @@
+code,label
+char buf[10]; gets(buf);,1
+"printf(""Hello, world!\n"");",0
+"strcpy(dest, src);",1
+if (user_input) { printf(user_input); },1
+"snprintf(dest, sizeof(dest), ""%s"", src);",0
+"memcpy(dst, src, size);",1
+"fgets(buffer, size, stdin);",0
+"scanf(""%s"", buffer);",1
+system(user_input);,1
+"strncpy(dest, src, n);",0
+char buf[10]; gets(buf);,1
+"printf(""Hello, world!\n"");",0
+"strcpy(dest, src);",1
+if (user_input) { printf(user_input); },1
+"snprintf(dest, sizeof(dest), ""%s"", src);",0
+"memcpy(dst, src, size);",1
+"fgets(buffer, size, stdin);",0
+"scanf(""%s"", buffer);",1
+system(user_input);,1
+"strncpy(dest, src, n);",0
+char buf[10]; gets(buf);,1
+"printf(""Hello, world!\n"");",0
+"strcpy(dest, src);",1
+if (user_input) { printf(user_input); },1
+"snprintf(dest, sizeof(dest), ""%s"", src);",0
+"memcpy(dst, src, size);",1
+"fgets(buffer, size, stdin);",0
+"scanf(""%s"", buffer);",1
+system(user_input);,1
+"strncpy(dest, src, n);",0
+char buf[10]; gets(buf);,1
+"printf(""Hello, world!\n"");",0
+"strcpy(dest, src);",1
+if (user_input) { printf(user_input); },1
+"snprintf(dest, sizeof(dest), ""%s"", src);",0
+"memcpy(dst, src, size);",1
+"fgets(buffer, size, stdin);",0
+"scanf(""%s"", buffer);",1
+system(user_input);,1
+"strncpy(dest, src, n);",0
+char buf[10]; gets(buf);,1
+"printf(""Hello, world!\n"");",0
+"strcpy(dest, src);",1
+if (user_input) { printf(user_input); },1
+"snprintf(dest, sizeof(dest), ""%s"", src);",0
+"memcpy(dst, src, size);",1
+"fgets(buffer, size, stdin);",0
+"scanf(""%s"", buffer);",1
+system(user_input);,1
+"strncpy(dest, src, n);",0
+char buf[10]; gets(buf);,1
+"printf(""Hello, world!\n"");",0
+"strcpy(dest, src);",1
+if (user_input) { printf(user_input); },1
+"snprintf(dest, sizeof(dest), ""%s"", src);",0
+"memcpy(dst, src, size);",1
+"fgets(buffer, size, stdin);",0
+"scanf(""%s"", buffer);",1
+system(user_input);,1
+"strncpy(dest, src, n);",0
+char buf[10]; gets(buf);,1
+"printf(""Hello, world!\n"");",0
+"strcpy(dest, src);",1
+if (user_input) { printf(user_input); },1
+"snprintf(dest, sizeof(dest), ""%s"", src);",0
+"memcpy(dst, src, size);",1
+"fgets(buffer, size, stdin);",0
+"scanf(""%s"", buffer);",1
+system(user_input);,1
+"strncpy(dest, src, n);",0
+char buf[10]; gets(buf);,1
+"printf(""Hello, world!\n"");",0
+"strcpy(dest, src);",1
+if (user_input) { printf(user_input); },1
+"snprintf(dest, sizeof(dest), ""%s"", src);",0
+"memcpy(dst, src, size);",1
+"fgets(buffer, size, stdin);",0
+"scanf(""%s"", buffer);",1
+system(user_input);,1
+"strncpy(dest, src, n);",0
+char buf[10]; gets(buf);,1
+"printf(""Hello, world!\n"");",0
+"strcpy(dest, src);",1
+if (user_input) { printf(user_input); },1
+"snprintf(dest, sizeof(dest), ""%s"", src);",0
+"memcpy(dst, src, size);",1
+"fgets(buffer, size, stdin);",0
+"scanf(""%s"", buffer);",1
+system(user_input);,1
+"strncpy(dest, src, n);",0
+char buf[10]; gets(buf);,1
+"printf(""Hello, world!\n"");",0
+"strcpy(dest, src);",1
+if (user_input) { printf(user_input); },1
+"snprintf(dest, sizeof(dest), ""%s"", src);",0
+"memcpy(dst, src, size);",1
+"fgets(buffer, size, stdin);",0
+"scanf(""%s"", buffer);",1
+system(user_input);,1
+"strncpy(dest, src, n);",0
+char buf[10]; gets(buf);,1
+"printf(""Hello, world!\n"");",0
+"strcpy(dest, src);",1
+if (user_input) { printf(user_input); },1
+"snprintf(dest, sizeof(dest), ""%s"", src);",0
+"memcpy(dst, src, size);",1
+"fgets(buffer, size, stdin);",0
+"scanf(""%s"", buffer);",1
+system(user_input);,1
+"strncpy(dest, src, n);",0
+char buf[10]; gets(buf);,1
+"printf(""Hello, world!\n"");",0
+"strcpy(dest, src);",1
+if (user_input) { printf(user_input); },1
+"snprintf(dest, sizeof(dest), ""%s"", src);",0
+"memcpy(dst, src, size);",1
+"fgets(buffer, size, stdin);",0
+"scanf(""%s"", buffer);",1
+system(user_input);,1
+"strncpy(dest, src, n);",0
+char buf[10]; gets(buf);,1
+"printf(""Hello, world!\n"");",0
+"strcpy(dest, src);",1
+if (user_input) { printf(user_input); },1
+"snprintf(dest, sizeof(dest), ""%s"", src);",0
+"memcpy(dst, src, size);",1
+"fgets(buffer, size, stdin);",0
+"scanf(""%s"", buffer);",1
+system(user_input);,1
+"strncpy(dest, src, n);",0
+char buf[10]; gets(buf);,1
+"printf(""Hello, world!\n"");",0
+"strcpy(dest, src);",1
+if (user_input) { printf(user_input); },1
+"snprintf(dest, sizeof(dest), ""%s"", src);",0
+"memcpy(dst, src, size);",1
+"fgets(buffer, size, stdin);",0
+"scanf(""%s"", buffer);",1
+system(user_input);,1
+"strncpy(dest, src, n);",0
+char buf[10]; gets(buf);,1
+"printf(""Hello, world!\n"");",0
+"strcpy(dest, src);",1
+if (user_input) { printf(user_input); },1
+"snprintf(dest, sizeof(dest), ""%s"", src);",0
+"memcpy(dst, src, size);",1
+"fgets(buffer, size, stdin);",0
+"scanf(""%s"", buffer);",1
+system(user_input);,1
+"strncpy(dest, src, n);",0
+char buf[10]; gets(buf);,1
+"printf(""Hello, world!\n"");",0
+"strcpy(dest, src);",1
+if (user_input) { printf(user_input); },1
+"snprintf(dest, sizeof(dest), ""%s"", src);",0
+"memcpy(dst, src, size);",1
+"fgets(buffer, size, stdin);",0
+"scanf(""%s"", buffer);",1
+system(user_input);,1
+"strncpy(dest, src, n);",0
+char buf[10]; gets(buf);,1
+"printf(""Hello, world!\n"");",0
+"strcpy(dest, src);",1
+if (user_input) { printf(user_input); },1
+"snprintf(dest, sizeof(dest), ""%s"", src);",0
+"memcpy(dst, src, size);",1
+"fgets(buffer, size, stdin);",0
+"scanf(""%s"", buffer);",1
+system(user_input);,1
+"strncpy(dest, src, n);",0
+char buf[10]; gets(buf);,1
+"printf(""Hello, world!\n"");",0
+"strcpy(dest, src);",1
+if (user_input) { printf(user_input); },1
+"snprintf(dest, sizeof(dest), ""%s"", src);",0
+"memcpy(dst, src, size);",1
+"fgets(buffer, size, stdin);",0
+"scanf(""%s"", buffer);",1
+system(user_input);,1
+"strncpy(dest, src, n);",0
+char buf[10]; gets(buf);,1
+"printf(""Hello, world!\n"");",0
+"strcpy(dest, src);",1
+if (user_input) { printf(user_input); },1
+"snprintf(dest, sizeof(dest), ""%s"", src);",0
+"memcpy(dst, src, size);",1
+"fgets(buffer, size, stdin);",0
+"scanf(""%s"", buffer);",1
+system(user_input);,1
+"strncpy(dest, src, n);",0
+char buf[10]; gets(buf);,1
+"printf(""Hello, world!\n"");",0
+"strcpy(dest, src);",1
+if (user_input) { printf(user_input); },1
+"snprintf(dest, sizeof(dest), ""%s"", src);",0
+"memcpy(dst, src, size);",1
+"fgets(buffer, size, stdin);",0
+"scanf(""%s"", buffer);",1
+system(user_input);,1
+"strncpy(dest, src, n);",0
+char buf[10]; gets(buf);,1
+"printf(""Hello, world!\n"");",0
+"strcpy(dest, src);",1
+if (user_input) { printf(user_input); },1
+"snprintf(dest, sizeof(dest), ""%s"", src);",0
+"memcpy(dst, src, size);",1
+"fgets(buffer, size, stdin);",0
+"scanf(""%s"", buffer);",1
+system(user_input);,1
+"strncpy(dest, src, n);",0
+char buf[10]; gets(buf);,1
+"printf(""Hello, world!\n"");",0
+"strcpy(dest, src);",1
+if (user_input) { printf(user_input); },1
+"snprintf(dest, sizeof(dest), ""%s"", src);",0
+"memcpy(dst, src, size);",1
+"fgets(buffer, size, stdin);",0
+"scanf(""%s"", buffer);",1
+system(user_input);,1
+"strncpy(dest, src, n);",0
+char buf[10]; gets(buf);,1
+"printf(""Hello, world!\n"");",0
+"strcpy(dest, src);",1
+if (user_input) { printf(user_input); },1
+"snprintf(dest, sizeof(dest), ""%s"", src);",0
+"memcpy(dst, src, size);",1
+"fgets(buffer, size, stdin);",0
+"scanf(""%s"", buffer);",1
+system(user_input);,1
+"strncpy(dest, src, n);",0
+char buf[10]; gets(buf);,1
+"printf(""Hello, world!\n"");",0
+"strcpy(dest, src);",1
+if (user_input) { printf(user_input); },1
+"snprintf(dest, sizeof(dest), ""%s"", src);",0
+"memcpy(dst, src, size);",1
+"fgets(buffer, size, stdin);",0
+"scanf(""%s"", buffer);",1
+system(user_input);,1
+"strncpy(dest, src, n);",0
+char buf[10]; gets(buf);,1
+"printf(""Hello, world!\n"");",0
+"strcpy(dest, src);",1
+if (user_input) { printf(user_input); },1
+"snprintf(dest, sizeof(dest), ""%s"", src);",0
+"memcpy(dst, src, size);",1
+"fgets(buffer, size, stdin);",0
+"scanf(""%s"", buffer);",1
+system(user_input);,1
+"strncpy(dest, src, n);",0
+char buf[10]; gets(buf);,1
+"printf(""Hello, world!\n"");",0
+"strcpy(dest, src);",1
+if (user_input) { printf(user_input); },1
+"snprintf(dest, sizeof(dest), ""%s"", src);",0
+"memcpy(dst, src, size);",1
+"fgets(buffer, size, stdin);",0
+"scanf(""%s"", buffer);",1
+system(user_input);,1
+"strncpy(dest, src, n);",0
+char buf[10]; gets(buf);,1
+"printf(""Hello, world!\n"");",0
+"strcpy(dest, src);",1
+if (user_input) { printf(user_input); },1
+"snprintf(dest, sizeof(dest), ""%s"", src);",0
+"memcpy(dst, src, size);",1
+"fgets(buffer, size, stdin);",0
+"scanf(""%s"", buffer);",1
+system(user_input);,1
+"strncpy(dest, src, n);",0
+char buf[10]; gets(buf);,1
+"printf(""Hello, world!\n"");",0
+"strcpy(dest, src);",1
+if (user_input) { printf(user_input); },1
+"snprintf(dest, sizeof(dest), ""%s"", src);",0
+"memcpy(dst, src, size);",1
+"fgets(buffer, size, stdin);",0
+"scanf(""%s"", buffer);",1
+system(user_input);,1
+"strncpy(dest, src, n);",0
+char buf[10]; gets(buf);,1
+"printf(""Hello, world!\n"");",0
+"strcpy(dest, src);",1
+if (user_input) { printf(user_input); },1
+"snprintf(dest, sizeof(dest), ""%s"", src);",0
+"memcpy(dst, src, size);",1
+"fgets(buffer, size, stdin);",0
+"scanf(""%s"", buffer);",1
+system(user_input);,1
+"strncpy(dest, src, n);",0
+char buf[10]; gets(buf);,1
+"printf(""Hello, world!\n"");",0
+"strcpy(dest, src);",1
+if (user_input) { printf(user_input); },1
+"snprintf(dest, sizeof(dest), ""%s"", src);",0
+"memcpy(dst, src, size);",1
+"fgets(buffer, size, stdin);",0
+"scanf(""%s"", buffer);",1
+system(user_input);,1
+"strncpy(dest, src, n);",0
+char buf[10]; gets(buf);,1
+"printf(""Hello, world!\n"");",0
+"strcpy(dest, src);",1
+if (user_input) { printf(user_input); },1
+"snprintf(dest, sizeof(dest), ""%s"", src);",0
+"memcpy(dst, src, size);",1
+"fgets(buffer, size, stdin);",0
+"scanf(""%s"", buffer);",1
+system(user_input);,1
+"strncpy(dest, src, n);",0
+char buf[10]; gets(buf);,1
+"printf(""Hello, world!\n"");",0
+"strcpy(dest, src);",1
+if (user_input) { printf(user_input); },1
+"snprintf(dest, sizeof(dest), ""%s"", src);",0
+"memcpy(dst, src, size);",1
+"fgets(buffer, size, stdin);",0
+"scanf(""%s"", buffer);",1
+system(user_input);,1
+"strncpy(dest, src, n);",0
+char buf[10]; gets(buf);,1
+"printf(""Hello, world!\n"");",0
+"strcpy(dest, src);",1
+if (user_input) { printf(user_input); },1
+"snprintf(dest, sizeof(dest), ""%s"", src);",0
+"memcpy(dst, src, size);",1
+"fgets(buffer, size, stdin);",0
+"scanf(""%s"", buffer);",1
+system(user_input);,1
+"strncpy(dest, src, n);",0
+char buf[10]; gets(buf);,1
+"printf(""Hello, world!\n"");",0
+"strcpy(dest, src);",1
+if (user_input) { printf(user_input); },1
+"snprintf(dest, sizeof(dest), ""%s"", src);",0
+"memcpy(dst, src, size);",1
+"fgets(buffer, size, stdin);",0
+"scanf(""%s"", buffer);",1
+system(user_input);,1
+"strncpy(dest, src, n);",0
+char buf[10]; gets(buf);,1
+"printf(""Hello, world!\n"");",0
+"strcpy(dest, src);",1
+if (user_input) { printf(user_input); },1
+"snprintf(dest, sizeof(dest), ""%s"", src);",0
+"memcpy(dst, src, size);",1
+"fgets(buffer, size, stdin);",0
+"scanf(""%s"", buffer);",1
+system(user_input);,1
+"strncpy(dest, src, n);",0
+char buf[10]; gets(buf);,1
+"printf(""Hello, world!\n"");",0
+"strcpy(dest, src);",1
+if (user_input) { printf(user_input); },1
+"snprintf(dest, sizeof(dest), ""%s"", src);",0
+"memcpy(dst, src, size);",1
+"fgets(buffer, size, stdin);",0
+"scanf(""%s"", buffer);",1
+system(user_input);,1
+"strncpy(dest, src, n);",0
+char buf[10]; gets(buf);,1
+"printf(""Hello, world!\n"");",0
+"strcpy(dest, src);",1
+if (user_input) { printf(user_input); },1
+"snprintf(dest, sizeof(dest), ""%s"", src);",0
+"memcpy(dst, src, size);",1
+"fgets(buffer, size, stdin);",0
+"scanf(""%s"", buffer);",1
+system(user_input);,1
+"strncpy(dest, src, n);",0
+char buf[10]; gets(buf);,1
+"printf(""Hello, world!\n"");",0
+"strcpy(dest, src);",1
+if (user_input) { printf(user_input); },1
+"snprintf(dest, sizeof(dest), ""%s"", src);",0
+"memcpy(dst, src, size);",1
+"fgets(buffer, size, stdin);",0
+"scanf(""%s"", buffer);",1
+system(user_input);,1
+"strncpy(dest, src, n);",0
+char buf[10]; gets(buf);,1
+"printf(""Hello, world!\n"");",0
+"strcpy(dest, src);",1
+if (user_input) { printf(user_input); },1
+"snprintf(dest, sizeof(dest), ""%s"", src);",0
+"memcpy(dst, src, size);",1
+"fgets(buffer, size, stdin);",0
+"scanf(""%s"", buffer);",1
+system(user_input);,1
+"strncpy(dest, src, n);",0
+char buf[10]; gets(buf);,1
+"printf(""Hello, world!\n"");",0
+"strcpy(dest, src);",1
+if (user_input) { printf(user_input); },1
+"snprintf(dest, sizeof(dest), ""%s"", src);",0
+"memcpy(dst, src, size);",1
+"fgets(buffer, size, stdin);",0
+"scanf(""%s"", buffer);",1
+system(user_input);,1
+"strncpy(dest, src, n);",0
+char buf[10]; gets(buf);,1
+"printf(""Hello, world!\n"");",0
+"strcpy(dest, src);",1
+if (user_input) { printf(user_input); },1
+"snprintf(dest, sizeof(dest), ""%s"", src);",0
+"memcpy(dst, src, size);",1
+"fgets(buffer, size, stdin);",0
+"scanf(""%s"", buffer);",1
+system(user_input);,1
+"strncpy(dest, src, n);",0
+char buf[10]; gets(buf);,1
+"printf(""Hello, world!\n"");",0
+"strcpy(dest, src);",1
+if (user_input) { printf(user_input); },1
+"snprintf(dest, sizeof(dest), ""%s"", src);",0
+"memcpy(dst, src, size);",1
+"fgets(buffer, size, stdin);",0
+"scanf(""%s"", buffer);",1
+system(user_input);,1
+"strncpy(dest, src, n);",0
+char buf[10]; gets(buf);,1
+"printf(""Hello, world!\n"");",0
+"strcpy(dest, src);",1
+if (user_input) { printf(user_input); },1
+"snprintf(dest, sizeof(dest), ""%s"", src);",0
+"memcpy(dst, src, size);",1
+"fgets(buffer, size, stdin);",0
+"scanf(""%s"", buffer);",1
+system(user_input);,1
+"strncpy(dest, src, n);",0
+char buf[10]; gets(buf);,1
+"printf(""Hello, world!\n"");",0
+"strcpy(dest, src);",1
+if (user_input) { printf(user_input); },1
+"snprintf(dest, sizeof(dest), ""%s"", src);",0
+"memcpy(dst, src, size);",1
+"fgets(buffer, size, stdin);",0
+"scanf(""%s"", buffer);",1
+system(user_input);,1
+"strncpy(dest, src, n);",0
+char buf[10]; gets(buf);,1
+"printf(""Hello, world!\n"");",0
+"strcpy(dest, src);",1
+if (user_input) { printf(user_input); },1
+"snprintf(dest, sizeof(dest), ""%s"", src);",0
+"memcpy(dst, src, size);",1
+"fgets(buffer, size, stdin);",0
+"scanf(""%s"", buffer);",1
+system(user_input);,1
+"strncpy(dest, src, n);",0
+char buf[10]; gets(buf);,1
+"printf(""Hello, world!\n"");",0
+"strcpy(dest, src);",1
+if (user_input) { printf(user_input); },1
+"snprintf(dest, sizeof(dest), ""%s"", src);",0
+"memcpy(dst, src, size);",1
+"fgets(buffer, size, stdin);",0
+"scanf(""%s"", buffer);",1
+system(user_input);,1
+"strncpy(dest, src, n);",0
+char buf[10]; gets(buf);,1
+"printf(""Hello, world!\n"");",0
+"strcpy(dest, src);",1
+if (user_input) { printf(user_input); },1
+"snprintf(dest, sizeof(dest), ""%s"", src);",0
+"memcpy(dst, src, size);",1
+"fgets(buffer, size, stdin);",0
+"scanf(""%s"", buffer);",1
+system(user_input);,1
+"strncpy(dest, src, n);",0
+char buf[10]; gets(buf);,1
+"printf(""Hello, world!\n"");",0
+"strcpy(dest, src);",1
+if (user_input) { printf(user_input); },1
+"snprintf(dest, sizeof(dest), ""%s"", src);",0
+"memcpy(dst, src, size);",1
+"fgets(buffer, size, stdin);",0
+"scanf(""%s"", buffer);",1
+system(user_input);,1
+"strncpy(dest, src, n);",0
+char buf[10]; gets(buf);,1
+"printf(""Hello, world!\n"");",0
+"strcpy(dest, src);",1
+if (user_input) { printf(user_input); },1
+"snprintf(dest, sizeof(dest), ""%s"", src);",0
+"memcpy(dst, src, size);",1
+"fgets(buffer, size, stdin);",0
+"scanf(""%s"", buffer);",1
+system(user_input);,1
+"strncpy(dest, src, n);",0
+char buf[10]; gets(buf);,1
+"printf(""Hello, world!\n"");",0
+"strcpy(dest, src);",1
+if (user_input) { printf(user_input); },1
+"snprintf(dest, sizeof(dest), ""%s"", src);",0
+"memcpy(dst, src, size);",1
+"fgets(buffer, size, stdin);",0
+"scanf(""%s"", buffer);",1
+system(user_input);,1
+"strncpy(dest, src, n);",0
+char buf[10]; gets(buf);,1
+"printf(""Hello, world!\n"");",0
+"strcpy(dest, src);",1
+if (user_input) { printf(user_input); },1
+"snprintf(dest, sizeof(dest), ""%s"", src);",0
+"memcpy(dst, src, size);",1
+"fgets(buffer, size, stdin);",0
+"scanf(""%s"", buffer);",1
+system(user_input);,1
+"strncpy(dest, src, n);",0
+char buf[10]; gets(buf);,1
+"printf(""Hello, world!\n"");",0
+"strcpy(dest, src);",1
+if (user_input) { printf(user_input); },1
+"snprintf(dest, sizeof(dest), ""%s"", src);",0
+"memcpy(dst, src, size);",1
+"fgets(buffer, size, stdin);",0
+"scanf(""%s"", buffer);",1
+system(user_input);,1
+"strncpy(dest, src, n);",0
+char buf[10]; gets(buf);,1
+"printf(""Hello, world!\n"");",0
+"strcpy(dest, src);",1
+if (user_input) { printf(user_input); },1
+"snprintf(dest, sizeof(dest), ""%s"", src);",0
+"memcpy(dst, src, size);",1
+"fgets(buffer, size, stdin);",0
+"scanf(""%s"", buffer);",1
+system(user_input);,1
+"strncpy(dest, src, n);",0
+char buf[10]; gets(buf);,1
+"printf(""Hello, world!\n"");",0
+"strcpy(dest, src);",1
+if (user_input) { printf(user_input); },1
+"snprintf(dest, sizeof(dest), ""%s"", src);",0
+"memcpy(dst, src, size);",1
+"fgets(buffer, size, stdin);",0
+"scanf(""%s"", buffer);",1
+system(user_input);,1
+"strncpy(dest, src, n);",0
+char buf[10]; gets(buf);,1
+"printf(""Hello, world!\n"");",0
+"strcpy(dest, src);",1
+if (user_input) { printf(user_input); },1
+"snprintf(dest, sizeof(dest), ""%s"", src);",0
+"memcpy(dst, src, size);",1
+"fgets(buffer, size, stdin);",0
+"scanf(""%s"", buffer);",1
+system(user_input);,1
+"strncpy(dest, src, n);",0
+char buf[10]; gets(buf);,1
+"printf(""Hello, world!\n"");",0
+"strcpy(dest, src);",1
+if (user_input) { printf(user_input); },1
+"snprintf(dest, sizeof(dest), ""%s"", src);",0
+"memcpy(dst, src, size);",1
+"fgets(buffer, size, stdin);",0
+"scanf(""%s"", buffer);",1
+system(user_input);,1
+"strncpy(dest, src, n);",0
+char buf[10]; gets(buf);,1
+"printf(""Hello, world!\n"");",0
+"strcpy(dest, src);",1
+if (user_input) { printf(user_input); },1
+"snprintf(dest, sizeof(dest), ""%s"", src);",0
+"memcpy(dst, src, size);",1
+"fgets(buffer, size, stdin);",0
+"scanf(""%s"", buffer);",1
+system(user_input);,1
+"strncpy(dest, src, n);",0
+char buf[10]; gets(buf);,1
+"printf(""Hello, world!\n"");",0
+"strcpy(dest, src);",1
+if (user_input) { printf(user_input); },1
+"snprintf(dest, sizeof(dest), ""%s"", src);",0
+"memcpy(dst, src, size);",1
+"fgets(buffer, size, stdin);",0
+"scanf(""%s"", buffer);",1
+system(user_input);,1
+"strncpy(dest, src, n);",0
+char buf[10]; gets(buf);,1
+"printf(""Hello, world!\n"");",0
+"strcpy(dest, src);",1
+if (user_input) { printf(user_input); },1
+"snprintf(dest, sizeof(dest), ""%s"", src);",0
+"memcpy(dst, src, size);",1
+"fgets(buffer, size, stdin);",0
+"scanf(""%s"", buffer);",1
+system(user_input);,1
+"strncpy(dest, src, n);",0
+char buf[10]; gets(buf);,1
+"printf(""Hello, world!\n"");",0
+"strcpy(dest, src);",1
+if (user_input) { printf(user_input); },1
+"snprintf(dest, sizeof(dest), ""%s"", src);",0
+"memcpy(dst, src, size);",1
+"fgets(buffer, size, stdin);",0
+"scanf(""%s"", buffer);",1
+system(user_input);,1
+"strncpy(dest, src, n);",0
+char buf[10]; gets(buf);,1
+"printf(""Hello, world!\n"");",0
+"strcpy(dest, src);",1
+if (user_input) { printf(user_input); },1
+"snprintf(dest, sizeof(dest), ""%s"", src);",0
+"memcpy(dst, src, size);",1
+"fgets(buffer, size, stdin);",0
+"scanf(""%s"", buffer);",1
+system(user_input);,1
+"strncpy(dest, src, n);",0
+char buf[10]; gets(buf);,1
+"printf(""Hello, world!\n"");",0
+"strcpy(dest, src);",1
+if (user_input) { printf(user_input); },1
+"snprintf(dest, sizeof(dest), ""%s"", src);",0
+"memcpy(dst, src, size);",1
+"fgets(buffer, size, stdin);",0
+"scanf(""%s"", buffer);",1
+system(user_input);,1
+"strncpy(dest, src, n);",0
+char buf[10]; gets(buf);,1
+"printf(""Hello, world!\n"");",0
+"strcpy(dest, src);",1
+if (user_input) { printf(user_input); },1
+"snprintf(dest, sizeof(dest), ""%s"", src);",0
+"memcpy(dst, src, size);",1
+"fgets(buffer, size, stdin);",0
+"scanf(""%s"", buffer);",1
+system(user_input);,1
+"strncpy(dest, src, n);",0
+char buf[10]; gets(buf);,1
+"printf(""Hello, world!\n"");",0
+"strcpy(dest, src);",1
+if (user_input) { printf(user_input); },1
+"snprintf(dest, sizeof(dest), ""%s"", src);",0
+"memcpy(dst, src, size);",1
+"fgets(buffer, size, stdin);",0
+"scanf(""%s"", buffer);",1
+system(user_input);,1
+"strncpy(dest, src, n);",0
+char buf[10]; gets(buf);,1
+"printf(""Hello, world!\n"");",0
+"strcpy(dest, src);",1
+if (user_input) { printf(user_input); },1
+"snprintf(dest, sizeof(dest), ""%s"", src);",0
+"memcpy(dst, src, size);",1
+"fgets(buffer, size, stdin);",0
+"scanf(""%s"", buffer);",1
+system(user_input);,1
+"strncpy(dest, src, n);",0
+char buf[10]; gets(buf);,1
+"printf(""Hello, world!\n"");",0
+"strcpy(dest, src);",1
+if (user_input) { printf(user_input); },1
+"snprintf(dest, sizeof(dest), ""%s"", src);",0
+"memcpy(dst, src, size);",1
+"fgets(buffer, size, stdin);",0
+"scanf(""%s"", buffer);",1
+system(user_input);,1
+"strncpy(dest, src, n);",0
+char buf[10]; gets(buf);,1
+"printf(""Hello, world!\n"");",0
+"strcpy(dest, src);",1
+if (user_input) { printf(user_input); },1
+"snprintf(dest, sizeof(dest), ""%s"", src);",0
+"memcpy(dst, src, size);",1
+"fgets(buffer, size, stdin);",0
+"scanf(""%s"", buffer);",1
+system(user_input);,1
+"strncpy(dest, src, n);",0
+char buf[10]; gets(buf);,1
+"printf(""Hello, world!\n"");",0
+"strcpy(dest, src);",1
+if (user_input) { printf(user_input); },1
+"snprintf(dest, sizeof(dest), ""%s"", src);",0
+"memcpy(dst, src, size);",1
+"fgets(buffer, size, stdin);",0
+"scanf(""%s"", buffer);",1
+system(user_input);,1
+"strncpy(dest, src, n);",0
+char buf[10]; gets(buf);,1
+"printf(""Hello, world!\n"");",0
+"strcpy(dest, src);",1
+if (user_input) { printf(user_input); },1
+"snprintf(dest, sizeof(dest), ""%s"", src);",0
+"memcpy(dst, src, size);",1
+"fgets(buffer, size, stdin);",0
+"scanf(""%s"", buffer);",1
+system(user_input);,1
+"strncpy(dest, src, n);",0
+char buf[10]; gets(buf);,1
+"printf(""Hello, world!\n"");",0
+"strcpy(dest, src);",1
+if (user_input) { printf(user_input); },1
+"snprintf(dest, sizeof(dest), ""%s"", src);",0
+"memcpy(dst, src, size);",1
+"fgets(buffer, size, stdin);",0
+"scanf(""%s"", buffer);",1
+system(user_input);,1
+"strncpy(dest, src, n);",0
+char buf[10]; gets(buf);,1
+"printf(""Hello, world!\n"");",0
+"strcpy(dest, src);",1
+if (user_input) { printf(user_input); },1
+"snprintf(dest, sizeof(dest), ""%s"", src);",0
+"memcpy(dst, src, size);",1
+"fgets(buffer, size, stdin);",0
+"scanf(""%s"", buffer);",1
+system(user_input);,1
+"strncpy(dest, src, n);",0
+char buf[10]; gets(buf);,1
+"printf(""Hello, world!\n"");",0
+"strcpy(dest, src);",1
+if (user_input) { printf(user_input); },1
+"snprintf(dest, sizeof(dest), ""%s"", src);",0
+"memcpy(dst, src, size);",1
+"fgets(buffer, size, stdin);",0
+"scanf(""%s"", buffer);",1
+system(user_input);,1
+"strncpy(dest, src, n);",0
+char buf[10]; gets(buf);,1
+"printf(""Hello, world!\n"");",0
+"strcpy(dest, src);",1
+if (user_input) { printf(user_input); },1
+"snprintf(dest, sizeof(dest), ""%s"", src);",0
+"memcpy(dst, src, size);",1
+"fgets(buffer, size, stdin);",0
+"scanf(""%s"", buffer);",1
+system(user_input);,1
+"strncpy(dest, src, n);",0
+char buf[10]; gets(buf);,1
+"printf(""Hello, world!\n"");",0
+"strcpy(dest, src);",1
+if (user_input) { printf(user_input); },1
+"snprintf(dest, sizeof(dest), ""%s"", src);",0
+"memcpy(dst, src, size);",1
+"fgets(buffer, size, stdin);",0
+"scanf(""%s"", buffer);",1
+system(user_input);,1
+"strncpy(dest, src, n);",0
+char buf[10]; gets(buf);,1
+"printf(""Hello, world!\n"");",0
+"strcpy(dest, src);",1
+if (user_input) { printf(user_input); },1
+"snprintf(dest, sizeof(dest), ""%s"", src);",0
+"memcpy(dst, src, size);",1
+"fgets(buffer, size, stdin);",0
+"scanf(""%s"", buffer);",1
+system(user_input);,1
+"strncpy(dest, src, n);",0
+char buf[10]; gets(buf);,1
+"printf(""Hello, world!\n"");",0
+"strcpy(dest, src);",1
+if (user_input) { printf(user_input); },1
+"snprintf(dest, sizeof(dest), ""%s"", src);",0
+"memcpy(dst, src, size);",1
+"fgets(buffer, size, stdin);",0
+"scanf(""%s"", buffer);",1
+system(user_input);,1
+"strncpy(dest, src, n);",0
+char buf[10]; gets(buf);,1
+"printf(""Hello, world!\n"");",0
+"strcpy(dest, src);",1
+if (user_input) { printf(user_input); },1
+"snprintf(dest, sizeof(dest), ""%s"", src);",0
+"memcpy(dst, src, size);",1
+"fgets(buffer, size, stdin);",0
+"scanf(""%s"", buffer);",1
+system(user_input);,1
+"strncpy(dest, src, n);",0
+char buf[10]; gets(buf);,1
+"printf(""Hello, world!\n"");",0
+"strcpy(dest, src);",1
+if (user_input) { printf(user_input); },1
+"snprintf(dest, sizeof(dest), ""%s"", src);",0
+"memcpy(dst, src, size);",1
+"fgets(buffer, size, stdin);",0
+"scanf(""%s"", buffer);",1
+system(user_input);,1
+"strncpy(dest, src, n);",0
+char buf[10]; gets(buf);,1
+"printf(""Hello, world!\n"");",0
+"strcpy(dest, src);",1
+if (user_input) { printf(user_input); },1
+"snprintf(dest, sizeof(dest), ""%s"", src);",0
+"memcpy(dst, src, size);",1
+"fgets(buffer, size, stdin);",0
+"scanf(""%s"", buffer);",1
+system(user_input);,1
+"strncpy(dest, src, n);",0
+char buf[10]; gets(buf);,1
+"printf(""Hello, world!\n"");",0
+"strcpy(dest, src);",1
+if (user_input) { printf(user_input); },1
+"snprintf(dest, sizeof(dest), ""%s"", src);",0
+"memcpy(dst, src, size);",1
+"fgets(buffer, size, stdin);",0
+"scanf(""%s"", buffer);",1
+system(user_input);,1
+"strncpy(dest, src, n);",0
+char buf[10]; gets(buf);,1
+"printf(""Hello, world!\n"");",0
+"strcpy(dest, src);",1
+if (user_input) { printf(user_input); },1
+"snprintf(dest, sizeof(dest), ""%s"", src);",0
+"memcpy(dst, src, size);",1
+"fgets(buffer, size, stdin);",0
+"scanf(""%s"", buffer);",1
+system(user_input);,1
+"strncpy(dest, src, n);",0
+char buf[10]; gets(buf);,1
+"printf(""Hello, world!\n"");",0
+"strcpy(dest, src);",1
+if (user_input) { printf(user_input); },1
+"snprintf(dest, sizeof(dest), ""%s"", src);",0
+"memcpy(dst, src, size);",1
+"fgets(buffer, size, stdin);",0
+"scanf(""%s"", buffer);",1
+system(user_input);,1
+"strncpy(dest, src, n);",0
+char buf[10]; gets(buf);,1
+"printf(""Hello, world!\n"");",0
+"strcpy(dest, src);",1
+if (user_input) { printf(user_input); },1
+"snprintf(dest, sizeof(dest), ""%s"", src);",0
+"memcpy(dst, src, size);",1
+"fgets(buffer, size, stdin);",0
+"scanf(""%s"", buffer);",1
+system(user_input);,1
+"strncpy(dest, src, n);",0
+char buf[10]; gets(buf);,1
+"printf(""Hello, world!\n"");",0
+"strcpy(dest, src);",1
+if (user_input) { printf(user_input); },1
+"snprintf(dest, sizeof(dest), ""%s"", src);",0
+"memcpy(dst, src, size);",1
+"fgets(buffer, size, stdin);",0
+"scanf(""%s"", buffer);",1
+system(user_input);,1
+"strncpy(dest, src, n);",0
+char buf[10]; gets(buf);,1
+"printf(""Hello, world!\n"");",0
+"strcpy(dest, src);",1
+if (user_input) { printf(user_input); },1
+"snprintf(dest, sizeof(dest), ""%s"", src);",0
+"memcpy(dst, src, size);",1
+"fgets(buffer, size, stdin);",0
+"scanf(""%s"", buffer);",1
+system(user_input);,1
+"strncpy(dest, src, n);",0
+char buf[10]; gets(buf);,1
+"printf(""Hello, world!\n"");",0
+"strcpy(dest, src);",1
+if (user_input) { printf(user_input); },1
+"snprintf(dest, sizeof(dest), ""%s"", src);",0
+"memcpy(dst, src, size);",1
+"fgets(buffer, size, stdin);",0
+"scanf(""%s"", buffer);",1
+system(user_input);,1
+"strncpy(dest, src, n);",0
+char buf[10]; gets(buf);,1
+"printf(""Hello, world!\n"");",0
+"strcpy(dest, src);",1
+if (user_input) { printf(user_input); },1
+"snprintf(dest, sizeof(dest), ""%s"", src);",0
+"memcpy(dst, src, size);",1
+"fgets(buffer, size, stdin);",0
+"scanf(""%s"", buffer);",1
+system(user_input);,1
+"strncpy(dest, src, n);",0
+char buf[10]; gets(buf);,1
+"printf(""Hello, world!\n"");",0
+"strcpy(dest, src);",1
+if (user_input) { printf(user_input); },1
+"snprintf(dest, sizeof(dest), ""%s"", src);",0
+"memcpy(dst, src, size);",1
+"fgets(buffer, size, stdin);",0
+"scanf(""%s"", buffer);",1
+system(user_input);,1
+"strncpy(dest, src, n);",0
+char buf[10]; gets(buf);,1
+"printf(""Hello, world!\n"");",0
+"strcpy(dest, src);",1
+if (user_input) { printf(user_input); },1
+"snprintf(dest, sizeof(dest), ""%s"", src);",0
+"memcpy(dst, src, size);",1
+"fgets(buffer, size, stdin);",0
+"scanf(""%s"", buffer);",1
+system(user_input);,1
+"strncpy(dest, src, n);",0
+char buf[10]; gets(buf);,1
+"printf(""Hello, world!\n"");",0
+"strcpy(dest, src);",1
+if (user_input) { printf(user_input); },1
+"snprintf(dest, sizeof(dest), ""%s"", src);",0
+"memcpy(dst, src, size);",1
+"fgets(buffer, size, stdin);",0
+"scanf(""%s"", buffer);",1
+system(user_input);,1
+"strncpy(dest, src, n);",0
+char buf[10]; gets(buf);,1
+"printf(""Hello, world!\n"");",0
+"strcpy(dest, src);",1
+if (user_input) { printf(user_input); },1
+"snprintf(dest, sizeof(dest), ""%s"", src);",0
+"memcpy(dst, src, size);",1
+"fgets(buffer, size, stdin);",0
+"scanf(""%s"", buffer);",1
+system(user_input);,1
+"strncpy(dest, src, n);",0
+char buf[10]; gets(buf);,1
+"printf(""Hello, world!\n"");",0
+"strcpy(dest, src);",1
+if (user_input) { printf(user_input); },1
+"snprintf(dest, sizeof(dest), ""%s"", src);",0
+"memcpy(dst, src, size);",1
+"fgets(buffer, size, stdin);",0
+"scanf(""%s"", buffer);",1
+system(user_input);,1
+"strncpy(dest, src, n);",0
+char buf[10]; gets(buf);,1
+"printf(""Hello, world!\n"");",0
+"strcpy(dest, src);",1
+if (user_input) { printf(user_input); },1
+"snprintf(dest, sizeof(dest), ""%s"", src);",0
+"memcpy(dst, src, size);",1
+"fgets(buffer, size, stdin);",0
+"scanf(""%s"", buffer);",1
+system(user_input);,1
+"strncpy(dest, src, n);",0
+char buf[10]; gets(buf);,1
+"printf(""Hello, world!\n"");",0
+"strcpy(dest, src);",1
+if (user_input) { printf(user_input); },1
+"snprintf(dest, sizeof(dest), ""%s"", src);",0
+"memcpy(dst, src, size);",1
+"fgets(buffer, size, stdin);",0
+"scanf(""%s"", buffer);",1
+system(user_input);,1
+"strncpy(dest, src, n);",0
+char buf[10]; gets(buf);,1
+"printf(""Hello, world!\n"");",0
+"strcpy(dest, src);",1
+if (user_input) { printf(user_input); },1
+"snprintf(dest, sizeof(dest), ""%s"", src);",0
+"memcpy(dst, src, size);",1
+"fgets(buffer, size, stdin);",0
+"scanf(""%s"", buffer);",1
+system(user_input);,1
+"strncpy(dest, src, n);",0
+char buf[10]; gets(buf);,1
+"printf(""Hello, world!\n"");",0
+"strcpy(dest, src);",1
+if (user_input) { printf(user_input); },1
+"snprintf(dest, sizeof(dest), ""%s"", src);",0
+"memcpy(dst, src, size);",1
+"fgets(buffer, size, stdin);",0
+"scanf(""%s"", buffer);",1
+system(user_input);,1
+"strncpy(dest, src, n);",0
+char buf[10]; gets(buf);,1
+"printf(""Hello, world!\n"");",0
+"strcpy(dest, src);",1
+if (user_input) { printf(user_input); },1
+"snprintf(dest, sizeof(dest), ""%s"", src);",0
+"memcpy(dst, src, size);",1
+"fgets(buffer, size, stdin);",0
+"scanf(""%s"", buffer);",1
+system(user_input);,1
+"strncpy(dest, src, n);",0
+char buf[10]; gets(buf);,1
+"printf(""Hello, world!\n"");",0
+"strcpy(dest, src);",1
+if (user_input) { printf(user_input); },1
+"snprintf(dest, sizeof(dest), ""%s"", src);",0
+"memcpy(dst, src, size);",1
+"fgets(buffer, size, stdin);",0
+"scanf(""%s"", buffer);",1
+system(user_input);,1
+"strncpy(dest, src, n);",0
+char buf[10]; gets(buf);,1
+"printf(""Hello, world!\n"");",0
+"strcpy(dest, src);",1
+if (user_input) { printf(user_input); },1
+"snprintf(dest, sizeof(dest), ""%s"", src);",0
+"memcpy(dst, src, size);",1
+"fgets(buffer, size, stdin);",0
+"scanf(""%s"", buffer);",1
+system(user_input);,1
+"strncpy(dest, src, n);",0
+char buf[10]; gets(buf);,1
+"printf(""Hello, world!\n"");",0
+"strcpy(dest, src);",1
+if (user_input) { printf(user_input); },1
+"snprintf(dest, sizeof(dest), ""%s"", src);",0
+"memcpy(dst, src, size);",1
+"fgets(buffer, size, stdin);",0
+"scanf(""%s"", buffer);",1
+system(user_input);,1
+"strncpy(dest, src, n);",0
+char buf[10]; gets(buf);,1
+"printf(""Hello, world!\n"");",0
+"strcpy(dest, src);",1
+if (user_input) { printf(user_input); },1
+"snprintf(dest, sizeof(dest), ""%s"", src);",0
+"memcpy(dst, src, size);",1
+"fgets(buffer, size, stdin);",0
+"scanf(""%s"", buffer);",1
+system(user_input);,1
+"strncpy(dest, src, n);",0
+char buf[10]; gets(buf);,1
+"printf(""Hello, world!\n"");",0
+"strcpy(dest, src);",1
+if (user_input) { printf(user_input); },1
+"snprintf(dest, sizeof(dest), ""%s"", src);",0
+"memcpy(dst, src, size);",1
+"fgets(buffer, size, stdin);",0
+"scanf(""%s"", buffer);",1
+system(user_input);,1
+"strncpy(dest, src, n);",0
+char buf[10]; gets(buf);,1
+"printf(""Hello, world!\n"");",0
+"strcpy(dest, src);",1
+if (user_input) { printf(user_input); },1
+"snprintf(dest, sizeof(dest), ""%s"", src);",0
+"memcpy(dst, src, size);",1
+"fgets(buffer, size, stdin);",0
+"scanf(""%s"", buffer);",1
+system(user_input);,1
+"strncpy(dest, src, n);",0
+char buf[10]; gets(buf);,1
+"printf(""Hello, world!\n"");",0
+"strcpy(dest, src);",1
+if (user_input) { printf(user_input); },1
+"snprintf(dest, sizeof(dest), ""%s"", src);",0
+"memcpy(dst, src, size);",1
+"fgets(buffer, size, stdin);",0
+"scanf(""%s"", buffer);",1
+system(user_input);,1
+"strncpy(dest, src, n);",0
+char buf[10]; gets(buf);,1
+"printf(""Hello, world!\n"");",0
+"strcpy(dest, src);",1
+if (user_input) { printf(user_input); },1
+"snprintf(dest, sizeof(dest), ""%s"", src);",0
+"memcpy(dst, src, size);",1
+"fgets(buffer, size, stdin);",0
+"scanf(""%s"", buffer);",1
+system(user_input);,1
+"strncpy(dest, src, n);",0
+char buf[10]; gets(buf);,1
+"printf(""Hello, world!\n"");",0
+"strcpy(dest, src);",1
+if (user_input) { printf(user_input); },1
+"snprintf(dest, sizeof(dest), ""%s"", src);",0
+"memcpy(dst, src, size);",1
+"fgets(buffer, size, stdin);",0
+"scanf(""%s"", buffer);",1
+system(user_input);,1
+"strncpy(dest, src, n);",0
+char buf[10]; gets(buf);,1
+"printf(""Hello, world!\n"");",0
+"strcpy(dest, src);",1
+if (user_input) { printf(user_input); },1
+"snprintf(dest, sizeof(dest), ""%s"", src);",0
+"memcpy(dst, src, size);",1
+"fgets(buffer, size, stdin);",0
+"scanf(""%s"", buffer);",1
+system(user_input);,1
+"strncpy(dest, src, n);",0
+char buf[10]; gets(buf);,1
+"printf(""Hello, world!\n"");",0
+"strcpy(dest, src);",1
+if (user_input) { printf(user_input); },1
+"snprintf(dest, sizeof(dest), ""%s"", src);",0
+"memcpy(dst, src, size);",1
+"fgets(buffer, size, stdin);",0
+"scanf(""%s"", buffer);",1
+system(user_input);,1
+"strncpy(dest, src, n);",0
+char buf[10]; gets(buf);,1
+"printf(""Hello, world!\n"");",0
+"strcpy(dest, src);",1
+if (user_input) { printf(user_input); },1
+"snprintf(dest, sizeof(dest), ""%s"", src);",0
+"memcpy(dst, src, size);",1
+"fgets(buffer, size, stdin);",0
+"scanf(""%s"", buffer);",1
+system(user_input);,1
+"strncpy(dest, src, n);",0
+char buf[10]; gets(buf);,1
+"printf(""Hello, world!\n"");",0
+"strcpy(dest, src);",1
+if (user_input) { printf(user_input); },1
+"snprintf(dest, sizeof(dest), ""%s"", src);",0
+"memcpy(dst, src, size);",1
+"fgets(buffer, size, stdin);",0
+"scanf(""%s"", buffer);",1
+system(user_input);,1
+"strncpy(dest, src, n);",0
+char buf[10]; gets(buf);,1
+"printf(""Hello, world!\n"");",0
+"strcpy(dest, src);",1
+if (user_input) { printf(user_input); },1
+"snprintf(dest, sizeof(dest), ""%s"", src);",0
+"memcpy(dst, src, size);",1
+"fgets(buffer, size, stdin);",0
+"scanf(""%s"", buffer);",1
+system(user_input);,1
+"strncpy(dest, src, n);",0
+char buf[10]; gets(buf);,1
+"printf(""Hello, world!\n"");",0
+"strcpy(dest, src);",1
+if (user_input) { printf(user_input); },1
+"snprintf(dest, sizeof(dest), ""%s"", src);",0
+"memcpy(dst, src, size);",1
+"fgets(buffer, size, stdin);",0
+"scanf(""%s"", buffer);",1
+system(user_input);,1
+"strncpy(dest, src, n);",0
+char buf[10]; gets(buf);,1
+"printf(""Hello, world!\n"");",0
+"strcpy(dest, src);",1
+if (user_input) { printf(user_input); },1
+"snprintf(dest, sizeof(dest), ""%s"", src);",0
+"memcpy(dst, src, size);",1
+"fgets(buffer, size, stdin);",0
+"scanf(""%s"", buffer);",1
+system(user_input);,1
+"strncpy(dest, src, n);",0
+char buf[10]; gets(buf);,1
+"printf(""Hello, world!\n"");",0
+"strcpy(dest, src);",1
+if (user_input) { printf(user_input); },1
+"snprintf(dest, sizeof(dest), ""%s"", src);",0
+"memcpy(dst, src, size);",1
+"fgets(buffer, size, stdin);",0
+"scanf(""%s"", buffer);",1
+system(user_input);,1
+"strncpy(dest, src, n);",0
+char buf[10]; gets(buf);,1
+"printf(""Hello, world!\n"");",0
+"strcpy(dest, src);",1
+if (user_input) { printf(user_input); },1
+"snprintf(dest, sizeof(dest), ""%s"", src);",0
+"memcpy(dst, src, size);",1
+"fgets(buffer, size, stdin);",0
+"scanf(""%s"", buffer);",1
+system(user_input);,1
+"strncpy(dest, src, n);",0
+char buf[10]; gets(buf);,1
+"printf(""Hello, world!\n"");",0
+"strcpy(dest, src);",1
+if (user_input) { printf(user_input); },1
+"snprintf(dest, sizeof(dest), ""%s"", src);",0
+"memcpy(dst, src, size);",1
+"fgets(buffer, size, stdin);",0
+"scanf(""%s"", buffer);",1
+system(user_input);,1
+"strncpy(dest, src, n);",0
+char buf[10]; gets(buf);,1
+"printf(""Hello, world!\n"");",0
+"strcpy(dest, src);",1
+if (user_input) { printf(user_input); },1
+"snprintf(dest, sizeof(dest), ""%s"", src);",0
+"memcpy(dst, src, size);",1
+"fgets(buffer, size, stdin);",0
+"scanf(""%s"", buffer);",1
+system(user_input);,1
+"strncpy(dest, src, n);",0
+char buf[10]; gets(buf);,1
+"printf(""Hello, world!\n"");",0
+"strcpy(dest, src);",1
+if (user_input) { printf(user_input); },1
+"snprintf(dest, sizeof(dest), ""%s"", src);",0
+"memcpy(dst, src, size);",1
+"fgets(buffer, size, stdin);",0
+"scanf(""%s"", buffer);",1
+system(user_input);,1
+"strncpy(dest, src, n);",0
+char buf[10]; gets(buf);,1
+"printf(""Hello, world!\n"");",0
+"strcpy(dest, src);",1
+if (user_input) { printf(user_input); },1
+"snprintf(dest, sizeof(dest), ""%s"", src);",0
+"memcpy(dst, src, size);",1
+"fgets(buffer, size, stdin);",0
+"scanf(""%s"", buffer);",1
+system(user_input);,1
+"strncpy(dest, src, n);",0
+char buf[10]; gets(buf);,1
+"printf(""Hello, world!\n"");",0
+"strcpy(dest, src);",1
+if (user_input) { printf(user_input); },1
+"snprintf(dest, sizeof(dest), ""%s"", src);",0
+"memcpy(dst, src, size);",1
+"fgets(buffer, size, stdin);",0
+"scanf(""%s"", buffer);",1
+system(user_input);,1
+"strncpy(dest, src, n);",0
+char buf[10]; gets(buf);,1
+"printf(""Hello, world!\n"");",0
+"strcpy(dest, src);",1
+if (user_input) { printf(user_input); },1
+"snprintf(dest, sizeof(dest), ""%s"", src);",0
+"memcpy(dst, src, size);",1
+"fgets(buffer, size, stdin);",0
+"scanf(""%s"", buffer);",1
+system(user_input);,1
+"strncpy(dest, src, n);",0
+char buf[10]; gets(buf);,1
+"printf(""Hello, world!\n"");",0
+"strcpy(dest, src);",1
+if (user_input) { printf(user_input); },1
+"snprintf(dest, sizeof(dest), ""%s"", src);",0
+"memcpy(dst, src, size);",1
+"fgets(buffer, size, stdin);",0
+"scanf(""%s"", buffer);",1
+system(user_input);,1
+"strncpy(dest, src, n);",0
+char buf[10]; gets(buf);,1
+"printf(""Hello, world!\n"");",0
+"strcpy(dest, src);",1
+if (user_input) { printf(user_input); },1
+"snprintf(dest, sizeof(dest), ""%s"", src);",0
+"memcpy(dst, src, size);",1
+"fgets(buffer, size, stdin);",0
+"scanf(""%s"", buffer);",1
+system(user_input);,1
+"strncpy(dest, src, n);",0
+char buf[10]; gets(buf);,1
+"printf(""Hello, world!\n"");",0
+"strcpy(dest, src);",1
+if (user_input) { printf(user_input); },1
+"snprintf(dest, sizeof(dest), ""%s"", src);",0
+"memcpy(dst, src, size);",1
+"fgets(buffer, size, stdin);",0
+"scanf(""%s"", buffer);",1
+system(user_input);,1
+"strncpy(dest, src, n);",0
+char buf[10]; gets(buf);,1
+"printf(""Hello, world!\n"");",0
+"strcpy(dest, src);",1
+if (user_input) { printf(user_input); },1
+"snprintf(dest, sizeof(dest), ""%s"", src);",0
+"memcpy(dst, src, size);",1
+"fgets(buffer, size, stdin);",0
+"scanf(""%s"", buffer);",1
+system(user_input);,1
+"strncpy(dest, src, n);",0
+char buf[10]; gets(buf);,1
+"printf(""Hello, world!\n"");",0
+"strcpy(dest, src);",1
+if (user_input) { printf(user_input); },1
+"snprintf(dest, sizeof(dest), ""%s"", src);",0
+"memcpy(dst, src, size);",1
+"fgets(buffer, size, stdin);",0
+"scanf(""%s"", buffer);",1
+system(user_input);,1
+"strncpy(dest, src, n);",0
+char buf[10]; gets(buf);,1
+"printf(""Hello, world!\n"");",0
+"strcpy(dest, src);",1
+if (user_input) { printf(user_input); },1
+"snprintf(dest, sizeof(dest), ""%s"", src);",0
+"memcpy(dst, src, size);",1
+"fgets(buffer, size, stdin);",0
+"scanf(""%s"", buffer);",1
+system(user_input);,1
+"strncpy(dest, src, n);",0
+char buf[10]; gets(buf);,1
+"printf(""Hello, world!\n"");",0
+"strcpy(dest, src);",1
+if (user_input) { printf(user_input); },1
+"snprintf(dest, sizeof(dest), ""%s"", src);",0
+"memcpy(dst, src, size);",1
+"fgets(buffer, size, stdin);",0
+"scanf(""%s"", buffer);",1
+system(user_input);,1
+"strncpy(dest, src, n);",0
+char buf[10]; gets(buf);,1
+"printf(""Hello, world!\n"");",0
+"strcpy(dest, src);",1
+if (user_input) { printf(user_input); },1
+"snprintf(dest, sizeof(dest), ""%s"", src);",0
+"memcpy(dst, src, size);",1
+"fgets(buffer, size, stdin);",0
+"scanf(""%s"", buffer);",1
+system(user_input);,1
+"strncpy(dest, src, n);",0
+char buf[10]; gets(buf);,1
+"printf(""Hello, world!\n"");",0
+"strcpy(dest, src);",1
+if (user_input) { printf(user_input); },1
+"snprintf(dest, sizeof(dest), ""%s"", src);",0
+"memcpy(dst, src, size);",1
+"fgets(buffer, size, stdin);",0
+"scanf(""%s"", buffer);",1
+system(user_input);,1
+"strncpy(dest, src, n);",0
+char buf[10]; gets(buf);,1
+"printf(""Hello, world!\n"");",0
+"strcpy(dest, src);",1
+if (user_input) { printf(user_input); },1
+"snprintf(dest, sizeof(dest), ""%s"", src);",0
+"memcpy(dst, src, size);",1
+"fgets(buffer, size, stdin);",0
+"scanf(""%s"", buffer);",1
+system(user_input);,1
+"strncpy(dest, src, n);",0
+char buf[10]; gets(buf);,1
+"printf(""Hello, world!\n"");",0
+"strcpy(dest, src);",1
+if (user_input) { printf(user_input); },1
+"snprintf(dest, sizeof(dest), ""%s"", src);",0
+"memcpy(dst, src, size);",1
+"fgets(buffer, size, stdin);",0
+"scanf(""%s"", buffer);",1
+system(user_input);,1
+"strncpy(dest, src, n);",0
+char buf[10]; gets(buf);,1
+"printf(""Hello, world!\n"");",0
+"strcpy(dest, src);",1
+if (user_input) { printf(user_input); },1
+"snprintf(dest, sizeof(dest), ""%s"", src);",0
+"memcpy(dst, src, size);",1
+"fgets(buffer, size, stdin);",0
+"scanf(""%s"", buffer);",1
+system(user_input);,1
+"strncpy(dest, src, n);",0
+char buf[10]; gets(buf);,1
+"printf(""Hello, world!\n"");",0
+"strcpy(dest, src);",1
+if (user_input) { printf(user_input); },1
+"snprintf(dest, sizeof(dest), ""%s"", src);",0
+"memcpy(dst, src, size);",1
+"fgets(buffer, size, stdin);",0
+"scanf(""%s"", buffer);",1
+system(user_input);,1
+"strncpy(dest, src, n);",0
+char buf[10]; gets(buf);,1
+"printf(""Hello, world!\n"");",0
+"strcpy(dest, src);",1
+if (user_input) { printf(user_input); },1
+"snprintf(dest, sizeof(dest), ""%s"", src);",0
+"memcpy(dst, src, size);",1
+"fgets(buffer, size, stdin);",0
+"scanf(""%s"", buffer);",1
+system(user_input);,1
+"strncpy(dest, src, n);",0
+char buf[10]; gets(buf);,1
+"printf(""Hello, world!\n"");",0
+"strcpy(dest, src);",1
+if (user_input) { printf(user_input); },1
+"snprintf(dest, sizeof(dest), ""%s"", src);",0
+"memcpy(dst, src, size);",1
+"fgets(buffer, size, stdin);",0
+"scanf(""%s"", buffer);",1
+system(user_input);,1
+"strncpy(dest, src, n);",0
+char buf[10]; gets(buf);,1
+"printf(""Hello, world!\n"");",0
+"strcpy(dest, src);",1
+if (user_input) { printf(user_input); },1
+"snprintf(dest, sizeof(dest), ""%s"", src);",0
+"memcpy(dst, src, size);",1
+"fgets(buffer, size, stdin);",0
+"scanf(""%s"", buffer);",1
+system(user_input);,1
+"strncpy(dest, src, n);",0
+char buf[10]; gets(buf);,1
+"printf(""Hello, world!\n"");",0
+"strcpy(dest, src);",1
+if (user_input) { printf(user_input); },1
+"snprintf(dest, sizeof(dest), ""%s"", src);",0
+"memcpy(dst, src, size);",1
+"fgets(buffer, size, stdin);",0
+"scanf(""%s"", buffer);",1
+system(user_input);,1
+"strncpy(dest, src, n);",0
+char buf[10]; gets(buf);,1
+"printf(""Hello, world!\n"");",0
+"strcpy(dest, src);",1
+if (user_input) { printf(user_input); },1
+"snprintf(dest, sizeof(dest), ""%s"", src);",0
+"memcpy(dst, src, size);",1
+"fgets(buffer, size, stdin);",0
+"scanf(""%s"", buffer);",1
+system(user_input);,1
+"strncpy(dest, src, n);",0
+char buf[10]; gets(buf);,1
+"printf(""Hello, world!\n"");",0
+"strcpy(dest, src);",1
+if (user_input) { printf(user_input); },1
+"snprintf(dest, sizeof(dest), ""%s"", src);",0
+"memcpy(dst, src, size);",1
+"fgets(buffer, size, stdin);",0
+"scanf(""%s"", buffer);",1
+system(user_input);,1
+"strncpy(dest, src, n);",0
+char buf[10]; gets(buf);,1
+"printf(""Hello, world!\n"");",0
+"strcpy(dest, src);",1
+if (user_input) { printf(user_input); },1
+"snprintf(dest, sizeof(dest), ""%s"", src);",0
+"memcpy(dst, src, size);",1
+"fgets(buffer, size, stdin);",0
+"scanf(""%s"", buffer);",1
+system(user_input);,1
+"strncpy(dest, src, n);",0
+char buf[10]; gets(buf);,1
+"printf(""Hello, world!\n"");",0
+"strcpy(dest, src);",1
+if (user_input) { printf(user_input); },1
+"snprintf(dest, sizeof(dest), ""%s"", src);",0
+"memcpy(dst, src, size);",1
+"fgets(buffer, size, stdin);",0
+"scanf(""%s"", buffer);",1
+system(user_input);,1
+"strncpy(dest, src, n);",0
+char buf[10]; gets(buf);,1
+"printf(""Hello, world!\n"");",0
+"strcpy(dest, src);",1
+if (user_input) { printf(user_input); },1
+"snprintf(dest, sizeof(dest), ""%s"", src);",0
+"memcpy(dst, src, size);",1
+"fgets(buffer, size, stdin);",0
+"scanf(""%s"", buffer);",1
+system(user_input);,1
+"strncpy(dest, src, n);",0
+char buf[10]; gets(buf);,1
+"printf(""Hello, world!\n"");",0
+"strcpy(dest, src);",1
+if (user_input) { printf(user_input); },1
+"snprintf(dest, sizeof(dest), ""%s"", src);",0
+"memcpy(dst, src, size);",1
+"fgets(buffer, size, stdin);",0
+"scanf(""%s"", buffer);",1
+system(user_input);,1
+"strncpy(dest, src, n);",0
+char buf[10]; gets(buf);,1
+"printf(""Hello, world!\n"");",0
+"strcpy(dest, src);",1
+if (user_input) { printf(user_input); },1
+"snprintf(dest, sizeof(dest), ""%s"", src);",0
+"memcpy(dst, src, size);",1
+"fgets(buffer, size, stdin);",0
+"scanf(""%s"", buffer);",1
+system(user_input);,1
+"strncpy(dest, src, n);",0
+char buf[10]; gets(buf);,1
+"printf(""Hello, world!\n"");",0
+"strcpy(dest, src);",1
+if (user_input) { printf(user_input); },1
+"snprintf(dest, sizeof(dest), ""%s"", src);",0
+"memcpy(dst, src, size);",1
+"fgets(buffer, size, stdin);",0
+"scanf(""%s"", buffer);",1
+system(user_input);,1
+"strncpy(dest, src, n);",0
+char buf[10]; gets(buf);,1
+"printf(""Hello, world!\n"");",0
+"strcpy(dest, src);",1
+if (user_input) { printf(user_input); },1
+"snprintf(dest, sizeof(dest), ""%s"", src);",0
+"memcpy(dst, src, size);",1
+"fgets(buffer, size, stdin);",0
+"scanf(""%s"", buffer);",1
+system(user_input);,1
+"strncpy(dest, src, n);",0
+char buf[10]; gets(buf);,1
+"printf(""Hello, world!\n"");",0
+"strcpy(dest, src);",1
+if (user_input) { printf(user_input); },1
+"snprintf(dest, sizeof(dest), ""%s"", src);",0
+"memcpy(dst, src, size);",1
+"fgets(buffer, size, stdin);",0
+"scanf(""%s"", buffer);",1
+system(user_input);,1
+"strncpy(dest, src, n);",0
+char buf[10]; gets(buf);,1
+"printf(""Hello, world!\n"");",0
+"strcpy(dest, src);",1
+if (user_input) { printf(user_input); },1
+"snprintf(dest, sizeof(dest), ""%s"", src);",0
+"memcpy(dst, src, size);",1
+"fgets(buffer, size, stdin);",0
+"scanf(""%s"", buffer);",1
+system(user_input);,1
+"strncpy(dest, src, n);",0
+char buf[10]; gets(buf);,1
+"printf(""Hello, world!\n"");",0
+"strcpy(dest, src);",1
+if (user_input) { printf(user_input); },1
+"snprintf(dest, sizeof(dest), ""%s"", src);",0
+"memcpy(dst, src, size);",1
+"fgets(buffer, size, stdin);",0
+"scanf(""%s"", buffer);",1
+system(user_input);,1
+"strncpy(dest, src, n);",0
+char buf[10]; gets(buf);,1
+"printf(""Hello, world!\n"");",0
+"strcpy(dest, src);",1
+if (user_input) { printf(user_input); },1
+"snprintf(dest, sizeof(dest), ""%s"", src);",0
+"memcpy(dst, src, size);",1
+"fgets(buffer, size, stdin);",0
+"scanf(""%s"", buffer);",1
+system(user_input);,1
+"strncpy(dest, src, n);",0
+char buf[10]; gets(buf);,1
+"printf(""Hello, world!\n"");",0
+"strcpy(dest, src);",1
+if (user_input) { printf(user_input); },1
+"snprintf(dest, sizeof(dest), ""%s"", src);",0
+"memcpy(dst, src, size);",1
+"fgets(buffer, size, stdin);",0
+"scanf(""%s"", buffer);",1
+system(user_input);,1
+"strncpy(dest, src, n);",0
+char buf[10]; gets(buf);,1
+"printf(""Hello, world!\n"");",0
+"strcpy(dest, src);",1
+if (user_input) { printf(user_input); },1
+"snprintf(dest, sizeof(dest), ""%s"", src);",0
+"memcpy(dst, src, size);",1
+"fgets(buffer, size, stdin);",0
+"scanf(""%s"", buffer);",1
+system(user_input);,1
+"strncpy(dest, src, n);",0
+char buf[10]; gets(buf);,1
+"printf(""Hello, world!\n"");",0
+"strcpy(dest, src);",1
+if (user_input) { printf(user_input); },1
+"snprintf(dest, sizeof(dest), ""%s"", src);",0
+"memcpy(dst, src, size);",1
+"fgets(buffer, size, stdin);",0
+"scanf(""%s"", buffer);",1
+system(user_input);,1
+"strncpy(dest, src, n);",0
+char buf[10]; gets(buf);,1
+"printf(""Hello, world!\n"");",0
+"strcpy(dest, src);",1
+if (user_input) { printf(user_input); },1
+"snprintf(dest, sizeof(dest), ""%s"", src);",0
+"memcpy(dst, src, size);",1
+"fgets(buffer, size, stdin);",0
+"scanf(""%s"", buffer);",1
+system(user_input);,1
+"strncpy(dest, src, n);",0
+char buf[10]; gets(buf);,1
+"printf(""Hello, world!\n"");",0
+"strcpy(dest, src);",1
+if (user_input) { printf(user_input); },1
+"snprintf(dest, sizeof(dest), ""%s"", src);",0
+"memcpy(dst, src, size);",1
+"fgets(buffer, size, stdin);",0
+"scanf(""%s"", buffer);",1
+system(user_input);,1
+"strncpy(dest, src, n);",0
+char buf[10]; gets(buf);,1
+"printf(""Hello, world!\n"");",0
+"strcpy(dest, src);",1
+if (user_input) { printf(user_input); },1
+"snprintf(dest, sizeof(dest), ""%s"", src);",0
+"memcpy(dst, src, size);",1
+"fgets(buffer, size, stdin);",0
+"scanf(""%s"", buffer);",1
+system(user_input);,1
+"strncpy(dest, src, n);",0
+char buf[10]; gets(buf);,1
+"printf(""Hello, world!\n"");",0
+"strcpy(dest, src);",1
+if (user_input) { printf(user_input); },1
+"snprintf(dest, sizeof(dest), ""%s"", src);",0
+"memcpy(dst, src, size);",1
+"fgets(buffer, size, stdin);",0
+"scanf(""%s"", buffer);",1
+system(user_input);,1
+"strncpy(dest, src, n);",0
+char buf[10]; gets(buf);,1
+"printf(""Hello, world!\n"");",0
+"strcpy(dest, src);",1
+if (user_input) { printf(user_input); },1
+"snprintf(dest, sizeof(dest), ""%s"", src);",0
+"memcpy(dst, src, size);",1
+"fgets(buffer, size, stdin);",0
+"scanf(""%s"", buffer);",1
+system(user_input);,1
+"strncpy(dest, src, n);",0
+char buf[10]; gets(buf);,1
+"printf(""Hello, world!\n"");",0
+"strcpy(dest, src);",1
+if (user_input) { printf(user_input); },1
+"snprintf(dest, sizeof(dest), ""%s"", src);",0
+"memcpy(dst, src, size);",1
+"fgets(buffer, size, stdin);",0
+"scanf(""%s"", buffer);",1
+system(user_input);,1
+"strncpy(dest, src, n);",0
+char buf[10]; gets(buf);,1
+"printf(""Hello, world!\n"");",0
+"strcpy(dest, src);",1
+if (user_input) { printf(user_input); },1
+"snprintf(dest, sizeof(dest), ""%s"", src);",0
+"memcpy(dst, src, size);",1
+"fgets(buffer, size, stdin);",0
+"scanf(""%s"", buffer);",1
+system(user_input);,1
+"strncpy(dest, src, n);",0
+char buf[10]; gets(buf);,1
+"printf(""Hello, world!\n"");",0
+"strcpy(dest, src);",1
+if (user_input) { printf(user_input); },1
+"snprintf(dest, sizeof(dest), ""%s"", src);",0
+"memcpy(dst, src, size);",1
+"fgets(buffer, size, stdin);",0
+"scanf(""%s"", buffer);",1
+system(user_input);,1
+"strncpy(dest, src, n);",0
+char buf[10]; gets(buf);,1
+"printf(""Hello, world!\n"");",0
+"strcpy(dest, src);",1
+if (user_input) { printf(user_input); },1
+"snprintf(dest, sizeof(dest), ""%s"", src);",0
+"memcpy(dst, src, size);",1
+"fgets(buffer, size, stdin);",0
+"scanf(""%s"", buffer);",1
+system(user_input);,1
+"strncpy(dest, src, n);",0
+char buf[10]; gets(buf);,1
+"printf(""Hello, world!\n"");",0
+"strcpy(dest, src);",1
+if (user_input) { printf(user_input); },1
+"snprintf(dest, sizeof(dest), ""%s"", src);",0
+"memcpy(dst, src, size);",1
+"fgets(buffer, size, stdin);",0
+"scanf(""%s"", buffer);",1
+system(user_input);,1
+"strncpy(dest, src, n);",0
+char buf[10]; gets(buf);,1
+"printf(""Hello, world!\n"");",0
+"strcpy(dest, src);",1
+if (user_input) { printf(user_input); },1
+"snprintf(dest, sizeof(dest), ""%s"", src);",0
+"memcpy(dst, src, size);",1
+"fgets(buffer, size, stdin);",0
+"scanf(""%s"", buffer);",1
+system(user_input);,1
+"strncpy(dest, src, n);",0
+char buf[10]; gets(buf);,1
+"printf(""Hello, world!\n"");",0
+"strcpy(dest, src);",1
+if (user_input) { printf(user_input); },1
+"snprintf(dest, sizeof(dest), ""%s"", src);",0
+"memcpy(dst, src, size);",1
+"fgets(buffer, size, stdin);",0
+"scanf(""%s"", buffer);",1
+system(user_input);,1
+"strncpy(dest, src, n);",0
+char buf[10]; gets(buf);,1
+"printf(""Hello, world!\n"");",0
+"strcpy(dest, src);",1
+if (user_input) { printf(user_input); },1
+"snprintf(dest, sizeof(dest), ""%s"", src);",0
+"memcpy(dst, src, size);",1
+"fgets(buffer, size, stdin);",0
+"scanf(""%s"", buffer);",1
+system(user_input);,1
+"strncpy(dest, src, n);",0
+char buf[10]; gets(buf);,1
+"printf(""Hello, world!\n"");",0
+"strcpy(dest, src);",1
+if (user_input) { printf(user_input); },1
+"snprintf(dest, sizeof(dest), ""%s"", src);",0
+"memcpy(dst, src, size);",1
+"fgets(buffer, size, stdin);",0
+"scanf(""%s"", buffer);",1
+system(user_input);,1
+"strncpy(dest, src, n);",0
+char buf[10]; gets(buf);,1
+"printf(""Hello, world!\n"");",0
+"strcpy(dest, src);",1
+if (user_input) { printf(user_input); },1
+"snprintf(dest, sizeof(dest), ""%s"", src);",0
+"memcpy(dst, src, size);",1
+"fgets(buffer, size, stdin);",0
+"scanf(""%s"", buffer);",1
+system(user_input);,1
+"strncpy(dest, src, n);",0
+char buf[10]; gets(buf);,1
+"printf(""Hello, world!\n"");",0
+"strcpy(dest, src);",1
+if (user_input) { printf(user_input); },1
+"snprintf(dest, sizeof(dest), ""%s"", src);",0
+"memcpy(dst, src, size);",1
+"fgets(buffer, size, stdin);",0
+"scanf(""%s"", buffer);",1
+system(user_input);,1
+"strncpy(dest, src, n);",0
+char buf[10]; gets(buf);,1
+"printf(""Hello, world!\n"");",0
+"strcpy(dest, src);",1
+if (user_input) { printf(user_input); },1
+"snprintf(dest, sizeof(dest), ""%s"", src);",0
+"memcpy(dst, src, size);",1
+"fgets(buffer, size, stdin);",0
+"scanf(""%s"", buffer);",1
+system(user_input);,1
+"strncpy(dest, src, n);",0
+char buf[10]; gets(buf);,1
+"printf(""Hello, world!\n"");",0
+"strcpy(dest, src);",1
+if (user_input) { printf(user_input); },1
+"snprintf(dest, sizeof(dest), ""%s"", src);",0
+"memcpy(dst, src, size);",1
+"fgets(buffer, size, stdin);",0
+"scanf(""%s"", buffer);",1
+system(user_input);,1
+"strncpy(dest, src, n);",0
+char buf[10]; gets(buf);,1
+"printf(""Hello, world!\n"");",0
+"strcpy(dest, src);",1
+if (user_input) { printf(user_input); },1
+"snprintf(dest, sizeof(dest), ""%s"", src);",0
+"memcpy(dst, src, size);",1
+"fgets(buffer, size, stdin);",0
+"scanf(""%s"", buffer);",1
+system(user_input);,1
+"strncpy(dest, src, n);",0
+char buf[10]; gets(buf);,1
+"printf(""Hello, world!\n"");",0
+"strcpy(dest, src);",1
+if (user_input) { printf(user_input); },1
+"snprintf(dest, sizeof(dest), ""%s"", src);",0
+"memcpy(dst, src, size);",1
+"fgets(buffer, size, stdin);",0
+"scanf(""%s"", buffer);",1
+system(user_input);,1
+"strncpy(dest, src, n);",0
+char buf[10]; gets(buf);,1
+"printf(""Hello, world!\n"");",0
+"strcpy(dest, src);",1
+if (user_input) { printf(user_input); },1
+"snprintf(dest, sizeof(dest), ""%s"", src);",0
+"memcpy(dst, src, size);",1
+"fgets(buffer, size, stdin);",0
+"scanf(""%s"", buffer);",1
+system(user_input);,1
+"strncpy(dest, src, n);",0
+char buf[10]; gets(buf);,1
+"printf(""Hello, world!\n"");",0
+"strcpy(dest, src);",1
+if (user_input) { printf(user_input); },1
+"snprintf(dest, sizeof(dest), ""%s"", src);",0
+"memcpy(dst, src, size);",1
+"fgets(buffer, size, stdin);",0
+"scanf(""%s"", buffer);",1
+system(user_input);,1
+"strncpy(dest, src, n);",0
+char buf[10]; gets(buf);,1
+"printf(""Hello, world!\n"");",0
+"strcpy(dest, src);",1
+if (user_input) { printf(user_input); },1
+"snprintf(dest, sizeof(dest), ""%s"", src);",0
+"memcpy(dst, src, size);",1
+"fgets(buffer, size, stdin);",0
+"scanf(""%s"", buffer);",1
+system(user_input);,1
+"strncpy(dest, src, n);",0
+char buf[10]; gets(buf);,1
+"printf(""Hello, world!\n"");",0
+"strcpy(dest, src);",1
+if (user_input) { printf(user_input); },1
+"snprintf(dest, sizeof(dest), ""%s"", src);",0
+"memcpy(dst, src, size);",1
+"fgets(buffer, size, stdin);",0
+"scanf(""%s"", buffer);",1
+system(user_input);,1
+"strncpy(dest, src, n);",0
+char buf[10]; gets(buf);,1
+"printf(""Hello, world!\n"");",0
+"strcpy(dest, src);",1
+if (user_input) { printf(user_input); },1
+"snprintf(dest, sizeof(dest), ""%s"", src);",0
+"memcpy(dst, src, size);",1
+"fgets(buffer, size, stdin);",0
+"scanf(""%s"", buffer);",1
+system(user_input);,1
+"strncpy(dest, src, n);",0
+char buf[10]; gets(buf);,1
+"printf(""Hello, world!\n"");",0
+"strcpy(dest, src);",1
+if (user_input) { printf(user_input); },1
+"snprintf(dest, sizeof(dest), ""%s"", src);",0
+"memcpy(dst, src, size);",1
+"fgets(buffer, size, stdin);",0
+"scanf(""%s"", buffer);",1
+system(user_input);,1
+"strncpy(dest, src, n);",0
+char buf[10]; gets(buf);,1
+"printf(""Hello, world!\n"");",0
+"strcpy(dest, src);",1
+if (user_input) { printf(user_input); },1
+"snprintf(dest, sizeof(dest), ""%s"", src);",0
+"memcpy(dst, src, size);",1
+"fgets(buffer, size, stdin);",0
+"scanf(""%s"", buffer);",1
+system(user_input);,1
+"strncpy(dest, src, n);",0
+char buf[10]; gets(buf);,1
+"printf(""Hello, world!\n"");",0
+"strcpy(dest, src);",1
+if (user_input) { printf(user_input); },1
+"snprintf(dest, sizeof(dest), ""%s"", src);",0
+"memcpy(dst, src, size);",1
+"fgets(buffer, size, stdin);",0
+"scanf(""%s"", buffer);",1
+system(user_input);,1
+"strncpy(dest, src, n);",0
+char buf[10]; gets(buf);,1
+"printf(""Hello, world!\n"");",0
+"strcpy(dest, src);",1
+if (user_input) { printf(user_input); },1
+"snprintf(dest, sizeof(dest), ""%s"", src);",0
+"memcpy(dst, src, size);",1
+"fgets(buffer, size, stdin);",0
+"scanf(""%s"", buffer);",1
+system(user_input);,1
+"strncpy(dest, src, n);",0
+char buf[10]; gets(buf);,1
+"printf(""Hello, world!\n"");",0
+"strcpy(dest, src);",1
+if (user_input) { printf(user_input); },1
+"snprintf(dest, sizeof(dest), ""%s"", src);",0
+"memcpy(dst, src, size);",1
+"fgets(buffer, size, stdin);",0
+"scanf(""%s"", buffer);",1
+system(user_input);,1
+"strncpy(dest, src, n);",0
+char buf[10]; gets(buf);,1
+"printf(""Hello, world!\n"");",0
+"strcpy(dest, src);",1
+if (user_input) { printf(user_input); },1
+"snprintf(dest, sizeof(dest), ""%s"", src);",0
+"memcpy(dst, src, size);",1
+"fgets(buffer, size, stdin);",0
+"scanf(""%s"", buffer);",1
+system(user_input);,1
+"strncpy(dest, src, n);",0
+char buf[10]; gets(buf);,1
+"printf(""Hello, world!\n"");",0
+"strcpy(dest, src);",1
+if (user_input) { printf(user_input); },1
+"snprintf(dest, sizeof(dest), ""%s"", src);",0
+"memcpy(dst, src, size);",1
+"fgets(buffer, size, stdin);",0
+"scanf(""%s"", buffer);",1
+system(user_input);,1
+"strncpy(dest, src, n);",0
+char buf[10]; gets(buf);,1
+"printf(""Hello, world!\n"");",0
+"strcpy(dest, src);",1
+if (user_input) { printf(user_input); },1
+"snprintf(dest, sizeof(dest), ""%s"", src);",0
+"memcpy(dst, src, size);",1
+"fgets(buffer, size, stdin);",0
+"scanf(""%s"", buffer);",1
+system(user_input);,1
+"strncpy(dest, src, n);",0
+char buf[10]; gets(buf);,1
+"printf(""Hello, world!\n"");",0
+"strcpy(dest, src);",1
+if (user_input) { printf(user_input); },1
+"snprintf(dest, sizeof(dest), ""%s"", src);",0
+"memcpy(dst, src, size);",1
+"fgets(buffer, size, stdin);",0
+"scanf(""%s"", buffer);",1
+system(user_input);,1
+"strncpy(dest, src, n);",0
+char buf[10]; gets(buf);,1
+"printf(""Hello, world!\n"");",0
+"strcpy(dest, src);",1
+if (user_input) { printf(user_input); },1
+"snprintf(dest, sizeof(dest), ""%s"", src);",0
+"memcpy(dst, src, size);",1
+"fgets(buffer, size, stdin);",0
+"scanf(""%s"", buffer);",1
+system(user_input);,1
+"strncpy(dest, src, n);",0
+char buf[10]; gets(buf);,1
+"printf(""Hello, world!\n"");",0
+"strcpy(dest, src);",1
+if (user_input) { printf(user_input); },1
+"snprintf(dest, sizeof(dest), ""%s"", src);",0
+"memcpy(dst, src, size);",1
+"fgets(buffer, size, stdin);",0
+"scanf(""%s"", buffer);",1
+system(user_input);,1
+"strncpy(dest, src, n);",0
+char buf[10]; gets(buf);,1
+"printf(""Hello, world!\n"");",0
+"strcpy(dest, src);",1
+if (user_input) { printf(user_input); },1
+"snprintf(dest, sizeof(dest), ""%s"", src);",0
+"memcpy(dst, src, size);",1
+"fgets(buffer, size, stdin);",0
+"scanf(""%s"", buffer);",1
+system(user_input);,1
+"strncpy(dest, src, n);",0
+char buf[10]; gets(buf);,1
+"printf(""Hello, world!\n"");",0
+"strcpy(dest, src);",1
+if (user_input) { printf(user_input); },1
+"snprintf(dest, sizeof(dest), ""%s"", src);",0
+"memcpy(dst, src, size);",1
+"fgets(buffer, size, stdin);",0
+"scanf(""%s"", buffer);",1
+system(user_input);,1
+"strncpy(dest, src, n);",0
+char buf[10]; gets(buf);,1
+"printf(""Hello, world!\n"");",0
+"strcpy(dest, src);",1
+if (user_input) { printf(user_input); },1
+"snprintf(dest, sizeof(dest), ""%s"", src);",0
+"memcpy(dst, src, size);",1
+"fgets(buffer, size, stdin);",0
+"scanf(""%s"", buffer);",1
+system(user_input);,1
+"strncpy(dest, src, n);",0
+char buf[10]; gets(buf);,1
+"printf(""Hello, world!\n"");",0
+"strcpy(dest, src);",1
+if (user_input) { printf(user_input); },1
+"snprintf(dest, sizeof(dest), ""%s"", src);",0
+"memcpy(dst, src, size);",1
+"fgets(buffer, size, stdin);",0
+"scanf(""%s"", buffer);",1
+system(user_input);,1
+"strncpy(dest, src, n);",0
+char buf[10]; gets(buf);,1
+"printf(""Hello, world!\n"");",0
+"strcpy(dest, src);",1
+if (user_input) { printf(user_input); },1
+"snprintf(dest, sizeof(dest), ""%s"", src);",0
+"memcpy(dst, src, size);",1
+"fgets(buffer, size, stdin);",0
+"scanf(""%s"", buffer);",1
+system(user_input);,1
+"strncpy(dest, src, n);",0
+char buf[10]; gets(buf);,1
+"printf(""Hello, world!\n"");",0
+"strcpy(dest, src);",1
+if (user_input) { printf(user_input); },1
+"snprintf(dest, sizeof(dest), ""%s"", src);",0
+"memcpy(dst, src, size);",1
+"fgets(buffer, size, stdin);",0
+"scanf(""%s"", buffer);",1
+system(user_input);,1
+"strncpy(dest, src, n);",0
+char buf[10]; gets(buf);,1
+"printf(""Hello, world!\n"");",0
+"strcpy(dest, src);",1
+if (user_input) { printf(user_input); },1
+"snprintf(dest, sizeof(dest), ""%s"", src);",0
+"memcpy(dst, src, size);",1
+"fgets(buffer, size, stdin);",0
+"scanf(""%s"", buffer);",1
+system(user_input);,1
+"strncpy(dest, src, n);",0
+char buf[10]; gets(buf);,1
+"printf(""Hello, world!\n"");",0
+"strcpy(dest, src);",1
+if (user_input) { printf(user_input); },1
+"snprintf(dest, sizeof(dest), ""%s"", src);",0
+"memcpy(dst, src, size);",1
+"fgets(buffer, size, stdin);",0
+"scanf(""%s"", buffer);",1
+system(user_input);,1
+"strncpy(dest, src, n);",0
+char buf[10]; gets(buf);,1
+"printf(""Hello, world!\n"");",0
+"strcpy(dest, src);",1
+if (user_input) { printf(user_input); },1
+"snprintf(dest, sizeof(dest), ""%s"", src);",0
+"memcpy(dst, src, size);",1
+"fgets(buffer, size, stdin);",0
+"scanf(""%s"", buffer);",1
+system(user_input);,1
+"strncpy(dest, src, n);",0
+char buf[10]; gets(buf);,1
+"printf(""Hello, world!\n"");",0
+"strcpy(dest, src);",1
+if (user_input) { printf(user_input); },1
+"snprintf(dest, sizeof(dest), ""%s"", src);",0
+"memcpy(dst, src, size);",1
+"fgets(buffer, size, stdin);",0
+"scanf(""%s"", buffer);",1
+system(user_input);,1
+"strncpy(dest, src, n);",0
+char buf[10]; gets(buf);,1
+"printf(""Hello, world!\n"");",0
+"strcpy(dest, src);",1
+if (user_input) { printf(user_input); },1
+"snprintf(dest, sizeof(dest), ""%s"", src);",0
+"memcpy(dst, src, size);",1
+"fgets(buffer, size, stdin);",0
+"scanf(""%s"", buffer);",1
+system(user_input);,1
+"strncpy(dest, src, n);",0
+char buf[10]; gets(buf);,1
+"printf(""Hello, world!\n"");",0
+"strcpy(dest, src);",1
+if (user_input) { printf(user_input); },1
+"snprintf(dest, sizeof(dest), ""%s"", src);",0
+"memcpy(dst, src, size);",1
+"fgets(buffer, size, stdin);",0
+"scanf(""%s"", buffer);",1
+system(user_input);,1
+"strncpy(dest, src, n);",0
+char buf[10]; gets(buf);,1
+"printf(""Hello, world!\n"");",0
+"strcpy(dest, src);",1
+if (user_input) { printf(user_input); },1
+"snprintf(dest, sizeof(dest), ""%s"", src);",0
+"memcpy(dst, src, size);",1
+"fgets(buffer, size, stdin);",0
+"scanf(""%s"", buffer);",1
+system(user_input);,1
+"strncpy(dest, src, n);",0
+char buf[10]; gets(buf);,1
+"printf(""Hello, world!\n"");",0
+"strcpy(dest, src);",1
+if (user_input) { printf(user_input); },1
+"snprintf(dest, sizeof(dest), ""%s"", src);",0
+"memcpy(dst, src, size);",1
+"fgets(buffer, size, stdin);",0
+"scanf(""%s"", buffer);",1
+system(user_input);,1
+"strncpy(dest, src, n);",0
+char buf[10]; gets(buf);,1
+"printf(""Hello, world!\n"");",0
+"strcpy(dest, src);",1
+if (user_input) { printf(user_input); },1
+"snprintf(dest, sizeof(dest), ""%s"", src);",0
+"memcpy(dst, src, size);",1
+"fgets(buffer, size, stdin);",0
+"scanf(""%s"", buffer);",1
+system(user_input);,1
+"strncpy(dest, src, n);",0
+char buf[10]; gets(buf);,1
+"printf(""Hello, world!\n"");",0
+"strcpy(dest, src);",1
+if (user_input) { printf(user_input); },1
+"snprintf(dest, sizeof(dest), ""%s"", src);",0
+"memcpy(dst, src, size);",1
+"fgets(buffer, size, stdin);",0
+"scanf(""%s"", buffer);",1
+system(user_input);,1
+"strncpy(dest, src, n);",0
+char buf[10]; gets(buf);,1
+"printf(""Hello, world!\n"");",0
+"strcpy(dest, src);",1
+if (user_input) { printf(user_input); },1
+"snprintf(dest, sizeof(dest), ""%s"", src);",0
+"memcpy(dst, src, size);",1
+"fgets(buffer, size, stdin);",0
+"scanf(""%s"", buffer);",1
+system(user_input);,1
+"strncpy(dest, src, n);",0
+char buf[10]; gets(buf);,1
+"printf(""Hello, world!\n"");",0
+"strcpy(dest, src);",1
+if (user_input) { printf(user_input); },1
+"snprintf(dest, sizeof(dest), ""%s"", src);",0
+"memcpy(dst, src, size);",1
+"fgets(buffer, size, stdin);",0
+"scanf(""%s"", buffer);",1
+system(user_input);,1
+"strncpy(dest, src, n);",0
+char buf[10]; gets(buf);,1
+"printf(""Hello, world!\n"");",0
+"strcpy(dest, src);",1
+if (user_input) { printf(user_input); },1
+"snprintf(dest, sizeof(dest), ""%s"", src);",0
+"memcpy(dst, src, size);",1
+"fgets(buffer, size, stdin);",0
+"scanf(""%s"", buffer);",1
+system(user_input);,1
+"strncpy(dest, src, n);",0
+char buf[10]; gets(buf);,1
+"printf(""Hello, world!\n"");",0
+"strcpy(dest, src);",1
+if (user_input) { printf(user_input); },1
+"snprintf(dest, sizeof(dest), ""%s"", src);",0
+"memcpy(dst, src, size);",1
+"fgets(buffer, size, stdin);",0
+"scanf(""%s"", buffer);",1
+system(user_input);,1
+"strncpy(dest, src, n);",0
+char buf[10]; gets(buf);,1
+"printf(""Hello, world!\n"");",0
+"strcpy(dest, src);",1
+if (user_input) { printf(user_input); },1
+"snprintf(dest, sizeof(dest), ""%s"", src);",0
+"memcpy(dst, src, size);",1
+"fgets(buffer, size, stdin);",0
+"scanf(""%s"", buffer);",1
+system(user_input);,1
+"strncpy(dest, src, n);",0
+char buf[10]; gets(buf);,1
+"printf(""Hello, world!\n"");",0
+"strcpy(dest, src);",1
+if (user_input) { printf(user_input); },1
+"snprintf(dest, sizeof(dest), ""%s"", src);",0
+"memcpy(dst, src, size);",1
+"fgets(buffer, size, stdin);",0
+"scanf(""%s"", buffer);",1
+system(user_input);,1
+"strncpy(dest, src, n);",0
+char buf[10]; gets(buf);,1
+"printf(""Hello, world!\n"");",0
+"strcpy(dest, src);",1
+if (user_input) { printf(user_input); },1
+"snprintf(dest, sizeof(dest), ""%s"", src);",0
+"memcpy(dst, src, size);",1
+"fgets(buffer, size, stdin);",0
+"scanf(""%s"", buffer);",1
+system(user_input);,1
+"strncpy(dest, src, n);",0
+char buf[10]; gets(buf);,1
+"printf(""Hello, world!\n"");",0
+"strcpy(dest, src);",1
+if (user_input) { printf(user_input); },1
+"snprintf(dest, sizeof(dest), ""%s"", src);",0
+"memcpy(dst, src, size);",1
+"fgets(buffer, size, stdin);",0
+"scanf(""%s"", buffer);",1
+system(user_input);,1
+"strncpy(dest, src, n);",0
+char buf[10]; gets(buf);,1
+"printf(""Hello, world!\n"");",0
+"strcpy(dest, src);",1
+if (user_input) { printf(user_input); },1
+"snprintf(dest, sizeof(dest), ""%s"", src);",0
+"memcpy(dst, src, size);",1
+"fgets(buffer, size, stdin);",0
+"scanf(""%s"", buffer);",1
+system(user_input);,1
+"strncpy(dest, src, n);",0
+char buf[10]; gets(buf);,1
+"printf(""Hello, world!\n"");",0
+"strcpy(dest, src);",1
+if (user_input) { printf(user_input); },1
+"snprintf(dest, sizeof(dest), ""%s"", src);",0
+"memcpy(dst, src, size);",1
+"fgets(buffer, size, stdin);",0
+"scanf(""%s"", buffer);",1
+system(user_input);,1
+"strncpy(dest, src, n);",0
+char buf[10]; gets(buf);,1
+"printf(""Hello, world!\n"");",0
+"strcpy(dest, src);",1
+if (user_input) { printf(user_input); },1
+"snprintf(dest, sizeof(dest), ""%s"", src);",0
+"memcpy(dst, src, size);",1
+"fgets(buffer, size, stdin);",0
+"scanf(""%s"", buffer);",1
+system(user_input);,1
+"strncpy(dest, src, n);",0
+char buf[10]; gets(buf);,1
+"printf(""Hello, world!\n"");",0
+"strcpy(dest, src);",1
+if (user_input) { printf(user_input); },1
+"snprintf(dest, sizeof(dest), ""%s"", src);",0
+"memcpy(dst, src, size);",1
+"fgets(buffer, size, stdin);",0
+"scanf(""%s"", buffer);",1
+system(user_input);,1
+"strncpy(dest, src, n);",0
+char buf[10]; gets(buf);,1
+"printf(""Hello, world!\n"");",0
+"strcpy(dest, src);",1
+if (user_input) { printf(user_input); },1
+"snprintf(dest, sizeof(dest), ""%s"", src);",0
+"memcpy(dst, src, size);",1
+"fgets(buffer, size, stdin);",0
+"scanf(""%s"", buffer);",1
+system(user_input);,1
+"strncpy(dest, src, n);",0
+char buf[10]; gets(buf);,1
+"printf(""Hello, world!\n"");",0
+"strcpy(dest, src);",1
+if (user_input) { printf(user_input); },1
+"snprintf(dest, sizeof(dest), ""%s"", src);",0
+"memcpy(dst, src, size);",1
+"fgets(buffer, size, stdin);",0
+"scanf(""%s"", buffer);",1
+system(user_input);,1
+"strncpy(dest, src, n);",0
+char buf[10]; gets(buf);,1
+"printf(""Hello, world!\n"");",0
+"strcpy(dest, src);",1
+if (user_input) { printf(user_input); },1
+"snprintf(dest, sizeof(dest), ""%s"", src);",0
+"memcpy(dst, src, size);",1
+"fgets(buffer, size, stdin);",0
+"scanf(""%s"", buffer);",1
+system(user_input);,1
+"strncpy(dest, src, n);",0
+char buf[10]; gets(buf);,1
+"printf(""Hello, world!\n"");",0
+"strcpy(dest, src);",1
+if (user_input) { printf(user_input); },1
+"snprintf(dest, sizeof(dest), ""%s"", src);",0
+"memcpy(dst, src, size);",1
+"fgets(buffer, size, stdin);",0
+"scanf(""%s"", buffer);",1
+system(user_input);,1
+"strncpy(dest, src, n);",0
+char buf[10]; gets(buf);,1
+"printf(""Hello, world!\n"");",0
+"strcpy(dest, src);",1
+if (user_input) { printf(user_input); },1
+"snprintf(dest, sizeof(dest), ""%s"", src);",0
+"memcpy(dst, src, size);",1
+"fgets(buffer, size, stdin);",0
+"scanf(""%s"", buffer);",1
+system(user_input);,1
+"strncpy(dest, src, n);",0
+char buf[10]; gets(buf);,1
+"printf(""Hello, world!\n"");",0
+"strcpy(dest, src);",1
+if (user_input) { printf(user_input); },1
+"snprintf(dest, sizeof(dest), ""%s"", src);",0
+"memcpy(dst, src, size);",1
+"fgets(buffer, size, stdin);",0
+"scanf(""%s"", buffer);",1
+system(user_input);,1
+"strncpy(dest, src, n);",0
+char buf[10]; gets(buf);,1
+"printf(""Hello, world!\n"");",0
+"strcpy(dest, src);",1
+if (user_input) { printf(user_input); },1
+"snprintf(dest, sizeof(dest), ""%s"", src);",0
+"memcpy(dst, src, size);",1
+"fgets(buffer, size, stdin);",0
+"scanf(""%s"", buffer);",1
+system(user_input);,1
+"strncpy(dest, src, n);",0
+char buf[10]; gets(buf);,1
+"printf(""Hello, world!\n"");",0
+"strcpy(dest, src);",1
+if (user_input) { printf(user_input); },1
+"snprintf(dest, sizeof(dest), ""%s"", src);",0
+"memcpy(dst, src, size);",1
+"fgets(buffer, size, stdin);",0
+"scanf(""%s"", buffer);",1
+system(user_input);,1
+"strncpy(dest, src, n);",0
+char buf[10]; gets(buf);,1
+"printf(""Hello, world!\n"");",0
+"strcpy(dest, src);",1
+if (user_input) { printf(user_input); },1
+"snprintf(dest, sizeof(dest), ""%s"", src);",0
+"memcpy(dst, src, size);",1
+"fgets(buffer, size, stdin);",0
+"scanf(""%s"", buffer);",1
+system(user_input);,1
+"strncpy(dest, src, n);",0
+char buf[10]; gets(buf);,1
+"printf(""Hello, world!\n"");",0
+"strcpy(dest, src);",1
+if (user_input) { printf(user_input); },1
+"snprintf(dest, sizeof(dest), ""%s"", src);",0
+"memcpy(dst, src, size);",1
+"fgets(buffer, size, stdin);",0
+"scanf(""%s"", buffer);",1
+system(user_input);,1
+"strncpy(dest, src, n);",0
+char buf[10]; gets(buf);,1
+"printf(""Hello, world!\n"");",0
+"strcpy(dest, src);",1
+if (user_input) { printf(user_input); },1
+"snprintf(dest, sizeof(dest), ""%s"", src);",0
+"memcpy(dst, src, size);",1
+"fgets(buffer, size, stdin);",0
+"scanf(""%s"", buffer);",1
+system(user_input);,1
+"strncpy(dest, src, n);",0
+char buf[10]; gets(buf);,1
+"printf(""Hello, world!\n"");",0
+"strcpy(dest, src);",1
+if (user_input) { printf(user_input); },1
+"snprintf(dest, sizeof(dest), ""%s"", src);",0
+"memcpy(dst, src, size);",1
+"fgets(buffer, size, stdin);",0
+"scanf(""%s"", buffer);",1
+system(user_input);,1
+"strncpy(dest, src, n);",0
+char buf[10]; gets(buf);,1
+"printf(""Hello, world!\n"");",0
+"strcpy(dest, src);",1
+if (user_input) { printf(user_input); },1
+"snprintf(dest, sizeof(dest), ""%s"", src);",0
+"memcpy(dst, src, size);",1
+"fgets(buffer, size, stdin);",0
+"scanf(""%s"", buffer);",1
+system(user_input);,1
+"strncpy(dest, src, n);",0
+char buf[10]; gets(buf);,1
+"printf(""Hello, world!\n"");",0
+"strcpy(dest, src);",1
+if (user_input) { printf(user_input); },1
+"snprintf(dest, sizeof(dest), ""%s"", src);",0
+"memcpy(dst, src, size);",1
+"fgets(buffer, size, stdin);",0
+"scanf(""%s"", buffer);",1
+system(user_input);,1
+"strncpy(dest, src, n);",0
+char buf[10]; gets(buf);,1
+"printf(""Hello, world!\n"");",0
+"strcpy(dest, src);",1
+if (user_input) { printf(user_input); },1
+"snprintf(dest, sizeof(dest), ""%s"", src);",0
+"memcpy(dst, src, size);",1
+"fgets(buffer, size, stdin);",0
+"scanf(""%s"", buffer);",1
+system(user_input);,1
+"strncpy(dest, src, n);",0
+char buf[10]; gets(buf);,1
+"printf(""Hello, world!\n"");",0
+"strcpy(dest, src);",1
+if (user_input) { printf(user_input); },1
+"snprintf(dest, sizeof(dest), ""%s"", src);",0
+"memcpy(dst, src, size);",1
+"fgets(buffer, size, stdin);",0
+"scanf(""%s"", buffer);",1
+system(user_input);,1
+"strncpy(dest, src, n);",0
+char buf[10]; gets(buf);,1
+"printf(""Hello, world!\n"");",0
+"strcpy(dest, src);",1
+if (user_input) { printf(user_input); },1
+"snprintf(dest, sizeof(dest), ""%s"", src);",0
+"memcpy(dst, src, size);",1
+"fgets(buffer, size, stdin);",0
+"scanf(""%s"", buffer);",1
+system(user_input);,1
+"strncpy(dest, src, n);",0
+char buf[10]; gets(buf);,1
+"printf(""Hello, world!\n"");",0
+"strcpy(dest, src);",1
+if (user_input) { printf(user_input); },1
+"snprintf(dest, sizeof(dest), ""%s"", src);",0
+"memcpy(dst, src, size);",1
+"fgets(buffer, size, stdin);",0
+"scanf(""%s"", buffer);",1
+system(user_input);,1
+"strncpy(dest, src, n);",0
+char buf[10]; gets(buf);,1
+"printf(""Hello, world!\n"");",0
+"strcpy(dest, src);",1
+if (user_input) { printf(user_input); },1
+"snprintf(dest, sizeof(dest), ""%s"", src);",0
+"memcpy(dst, src, size);",1
+"fgets(buffer, size, stdin);",0
+"scanf(""%s"", buffer);",1
+system(user_input);,1
+"strncpy(dest, src, n);",0
+char buf[10]; gets(buf);,1
+"printf(""Hello, world!\n"");",0
+"strcpy(dest, src);",1
+if (user_input) { printf(user_input); },1
+"snprintf(dest, sizeof(dest), ""%s"", src);",0
+"memcpy(dst, src, size);",1
+"fgets(buffer, size, stdin);",0
+"scanf(""%s"", buffer);",1
+system(user_input);,1
+"strncpy(dest, src, n);",0
+char buf[10]; gets(buf);,1
+"printf(""Hello, world!\n"");",0
+"strcpy(dest, src);",1
+if (user_input) { printf(user_input); },1
+"snprintf(dest, sizeof(dest), ""%s"", src);",0
+"memcpy(dst, src, size);",1
+"fgets(buffer, size, stdin);",0
+"scanf(""%s"", buffer);",1
+system(user_input);,1
+"strncpy(dest, src, n);",0
+char buf[10]; gets(buf);,1
+"printf(""Hello, world!\n"");",0
+"strcpy(dest, src);",1
+if (user_input) { printf(user_input); },1
+"snprintf(dest, sizeof(dest), ""%s"", src);",0
+"memcpy(dst, src, size);",1
+"fgets(buffer, size, stdin);",0
+"scanf(""%s"", buffer);",1
+system(user_input);,1
+"strncpy(dest, src, n);",0
+char buf[10]; gets(buf);,1
+"printf(""Hello, world!\n"");",0
+"strcpy(dest, src);",1
+if (user_input) { printf(user_input); },1
+"snprintf(dest, sizeof(dest), ""%s"", src);",0
+"memcpy(dst, src, size);",1
+"fgets(buffer, size, stdin);",0
+"scanf(""%s"", buffer);",1
+system(user_input);,1
+"strncpy(dest, src, n);",0
+char buf[10]; gets(buf);,1
+"printf(""Hello, world!\n"");",0
+"strcpy(dest, src);",1
+if (user_input) { printf(user_input); },1
+"snprintf(dest, sizeof(dest), ""%s"", src);",0
+"memcpy(dst, src, size);",1
+"fgets(buffer, size, stdin);",0
+"scanf(""%s"", buffer);",1
+system(user_input);,1
+"strncpy(dest, src, n);",0
+char buf[10]; gets(buf);,1
+"printf(""Hello, world!\n"");",0
+"strcpy(dest, src);",1
+if (user_input) { printf(user_input); },1
+"snprintf(dest, sizeof(dest), ""%s"", src);",0
+"memcpy(dst, src, size);",1
+"fgets(buffer, size, stdin);",0
+"scanf(""%s"", buffer);",1
+system(user_input);,1
+"strncpy(dest, src, n);",0
+char buf[10]; gets(buf);,1
+"printf(""Hello, world!\n"");",0
+"strcpy(dest, src);",1
+if (user_input) { printf(user_input); },1
+"snprintf(dest, sizeof(dest), ""%s"", src);",0
+"memcpy(dst, src, size);",1
+"fgets(buffer, size, stdin);",0
+"scanf(""%s"", buffer);",1
+system(user_input);,1
+"strncpy(dest, src, n);",0
+char buf[10]; gets(buf);,1
+"printf(""Hello, world!\n"");",0
+"strcpy(dest, src);",1
+if (user_input) { printf(user_input); },1
+"snprintf(dest, sizeof(dest), ""%s"", src);",0
+"memcpy(dst, src, size);",1
+"fgets(buffer, size, stdin);",0
+"scanf(""%s"", buffer);",1
+system(user_input);,1
+"strncpy(dest, src, n);",0
+char buf[10]; gets(buf);,1
+"printf(""Hello, world!\n"");",0
+"strcpy(dest, src);",1
+if (user_input) { printf(user_input); },1
+"snprintf(dest, sizeof(dest), ""%s"", src);",0
+"memcpy(dst, src, size);",1
+"fgets(buffer, size, stdin);",0
+"scanf(""%s"", buffer);",1
+system(user_input);,1
+"strncpy(dest, src, n);",0
+char buf[10]; gets(buf);,1
+"printf(""Hello, world!\n"");",0
+"strcpy(dest, src);",1
+if (user_input) { printf(user_input); },1
+"snprintf(dest, sizeof(dest), ""%s"", src);",0
+"memcpy(dst, src, size);",1
+"fgets(buffer, size, stdin);",0
+"scanf(""%s"", buffer);",1
+system(user_input);,1
+"strncpy(dest, src, n);",0
+char buf[10]; gets(buf);,1
+"printf(""Hello, world!\n"");",0
+"strcpy(dest, src);",1
+if (user_input) { printf(user_input); },1
+"snprintf(dest, sizeof(dest), ""%s"", src);",0
+"memcpy(dst, src, size);",1
+"fgets(buffer, size, stdin);",0
+"scanf(""%s"", buffer);",1
+system(user_input);,1
+"strncpy(dest, src, n);",0
+char buf[10]; gets(buf);,1
+"printf(""Hello, world!\n"");",0
+"strcpy(dest, src);",1
+if (user_input) { printf(user_input); },1
+"snprintf(dest, sizeof(dest), ""%s"", src);",0
+"memcpy(dst, src, size);",1
+"fgets(buffer, size, stdin);",0
+"scanf(""%s"", buffer);",1
+system(user_input);,1
+"strncpy(dest, src, n);",0
+char buf[10]; gets(buf);,1
+"printf(""Hello, world!\n"");",0
+"strcpy(dest, src);",1
+if (user_input) { printf(user_input); },1
+"snprintf(dest, sizeof(dest), ""%s"", src);",0
+"memcpy(dst, src, size);",1
+"fgets(buffer, size, stdin);",0
+"scanf(""%s"", buffer);",1
+system(user_input);,1
+"strncpy(dest, src, n);",0
+char buf[10]; gets(buf);,1
+"printf(""Hello, world!\n"");",0
+"strcpy(dest, src);",1
+if (user_input) { printf(user_input); },1
+"snprintf(dest, sizeof(dest), ""%s"", src);",0
+"memcpy(dst, src, size);",1
+"fgets(buffer, size, stdin);",0
+"scanf(""%s"", buffer);",1
+system(user_input);,1
+"strncpy(dest, src, n);",0
+char buf[10]; gets(buf);,1
+"printf(""Hello, world!\n"");",0
+"strcpy(dest, src);",1
+if (user_input) { printf(user_input); },1
+"snprintf(dest, sizeof(dest), ""%s"", src);",0
+"memcpy(dst, src, size);",1
+"fgets(buffer, size, stdin);",0
+"scanf(""%s"", buffer);",1
+system(user_input);,1
+"strncpy(dest, src, n);",0
+char buf[10]; gets(buf);,1
+"printf(""Hello, world!\n"");",0
+"strcpy(dest, src);",1
+if (user_input) { printf(user_input); },1
+"snprintf(dest, sizeof(dest), ""%s"", src);",0
+"memcpy(dst, src, size);",1
+"fgets(buffer, size, stdin);",0
+"scanf(""%s"", buffer);",1
+system(user_input);,1
+"strncpy(dest, src, n);",0
+char buf[10]; gets(buf);,1
+"printf(""Hello, world!\n"");",0
+"strcpy(dest, src);",1
+if (user_input) { printf(user_input); },1
+"snprintf(dest, sizeof(dest), ""%s"", src);",0
+"memcpy(dst, src, size);",1
+"fgets(buffer, size, stdin);",0
+"scanf(""%s"", buffer);",1
+system(user_input);,1
+"strncpy(dest, src, n);",0
+char buf[10]; gets(buf);,1
+"printf(""Hello, world!\n"");",0
+"strcpy(dest, src);",1
+if (user_input) { printf(user_input); },1
+"snprintf(dest, sizeof(dest), ""%s"", src);",0
+"memcpy(dst, src, size);",1
+"fgets(buffer, size, stdin);",0
+"scanf(""%s"", buffer);",1
+system(user_input);,1
+"strncpy(dest, src, n);",0
+char buf[10]; gets(buf);,1
+"printf(""Hello, world!\n"");",0
+"strcpy(dest, src);",1
+if (user_input) { printf(user_input); },1
+"snprintf(dest, sizeof(dest), ""%s"", src);",0
+"memcpy(dst, src, size);",1
+"fgets(buffer, size, stdin);",0
+"scanf(""%s"", buffer);",1
+system(user_input);,1
+"strncpy(dest, src, n);",0
+char buf[10]; gets(buf);,1
+"printf(""Hello, world!\n"");",0
+"strcpy(dest, src);",1
+if (user_input) { printf(user_input); },1
+"snprintf(dest, sizeof(dest), ""%s"", src);",0
+"memcpy(dst, src, size);",1
+"fgets(buffer, size, stdin);",0
+"scanf(""%s"", buffer);",1
+system(user_input);,1
+"strncpy(dest, src, n);",0
+char buf[10]; gets(buf);,1
+"printf(""Hello, world!\n"");",0
+"strcpy(dest, src);",1
+if (user_input) { printf(user_input); },1
+"snprintf(dest, sizeof(dest), ""%s"", src);",0
+"memcpy(dst, src, size);",1
+"fgets(buffer, size, stdin);",0
+"scanf(""%s"", buffer);",1
+system(user_input);,1
+"strncpy(dest, src, n);",0
+char buf[10]; gets(buf);,1
+"printf(""Hello, world!\n"");",0
+"strcpy(dest, src);",1
+if (user_input) { printf(user_input); },1
+"snprintf(dest, sizeof(dest), ""%s"", src);",0
+"memcpy(dst, src, size);",1
+"fgets(buffer, size, stdin);",0
+"scanf(""%s"", buffer);",1
+system(user_input);,1
+"strncpy(dest, src, n);",0
+char buf[10]; gets(buf);,1
+"printf(""Hello, world!\n"");",0
+"strcpy(dest, src);",1
+if (user_input) { printf(user_input); },1
+"snprintf(dest, sizeof(dest), ""%s"", src);",0
+"memcpy(dst, src, size);",1
+"fgets(buffer, size, stdin);",0
+"scanf(""%s"", buffer);",1
+system(user_input);,1
+"strncpy(dest, src, n);",0
+char buf[10]; gets(buf);,1
+"printf(""Hello, world!\n"");",0
+"strcpy(dest, src);",1
+if (user_input) { printf(user_input); },1
+"snprintf(dest, sizeof(dest), ""%s"", src);",0
+"memcpy(dst, src, size);",1
+"fgets(buffer, size, stdin);",0
+"scanf(""%s"", buffer);",1
+system(user_input);,1
+"strncpy(dest, src, n);",0
+char buf[10]; gets(buf);,1
+"printf(""Hello, world!\n"");",0
+"strcpy(dest, src);",1
+if (user_input) { printf(user_input); },1
+"snprintf(dest, sizeof(dest), ""%s"", src);",0
+"memcpy(dst, src, size);",1
+"fgets(buffer, size, stdin);",0
+"scanf(""%s"", buffer);",1
+system(user_input);,1
+"strncpy(dest, src, n);",0
+char buf[10]; gets(buf);,1
+"printf(""Hello, world!\n"");",0
+"strcpy(dest, src);",1
+if (user_input) { printf(user_input); },1
+"snprintf(dest, sizeof(dest), ""%s"", src);",0
+"memcpy(dst, src, size);",1
+"fgets(buffer, size, stdin);",0
+"scanf(""%s"", buffer);",1
+system(user_input);,1
+"strncpy(dest, src, n);",0
+char buf[10]; gets(buf);,1
+"printf(""Hello, world!\n"");",0
+"strcpy(dest, src);",1
+if (user_input) { printf(user_input); },1
+"snprintf(dest, sizeof(dest), ""%s"", src);",0
+"memcpy(dst, src, size);",1
+"fgets(buffer, size, stdin);",0
+"scanf(""%s"", buffer);",1
+system(user_input);,1
+"strncpy(dest, src, n);",0
+char buf[10]; gets(buf);,1
+"printf(""Hello, world!\n"");",0
+"strcpy(dest, src);",1
+if (user_input) { printf(user_input); },1
+"snprintf(dest, sizeof(dest), ""%s"", src);",0
+"memcpy(dst, src, size);",1
+"fgets(buffer, size, stdin);",0
+"scanf(""%s"", buffer);",1
+system(user_input);,1
+"strncpy(dest, src, n);",0
+char buf[10]; gets(buf);,1
+"printf(""Hello, world!\n"");",0
+"strcpy(dest, src);",1
+if (user_input) { printf(user_input); },1
+"snprintf(dest, sizeof(dest), ""%s"", src);",0
+"memcpy(dst, src, size);",1
+"fgets(buffer, size, stdin);",0
+"scanf(""%s"", buffer);",1
+system(user_input);,1
+"strncpy(dest, src, n);",0
+char buf[10]; gets(buf);,1
+"printf(""Hello, world!\n"");",0
+"strcpy(dest, src);",1
+if (user_input) { printf(user_input); },1
+"snprintf(dest, sizeof(dest), ""%s"", src);",0
+"memcpy(dst, src, size);",1
+"fgets(buffer, size, stdin);",0
+"scanf(""%s"", buffer);",1
+system(user_input);,1
+"strncpy(dest, src, n);",0
+char buf[10]; gets(buf);,1
+"printf(""Hello, world!\n"");",0
+"strcpy(dest, src);",1
+if (user_input) { printf(user_input); },1
+"snprintf(dest, sizeof(dest), ""%s"", src);",0
+"memcpy(dst, src, size);",1
+"fgets(buffer, size, stdin);",0
+"scanf(""%s"", buffer);",1
+system(user_input);,1
+"strncpy(dest, src, n);",0
+char buf[10]; gets(buf);,1
+"printf(""Hello, world!\n"");",0
+"strcpy(dest, src);",1
+if (user_input) { printf(user_input); },1
+"snprintf(dest, sizeof(dest), ""%s"", src);",0
+"memcpy(dst, src, size);",1
+"fgets(buffer, size, stdin);",0
+"scanf(""%s"", buffer);",1
+system(user_input);,1
+"strncpy(dest, src, n);",0
+char buf[10]; gets(buf);,1
+"printf(""Hello, world!\n"");",0
+"strcpy(dest, src);",1
+if (user_input) { printf(user_input); },1
+"snprintf(dest, sizeof(dest), ""%s"", src);",0
+"memcpy(dst, src, size);",1
+"fgets(buffer, size, stdin);",0
+"scanf(""%s"", buffer);",1
+system(user_input);,1
+"strncpy(dest, src, n);",0
+char buf[10]; gets(buf);,1
+"printf(""Hello, world!\n"");",0
+"strcpy(dest, src);",1
+if (user_input) { printf(user_input); },1
+"snprintf(dest, sizeof(dest), ""%s"", src);",0
+"memcpy(dst, src, size);",1
+"fgets(buffer, size, stdin);",0
+"scanf(""%s"", buffer);",1
+system(user_input);,1
+"strncpy(dest, src, n);",0
+char buf[10]; gets(buf);,1
+"printf(""Hello, world!\n"");",0
+"strcpy(dest, src);",1
+if (user_input) { printf(user_input); },1
+"snprintf(dest, sizeof(dest), ""%s"", src);",0
+"memcpy(dst, src, size);",1
+"fgets(buffer, size, stdin);",0
+"scanf(""%s"", buffer);",1
+system(user_input);,1
+"strncpy(dest, src, n);",0
+char buf[10]; gets(buf);,1
+"printf(""Hello, world!\n"");",0
+"strcpy(dest, src);",1
+if (user_input) { printf(user_input); },1
+"snprintf(dest, sizeof(dest), ""%s"", src);",0
+"memcpy(dst, src, size);",1
+"fgets(buffer, size, stdin);",0
+"scanf(""%s"", buffer);",1
+system(user_input);,1
+"strncpy(dest, src, n);",0
+char buf[10]; gets(buf);,1
+"printf(""Hello, world!\n"");",0
+"strcpy(dest, src);",1
+if (user_input) { printf(user_input); },1
+"snprintf(dest, sizeof(dest), ""%s"", src);",0
+"memcpy(dst, src, size);",1
+"fgets(buffer, size, stdin);",0
+"scanf(""%s"", buffer);",1
+system(user_input);,1
+"strncpy(dest, src, n);",0
+char buf[10]; gets(buf);,1
+"printf(""Hello, world!\n"");",0
+"strcpy(dest, src);",1
+if (user_input) { printf(user_input); },1
+"snprintf(dest, sizeof(dest), ""%s"", src);",0
+"memcpy(dst, src, size);",1
+"fgets(buffer, size, stdin);",0
+"scanf(""%s"", buffer);",1
+system(user_input);,1
+"strncpy(dest, src, n);",0
+char buf[10]; gets(buf);,1
+"printf(""Hello, world!\n"");",0
+"strcpy(dest, src);",1
+if (user_input) { printf(user_input); },1
+"snprintf(dest, sizeof(dest), ""%s"", src);",0
+"memcpy(dst, src, size);",1
+"fgets(buffer, size, stdin);",0
+"scanf(""%s"", buffer);",1
+system(user_input);,1
+"strncpy(dest, src, n);",0
+char buf[10]; gets(buf);,1
+"printf(""Hello, world!\n"");",0
+"strcpy(dest, src);",1
+if (user_input) { printf(user_input); },1
+"snprintf(dest, sizeof(dest), ""%s"", src);",0
+"memcpy(dst, src, size);",1
+"fgets(buffer, size, stdin);",0
+"scanf(""%s"", buffer);",1
+system(user_input);,1
+"strncpy(dest, src, n);",0
+char buf[10]; gets(buf);,1
+"printf(""Hello, world!\n"");",0
+"strcpy(dest, src);",1
+if (user_input) { printf(user_input); },1
+"snprintf(dest, sizeof(dest), ""%s"", src);",0
+"memcpy(dst, src, size);",1
+"fgets(buffer, size, stdin);",0
+"scanf(""%s"", buffer);",1
+system(user_input);,1
+"strncpy(dest, src, n);",0
+char buf[10]; gets(buf);,1
+"printf(""Hello, world!\n"");",0
+"strcpy(dest, src);",1
+if (user_input) { printf(user_input); },1
+"snprintf(dest, sizeof(dest), ""%s"", src);",0
+"memcpy(dst, src, size);",1
+"fgets(buffer, size, stdin);",0
+"scanf(""%s"", buffer);",1
+system(user_input);,1
+"strncpy(dest, src, n);",0
+char buf[10]; gets(buf);,1
+"printf(""Hello, world!\n"");",0
+"strcpy(dest, src);",1
+if (user_input) { printf(user_input); },1
+"snprintf(dest, sizeof(dest), ""%s"", src);",0
+"memcpy(dst, src, size);",1
+"fgets(buffer, size, stdin);",0
+"scanf(""%s"", buffer);",1
+system(user_input);,1
+"strncpy(dest, src, n);",0
+char buf[10]; gets(buf);,1
+"printf(""Hello, world!\n"");",0
+"strcpy(dest, src);",1
+if (user_input) { printf(user_input); },1
+"snprintf(dest, sizeof(dest), ""%s"", src);",0
+"memcpy(dst, src, size);",1
+"fgets(buffer, size, stdin);",0
+"scanf(""%s"", buffer);",1
+system(user_input);,1
+"strncpy(dest, src, n);",0
+char buf[10]; gets(buf);,1
+"printf(""Hello, world!\n"");",0
+"strcpy(dest, src);",1
+if (user_input) { printf(user_input); },1
+"snprintf(dest, sizeof(dest), ""%s"", src);",0
+"memcpy(dst, src, size);",1
+"fgets(buffer, size, stdin);",0
+"scanf(""%s"", buffer);",1
+system(user_input);,1
+"strncpy(dest, src, n);",0
+char buf[10]; gets(buf);,1
+"printf(""Hello, world!\n"");",0
+"strcpy(dest, src);",1
+if (user_input) { printf(user_input); },1
+"snprintf(dest, sizeof(dest), ""%s"", src);",0
+"memcpy(dst, src, size);",1
+"fgets(buffer, size, stdin);",0
+"scanf(""%s"", buffer);",1
+system(user_input);,1
+"strncpy(dest, src, n);",0
+char buf[10]; gets(buf);,1
+"printf(""Hello, world!\n"");",0
+"strcpy(dest, src);",1
+if (user_input) { printf(user_input); },1
+"snprintf(dest, sizeof(dest), ""%s"", src);",0
+"memcpy(dst, src, size);",1
+"fgets(buffer, size, stdin);",0
+"scanf(""%s"", buffer);",1
+system(user_input);,1
+"strncpy(dest, src, n);",0
+char buf[10]; gets(buf);,1
+"printf(""Hello, world!\n"");",0
+"strcpy(dest, src);",1
+if (user_input) { printf(user_input); },1
+"snprintf(dest, sizeof(dest), ""%s"", src);",0
+"memcpy(dst, src, size);",1
+"fgets(buffer, size, stdin);",0
+"scanf(""%s"", buffer);",1
+system(user_input);,1
+"strncpy(dest, src, n);",0
+char buf[10]; gets(buf);,1
+"printf(""Hello, world!\n"");",0
+"strcpy(dest, src);",1
+if (user_input) { printf(user_input); },1
+"snprintf(dest, sizeof(dest), ""%s"", src);",0
+"memcpy(dst, src, size);",1
+"fgets(buffer, size, stdin);",0
+"scanf(""%s"", buffer);",1
+system(user_input);,1
+"strncpy(dest, src, n);",0
+char buf[10]; gets(buf);,1
+"printf(""Hello, world!\n"");",0
+"strcpy(dest, src);",1
+if (user_input) { printf(user_input); },1
+"snprintf(dest, sizeof(dest), ""%s"", src);",0
+"memcpy(dst, src, size);",1
+"fgets(buffer, size, stdin);",0
+"scanf(""%s"", buffer);",1
+system(user_input);,1
+"strncpy(dest, src, n);",0
+char buf[10]; gets(buf);,1
+"printf(""Hello, world!\n"");",0
+"strcpy(dest, src);",1
+if (user_input) { printf(user_input); },1
+"snprintf(dest, sizeof(dest), ""%s"", src);",0
+"memcpy(dst, src, size);",1
+"fgets(buffer, size, stdin);",0
+"scanf(""%s"", buffer);",1
+system(user_input);,1
+"strncpy(dest, src, n);",0
+char buf[10]; gets(buf);,1
+"printf(""Hello, world!\n"");",0
+"strcpy(dest, src);",1
+if (user_input) { printf(user_input); },1
+"snprintf(dest, sizeof(dest), ""%s"", src);",0
+"memcpy(dst, src, size);",1
+"fgets(buffer, size, stdin);",0
+"scanf(""%s"", buffer);",1
+system(user_input);,1
+"strncpy(dest, src, n);",0
+char buf[10]; gets(buf);,1
+"printf(""Hello, world!\n"");",0
+"strcpy(dest, src);",1
+if (user_input) { printf(user_input); },1
+"snprintf(dest, sizeof(dest), ""%s"", src);",0
+"memcpy(dst, src, size);",1
+"fgets(buffer, size, stdin);",0
+"scanf(""%s"", buffer);",1
+system(user_input);,1
+"strncpy(dest, src, n);",0
+char buf[10]; gets(buf);,1
+"printf(""Hello, world!\n"");",0
+"strcpy(dest, src);",1
+if (user_input) { printf(user_input); },1
+"snprintf(dest, sizeof(dest), ""%s"", src);",0
+"memcpy(dst, src, size);",1
+"fgets(buffer, size, stdin);",0
+"scanf(""%s"", buffer);",1
+system(user_input);,1
+"strncpy(dest, src, n);",0
+char buf[10]; gets(buf);,1
+"printf(""Hello, world!\n"");",0
+"strcpy(dest, src);",1
+if (user_input) { printf(user_input); },1
+"snprintf(dest, sizeof(dest), ""%s"", src);",0
+"memcpy(dst, src, size);",1
+"fgets(buffer, size, stdin);",0
+"scanf(""%s"", buffer);",1
+system(user_input);,1
+"strncpy(dest, src, n);",0
+char buf[10]; gets(buf);,1
+"printf(""Hello, world!\n"");",0
+"strcpy(dest, src);",1
+if (user_input) { printf(user_input); },1
+"snprintf(dest, sizeof(dest), ""%s"", src);",0
+"memcpy(dst, src, size);",1
+"fgets(buffer, size, stdin);",0
+"scanf(""%s"", buffer);",1
+system(user_input);,1
+"strncpy(dest, src, n);",0
+char buf[10]; gets(buf);,1
+"printf(""Hello, world!\n"");",0
+"strcpy(dest, src);",1
+if (user_input) { printf(user_input); },1
+"snprintf(dest, sizeof(dest), ""%s"", src);",0
+"memcpy(dst, src, size);",1
+"fgets(buffer, size, stdin);",0
+"scanf(""%s"", buffer);",1
+system(user_input);,1
+"strncpy(dest, src, n);",0
+char buf[10]; gets(buf);,1
+"printf(""Hello, world!\n"");",0
+"strcpy(dest, src);",1
+if (user_input) { printf(user_input); },1
+"snprintf(dest, sizeof(dest), ""%s"", src);",0
+"memcpy(dst, src, size);",1
+"fgets(buffer, size, stdin);",0
+"scanf(""%s"", buffer);",1
+system(user_input);,1
+"strncpy(dest, src, n);",0
+char buf[10]; gets(buf);,1
+"printf(""Hello, world!\n"");",0
+"strcpy(dest, src);",1
+if (user_input) { printf(user_input); },1
+"snprintf(dest, sizeof(dest), ""%s"", src);",0
+"memcpy(dst, src, size);",1
+"fgets(buffer, size, stdin);",0
+"scanf(""%s"", buffer);",1
+system(user_input);,1
+"strncpy(dest, src, n);",0
+char buf[10]; gets(buf);,1
+"printf(""Hello, world!\n"");",0
+"strcpy(dest, src);",1
+if (user_input) { printf(user_input); },1
+"snprintf(dest, sizeof(dest), ""%s"", src);",0
+"memcpy(dst, src, size);",1
+"fgets(buffer, size, stdin);",0
+"scanf(""%s"", buffer);",1
+system(user_input);,1
+"strncpy(dest, src, n);",0
+char buf[10]; gets(buf);,1
+"printf(""Hello, world!\n"");",0
+"strcpy(dest, src);",1
+if (user_input) { printf(user_input); },1
+"snprintf(dest, sizeof(dest), ""%s"", src);",0
+"memcpy(dst, src, size);",1
+"fgets(buffer, size, stdin);",0
+"scanf(""%s"", buffer);",1
+system(user_input);,1
+"strncpy(dest, src, n);",0
+char buf[10]; gets(buf);,1
+"printf(""Hello, world!\n"");",0
+"strcpy(dest, src);",1
+if (user_input) { printf(user_input); },1
+"snprintf(dest, sizeof(dest), ""%s"", src);",0
+"memcpy(dst, src, size);",1
+"fgets(buffer, size, stdin);",0
+"scanf(""%s"", buffer);",1
+system(user_input);,1
+"strncpy(dest, src, n);",0
+char buf[10]; gets(buf);,1
+"printf(""Hello, world!\n"");",0
+"strcpy(dest, src);",1
+if (user_input) { printf(user_input); },1
+"snprintf(dest, sizeof(dest), ""%s"", src);",0
+"memcpy(dst, src, size);",1
+"fgets(buffer, size, stdin);",0
+"scanf(""%s"", buffer);",1
+system(user_input);,1
+"strncpy(dest, src, n);",0
+char buf[10]; gets(buf);,1
+"printf(""Hello, world!\n"");",0
+"strcpy(dest, src);",1
+if (user_input) { printf(user_input); },1
+"snprintf(dest, sizeof(dest), ""%s"", src);",0
+"memcpy(dst, src, size);",1
+"fgets(buffer, size, stdin);",0
+"scanf(""%s"", buffer);",1
+system(user_input);,1
+"strncpy(dest, src, n);",0
+char buf[10]; gets(buf);,1
+"printf(""Hello, world!\n"");",0
+"strcpy(dest, src);",1
+if (user_input) { printf(user_input); },1
+"snprintf(dest, sizeof(dest), ""%s"", src);",0
+"memcpy(dst, src, size);",1
+"fgets(buffer, size, stdin);",0
+"scanf(""%s"", buffer);",1
+system(user_input);,1
+"strncpy(dest, src, n);",0
+char buf[10]; gets(buf);,1
+"printf(""Hello, world!\n"");",0
+"strcpy(dest, src);",1
+if (user_input) { printf(user_input); },1
+"snprintf(dest, sizeof(dest), ""%s"", src);",0
+"memcpy(dst, src, size);",1
+"fgets(buffer, size, stdin);",0
+"scanf(""%s"", buffer);",1
+system(user_input);,1
+"strncpy(dest, src, n);",0
+char buf[10]; gets(buf);,1
+"printf(""Hello, world!\n"");",0
+"strcpy(dest, src);",1
+if (user_input) { printf(user_input); },1
+"snprintf(dest, sizeof(dest), ""%s"", src);",0
+"memcpy(dst, src, size);",1
+"fgets(buffer, size, stdin);",0
+"scanf(""%s"", buffer);",1
+system(user_input);,1
+"strncpy(dest, src, n);",0
+char buf[10]; gets(buf);,1
+"printf(""Hello, world!\n"");",0
+"strcpy(dest, src);",1
+if (user_input) { printf(user_input); },1
+"snprintf(dest, sizeof(dest), ""%s"", src);",0
+"memcpy(dst, src, size);",1
+"fgets(buffer, size, stdin);",0
+"scanf(""%s"", buffer);",1
+system(user_input);,1
+"strncpy(dest, src, n);",0
+char buf[10]; gets(buf);,1
+"printf(""Hello, world!\n"");",0
+"strcpy(dest, src);",1
+if (user_input) { printf(user_input); },1
+"snprintf(dest, sizeof(dest), ""%s"", src);",0
+"memcpy(dst, src, size);",1
+"fgets(buffer, size, stdin);",0
+"scanf(""%s"", buffer);",1
+system(user_input);,1
+"strncpy(dest, src, n);",0
+char buf[10]; gets(buf);,1
+"printf(""Hello, world!\n"");",0
+"strcpy(dest, src);",1
+if (user_input) { printf(user_input); },1
+"snprintf(dest, sizeof(dest), ""%s"", src);",0
+"memcpy(dst, src, size);",1
+"fgets(buffer, size, stdin);",0
+"scanf(""%s"", buffer);",1
+system(user_input);,1
+"strncpy(dest, src, n);",0
+char buf[10]; gets(buf);,1
+"printf(""Hello, world!\n"");",0
+"strcpy(dest, src);",1
+if (user_input) { printf(user_input); },1
+"snprintf(dest, sizeof(dest), ""%s"", src);",0
+"memcpy(dst, src, size);",1
+"fgets(buffer, size, stdin);",0
+"scanf(""%s"", buffer);",1
+system(user_input);,1
+"strncpy(dest, src, n);",0
+char buf[10]; gets(buf);,1
+"printf(""Hello, world!\n"");",0
+"strcpy(dest, src);",1
+if (user_input) { printf(user_input); },1
+"snprintf(dest, sizeof(dest), ""%s"", src);",0
+"memcpy(dst, src, size);",1
+"fgets(buffer, size, stdin);",0
+"scanf(""%s"", buffer);",1
+system(user_input);,1
+"strncpy(dest, src, n);",0
+char buf[10]; gets(buf);,1
+"printf(""Hello, world!\n"");",0
+"strcpy(dest, src);",1
+if (user_input) { printf(user_input); },1
+"snprintf(dest, sizeof(dest), ""%s"", src);",0
+"memcpy(dst, src, size);",1
+"fgets(buffer, size, stdin);",0
+"scanf(""%s"", buffer);",1
+system(user_input);,1
+"strncpy(dest, src, n);",0
+char buf[10]; gets(buf);,1
+"printf(""Hello, world!\n"");",0
+"strcpy(dest, src);",1
+if (user_input) { printf(user_input); },1
+"snprintf(dest, sizeof(dest), ""%s"", src);",0
+"memcpy(dst, src, size);",1
+"fgets(buffer, size, stdin);",0
+"scanf(""%s"", buffer);",1
+system(user_input);,1
+"strncpy(dest, src, n);",0
+char buf[10]; gets(buf);,1
+"printf(""Hello, world!\n"");",0
+"strcpy(dest, src);",1
+if (user_input) { printf(user_input); },1
+"snprintf(dest, sizeof(dest), ""%s"", src);",0
+"memcpy(dst, src, size);",1
+"fgets(buffer, size, stdin);",0
+"scanf(""%s"", buffer);",1
+system(user_input);,1
+"strncpy(dest, src, n);",0
+char buf[10]; gets(buf);,1
+"printf(""Hello, world!\n"");",0
+"strcpy(dest, src);",1
+if (user_input) { printf(user_input); },1
+"snprintf(dest, sizeof(dest), ""%s"", src);",0
+"memcpy(dst, src, size);",1
+"fgets(buffer, size, stdin);",0
+"scanf(""%s"", buffer);",1
+system(user_input);,1
+"strncpy(dest, src, n);",0
+char buf[10]; gets(buf);,1
+"printf(""Hello, world!\n"");",0
+"strcpy(dest, src);",1
+if (user_input) { printf(user_input); },1
+"snprintf(dest, sizeof(dest), ""%s"", src);",0
+"memcpy(dst, src, size);",1
+"fgets(buffer, size, stdin);",0
+"scanf(""%s"", buffer);",1
+system(user_input);,1
+"strncpy(dest, src, n);",0
+char buf[10]; gets(buf);,1
+"printf(""Hello, world!\n"");",0
+"strcpy(dest, src);",1
+if (user_input) { printf(user_input); },1
+"snprintf(dest, sizeof(dest), ""%s"", src);",0
+"memcpy(dst, src, size);",1
+"fgets(buffer, size, stdin);",0
+"scanf(""%s"", buffer);",1
+system(user_input);,1
+"strncpy(dest, src, n);",0
+char buf[10]; gets(buf);,1
+"printf(""Hello, world!\n"");",0
+"strcpy(dest, src);",1
+if (user_input) { printf(user_input); },1
+"snprintf(dest, sizeof(dest), ""%s"", src);",0
+"memcpy(dst, src, size);",1
+"fgets(buffer, size, stdin);",0
+"scanf(""%s"", buffer);",1
+system(user_input);,1
+"strncpy(dest, src, n);",0
+char buf[10]; gets(buf);,1
+"printf(""Hello, world!\n"");",0
+"strcpy(dest, src);",1
+if (user_input) { printf(user_input); },1
+"snprintf(dest, sizeof(dest), ""%s"", src);",0
+"memcpy(dst, src, size);",1
+"fgets(buffer, size, stdin);",0
+"scanf(""%s"", buffer);",1
+system(user_input);,1
+"strncpy(dest, src, n);",0
+char buf[10]; gets(buf);,1
+"printf(""Hello, world!\n"");",0
+"strcpy(dest, src);",1
+if (user_input) { printf(user_input); },1
+"snprintf(dest, sizeof(dest), ""%s"", src);",0
+"memcpy(dst, src, size);",1
+"fgets(buffer, size, stdin);",0
+"scanf(""%s"", buffer);",1
+system(user_input);,1
+"strncpy(dest, src, n);",0
+char buf[10]; gets(buf);,1
+"printf(""Hello, world!\n"");",0
+"strcpy(dest, src);",1
+if (user_input) { printf(user_input); },1
+"snprintf(dest, sizeof(dest), ""%s"", src);",0
+"memcpy(dst, src, size);",1
+"fgets(buffer, size, stdin);",0
+"scanf(""%s"", buffer);",1
+system(user_input);,1
+"strncpy(dest, src, n);",0
+char buf[10]; gets(buf);,1
+"printf(""Hello, world!\n"");",0
+"strcpy(dest, src);",1
+if (user_input) { printf(user_input); },1
+"snprintf(dest, sizeof(dest), ""%s"", src);",0
+"memcpy(dst, src, size);",1
+"fgets(buffer, size, stdin);",0
+"scanf(""%s"", buffer);",1
+system(user_input);,1
+"strncpy(dest, src, n);",0
+char buf[10]; gets(buf);,1
+"printf(""Hello, world!\n"");",0
+"strcpy(dest, src);",1
+if (user_input) { printf(user_input); },1
+"snprintf(dest, sizeof(dest), ""%s"", src);",0
+"memcpy(dst, src, size);",1
+"fgets(buffer, size, stdin);",0
+"scanf(""%s"", buffer);",1
+system(user_input);,1
+"strncpy(dest, src, n);",0
+char buf[10]; gets(buf);,1
+"printf(""Hello, world!\n"");",0
+"strcpy(dest, src);",1
+if (user_input) { printf(user_input); },1
+"snprintf(dest, sizeof(dest), ""%s"", src);",0
+"memcpy(dst, src, size);",1
+"fgets(buffer, size, stdin);",0
+"scanf(""%s"", buffer);",1
+system(user_input);,1
+"strncpy(dest, src, n);",0
+char buf[10]; gets(buf);,1
+"printf(""Hello, world!\n"");",0
+"strcpy(dest, src);",1
+if (user_input) { printf(user_input); },1
+"snprintf(dest, sizeof(dest), ""%s"", src);",0
+"memcpy(dst, src, size);",1
+"fgets(buffer, size, stdin);",0
+"scanf(""%s"", buffer);",1
+system(user_input);,1
+"strncpy(dest, src, n);",0
+char buf[10]; gets(buf);,1
+"printf(""Hello, world!\n"");",0
+"strcpy(dest, src);",1
+if (user_input) { printf(user_input); },1
+"snprintf(dest, sizeof(dest), ""%s"", src);",0
+"memcpy(dst, src, size);",1
+"fgets(buffer, size, stdin);",0
+"scanf(""%s"", buffer);",1
+system(user_input);,1
+"strncpy(dest, src, n);",0
+char buf[10]; gets(buf);,1
+"printf(""Hello, world!\n"");",0
+"strcpy(dest, src);",1
+if (user_input) { printf(user_input); },1
+"snprintf(dest, sizeof(dest), ""%s"", src);",0
+"memcpy(dst, src, size);",1
+"fgets(buffer, size, stdin);",0
+"scanf(""%s"", buffer);",1
+system(user_input);,1
+"strncpy(dest, src, n);",0
+char buf[10]; gets(buf);,1
+"printf(""Hello, world!\n"");",0
+"strcpy(dest, src);",1
+if (user_input) { printf(user_input); },1
+"snprintf(dest, sizeof(dest), ""%s"", src);",0
+"memcpy(dst, src, size);",1
+"fgets(buffer, size, stdin);",0
+"scanf(""%s"", buffer);",1
+system(user_input);,1
+"strncpy(dest, src, n);",0
+char buf[10]; gets(buf);,1
+"printf(""Hello, world!\n"");",0
+"strcpy(dest, src);",1
+if (user_input) { printf(user_input); },1
+"snprintf(dest, sizeof(dest), ""%s"", src);",0
+"memcpy(dst, src, size);",1
+"fgets(buffer, size, stdin);",0
+"scanf(""%s"", buffer);",1
+system(user_input);,1
+"strncpy(dest, src, n);",0
+char buf[10]; gets(buf);,1
+"printf(""Hello, world!\n"");",0
+"strcpy(dest, src);",1
+if (user_input) { printf(user_input); },1
+"snprintf(dest, sizeof(dest), ""%s"", src);",0
+"memcpy(dst, src, size);",1
+"fgets(buffer, size, stdin);",0
+"scanf(""%s"", buffer);",1
+system(user_input);,1
+"strncpy(dest, src, n);",0
+char buf[10]; gets(buf);,1
+"printf(""Hello, world!\n"");",0
+"strcpy(dest, src);",1
+if (user_input) { printf(user_input); },1
+"snprintf(dest, sizeof(dest), ""%s"", src);",0
+"memcpy(dst, src, size);",1
+"fgets(buffer, size, stdin);",0
+"scanf(""%s"", buffer);",1
+system(user_input);,1
+"strncpy(dest, src, n);",0
+char buf[10]; gets(buf);,1
+"printf(""Hello, world!\n"");",0
+"strcpy(dest, src);",1
+if (user_input) { printf(user_input); },1
+"snprintf(dest, sizeof(dest), ""%s"", src);",0
+"memcpy(dst, src, size);",1
+"fgets(buffer, size, stdin);",0
+"scanf(""%s"", buffer);",1
+system(user_input);,1
+"strncpy(dest, src, n);",0
+char buf[10]; gets(buf);,1
+"printf(""Hello, world!\n"");",0
+"strcpy(dest, src);",1
+if (user_input) { printf(user_input); },1
+"snprintf(dest, sizeof(dest), ""%s"", src);",0
+"memcpy(dst, src, size);",1
+"fgets(buffer, size, stdin);",0
+"scanf(""%s"", buffer);",1
+system(user_input);,1
+"strncpy(dest, src, n);",0
+char buf[10]; gets(buf);,1
+"printf(""Hello, world!\n"");",0
+"strcpy(dest, src);",1
+if (user_input) { printf(user_input); },1
+"snprintf(dest, sizeof(dest), ""%s"", src);",0
+"memcpy(dst, src, size);",1
+"fgets(buffer, size, stdin);",0
+"scanf(""%s"", buffer);",1
+system(user_input);,1
+"strncpy(dest, src, n);",0
+char buf[10]; gets(buf);,1
+"printf(""Hello, world!\n"");",0
+"strcpy(dest, src);",1
+if (user_input) { printf(user_input); },1
+"snprintf(dest, sizeof(dest), ""%s"", src);",0
+"memcpy(dst, src, size);",1
+"fgets(buffer, size, stdin);",0
+"scanf(""%s"", buffer);",1
+system(user_input);,1
+"strncpy(dest, src, n);",0
+char buf[10]; gets(buf);,1
+"printf(""Hello, world!\n"");",0
+"strcpy(dest, src);",1
+if (user_input) { printf(user_input); },1
+"snprintf(dest, sizeof(dest), ""%s"", src);",0
+"memcpy(dst, src, size);",1
+"fgets(buffer, size, stdin);",0
+"scanf(""%s"", buffer);",1
+system(user_input);,1
+"strncpy(dest, src, n);",0
+char buf[10]; gets(buf);,1
+"printf(""Hello, world!\n"");",0
+"strcpy(dest, src);",1
+if (user_input) { printf(user_input); },1
+"snprintf(dest, sizeof(dest), ""%s"", src);",0
+"memcpy(dst, src, size);",1
+"fgets(buffer, size, stdin);",0
+"scanf(""%s"", buffer);",1
+system(user_input);,1
+"strncpy(dest, src, n);",0
+char buf[10]; gets(buf);,1
+"printf(""Hello, world!\n"");",0
+"strcpy(dest, src);",1
+if (user_input) { printf(user_input); },1
+"snprintf(dest, sizeof(dest), ""%s"", src);",0
+"memcpy(dst, src, size);",1
+"fgets(buffer, size, stdin);",0
+"scanf(""%s"", buffer);",1
+system(user_input);,1
+"strncpy(dest, src, n);",0
+char buf[10]; gets(buf);,1
+"printf(""Hello, world!\n"");",0
+"strcpy(dest, src);",1
+if (user_input) { printf(user_input); },1
+"snprintf(dest, sizeof(dest), ""%s"", src);",0
+"memcpy(dst, src, size);",1
+"fgets(buffer, size, stdin);",0
+"scanf(""%s"", buffer);",1
+system(user_input);,1
+"strncpy(dest, src, n);",0
+char buf[10]; gets(buf);,1
+"printf(""Hello, world!\n"");",0
+"strcpy(dest, src);",1
+if (user_input) { printf(user_input); },1
+"snprintf(dest, sizeof(dest), ""%s"", src);",0
+"memcpy(dst, src, size);",1
+"fgets(buffer, size, stdin);",0
+"scanf(""%s"", buffer);",1
+system(user_input);,1
+"strncpy(dest, src, n);",0
+char buf[10]; gets(buf);,1
+"printf(""Hello, world!\n"");",0
+"strcpy(dest, src);",1
+if (user_input) { printf(user_input); },1
+"snprintf(dest, sizeof(dest), ""%s"", src);",0
+"memcpy(dst, src, size);",1
+"fgets(buffer, size, stdin);",0
+"scanf(""%s"", buffer);",1
+system(user_input);,1
+"strncpy(dest, src, n);",0
+char buf[10]; gets(buf);,1
+"printf(""Hello, world!\n"");",0
+"strcpy(dest, src);",1
+if (user_input) { printf(user_input); },1
+"snprintf(dest, sizeof(dest), ""%s"", src);",0
+"memcpy(dst, src, size);",1
+"fgets(buffer, size, stdin);",0
+"scanf(""%s"", buffer);",1
+system(user_input);,1
+"strncpy(dest, src, n);",0
+char buf[10]; gets(buf);,1
+"printf(""Hello, world!\n"");",0
+"strcpy(dest, src);",1
+if (user_input) { printf(user_input); },1
+"snprintf(dest, sizeof(dest), ""%s"", src);",0
+"memcpy(dst, src, size);",1
+"fgets(buffer, size, stdin);",0
+"scanf(""%s"", buffer);",1
+system(user_input);,1
+"strncpy(dest, src, n);",0
+char buf[10]; gets(buf);,1
+"printf(""Hello, world!\n"");",0
+"strcpy(dest, src);",1
+if (user_input) { printf(user_input); },1
+"snprintf(dest, sizeof(dest), ""%s"", src);",0
+"memcpy(dst, src, size);",1
+"fgets(buffer, size, stdin);",0
+"scanf(""%s"", buffer);",1
+system(user_input);,1
+"strncpy(dest, src, n);",0
+char buf[10]; gets(buf);,1
+"printf(""Hello, world!\n"");",0
+"strcpy(dest, src);",1
+if (user_input) { printf(user_input); },1
+"snprintf(dest, sizeof(dest), ""%s"", src);",0
+"memcpy(dst, src, size);",1
+"fgets(buffer, size, stdin);",0
+"scanf(""%s"", buffer);",1
+system(user_input);,1
+"strncpy(dest, src, n);",0
+char buf[10]; gets(buf);,1
+"printf(""Hello, world!\n"");",0
+"strcpy(dest, src);",1
+if (user_input) { printf(user_input); },1
+"snprintf(dest, sizeof(dest), ""%s"", src);",0
+"memcpy(dst, src, size);",1
+"fgets(buffer, size, stdin);",0
+"scanf(""%s"", buffer);",1
+system(user_input);,1
+"strncpy(dest, src, n);",0
+char buf[10]; gets(buf);,1
+"printf(""Hello, world!\n"");",0
+"strcpy(dest, src);",1
+if (user_input) { printf(user_input); },1
+"snprintf(dest, sizeof(dest), ""%s"", src);",0
+"memcpy(dst, src, size);",1
+"fgets(buffer, size, stdin);",0
+"scanf(""%s"", buffer);",1
+system(user_input);,1
+"strncpy(dest, src, n);",0
+char buf[10]; gets(buf);,1
+"printf(""Hello, world!\n"");",0
+"strcpy(dest, src);",1
+if (user_input) { printf(user_input); },1
+"snprintf(dest, sizeof(dest), ""%s"", src);",0
+"memcpy(dst, src, size);",1
+"fgets(buffer, size, stdin);",0
+"scanf(""%s"", buffer);",1
+system(user_input);,1
+"strncpy(dest, src, n);",0
+char buf[10]; gets(buf);,1
+"printf(""Hello, world!\n"");",0
+"strcpy(dest, src);",1
+if (user_input) { printf(user_input); },1
+"snprintf(dest, sizeof(dest), ""%s"", src);",0
+"memcpy(dst, src, size);",1
+"fgets(buffer, size, stdin);",0
+"scanf(""%s"", buffer);",1
+system(user_input);,1
+"strncpy(dest, src, n);",0
+char buf[10]; gets(buf);,1
+"printf(""Hello, world!\n"");",0
+"strcpy(dest, src);",1
+if (user_input) { printf(user_input); },1
+"snprintf(dest, sizeof(dest), ""%s"", src);",0
+"memcpy(dst, src, size);",1
+"fgets(buffer, size, stdin);",0
+"scanf(""%s"", buffer);",1
+system(user_input);,1
+"strncpy(dest, src, n);",0
+char buf[10]; gets(buf);,1
+"printf(""Hello, world!\n"");",0
+"strcpy(dest, src);",1
+if (user_input) { printf(user_input); },1
+"snprintf(dest, sizeof(dest), ""%s"", src);",0
+"memcpy(dst, src, size);",1
+"fgets(buffer, size, stdin);",0
+"scanf(""%s"", buffer);",1
+system(user_input);,1
+"strncpy(dest, src, n);",0
+char buf[10]; gets(buf);,1
+"printf(""Hello, world!\n"");",0
+"strcpy(dest, src);",1
+if (user_input) { printf(user_input); },1
+"snprintf(dest, sizeof(dest), ""%s"", src);",0
+"memcpy(dst, src, size);",1
+"fgets(buffer, size, stdin);",0
+"scanf(""%s"", buffer);",1
+system(user_input);,1
+"strncpy(dest, src, n);",0
+char buf[10]; gets(buf);,1
+"printf(""Hello, world!\n"");",0
+"strcpy(dest, src);",1
+if (user_input) { printf(user_input); },1
+"snprintf(dest, sizeof(dest), ""%s"", src);",0
+"memcpy(dst, src, size);",1
+"fgets(buffer, size, stdin);",0
+"scanf(""%s"", buffer);",1
+system(user_input);,1
+"strncpy(dest, src, n);",0
+char buf[10]; gets(buf);,1
+"printf(""Hello, world!\n"");",0
+"strcpy(dest, src);",1
+if (user_input) { printf(user_input); },1
+"snprintf(dest, sizeof(dest), ""%s"", src);",0
+"memcpy(dst, src, size);",1
+"fgets(buffer, size, stdin);",0
+"scanf(""%s"", buffer);",1
+system(user_input);,1
+"strncpy(dest, src, n);",0
+char buf[10]; gets(buf);,1
+"printf(""Hello, world!\n"");",0
+"strcpy(dest, src);",1
+if (user_input) { printf(user_input); },1
+"snprintf(dest, sizeof(dest), ""%s"", src);",0
+"memcpy(dst, src, size);",1
+"fgets(buffer, size, stdin);",0
+"scanf(""%s"", buffer);",1
+system(user_input);,1
+"strncpy(dest, src, n);",0
+char buf[10]; gets(buf);,1
+"printf(""Hello, world!\n"");",0
+"strcpy(dest, src);",1
+if (user_input) { printf(user_input); },1
+"snprintf(dest, sizeof(dest), ""%s"", src);",0
+"memcpy(dst, src, size);",1
+"fgets(buffer, size, stdin);",0
+"scanf(""%s"", buffer);",1
+system(user_input);,1
+"strncpy(dest, src, n);",0
+char buf[10]; gets(buf);,1
+"printf(""Hello, world!\n"");",0
+"strcpy(dest, src);",1
+if (user_input) { printf(user_input); },1
+"snprintf(dest, sizeof(dest), ""%s"", src);",0
+"memcpy(dst, src, size);",1
+"fgets(buffer, size, stdin);",0
+"scanf(""%s"", buffer);",1
+system(user_input);,1
+"strncpy(dest, src, n);",0
+char buf[10]; gets(buf);,1
+"printf(""Hello, world!\n"");",0
+"strcpy(dest, src);",1
+if (user_input) { printf(user_input); },1
+"snprintf(dest, sizeof(dest), ""%s"", src);",0
+"memcpy(dst, src, size);",1
+"fgets(buffer, size, stdin);",0
+"scanf(""%s"", buffer);",1
+system(user_input);,1
+"strncpy(dest, src, n);",0
+char buf[10]; gets(buf);,1
+"printf(""Hello, world!\n"");",0
+"strcpy(dest, src);",1
+if (user_input) { printf(user_input); },1
+"snprintf(dest, sizeof(dest), ""%s"", src);",0
+"memcpy(dst, src, size);",1
+"fgets(buffer, size, stdin);",0
+"scanf(""%s"", buffer);",1
+system(user_input);,1
+"strncpy(dest, src, n);",0
+char buf[10]; gets(buf);,1
+"printf(""Hello, world!\n"");",0
+"strcpy(dest, src);",1
+if (user_input) { printf(user_input); },1
+"snprintf(dest, sizeof(dest), ""%s"", src);",0
+"memcpy(dst, src, size);",1
+"fgets(buffer, size, stdin);",0
+"scanf(""%s"", buffer);",1
+system(user_input);,1
+"strncpy(dest, src, n);",0
+char buf[10]; gets(buf);,1
+"printf(""Hello, world!\n"");",0
+"strcpy(dest, src);",1
+if (user_input) { printf(user_input); },1
+"snprintf(dest, sizeof(dest), ""%s"", src);",0
+"memcpy(dst, src, size);",1
+"fgets(buffer, size, stdin);",0
+"scanf(""%s"", buffer);",1
+system(user_input);,1
+"strncpy(dest, src, n);",0
+char buf[10]; gets(buf);,1
+"printf(""Hello, world!\n"");",0
+"strcpy(dest, src);",1
+if (user_input) { printf(user_input); },1
+"snprintf(dest, sizeof(dest), ""%s"", src);",0
+"memcpy(dst, src, size);",1
+"fgets(buffer, size, stdin);",0
+"scanf(""%s"", buffer);",1
+system(user_input);,1
+"strncpy(dest, src, n);",0
+char buf[10]; gets(buf);,1
+"printf(""Hello, world!\n"");",0
+"strcpy(dest, src);",1
+if (user_input) { printf(user_input); },1
+"snprintf(dest, sizeof(dest), ""%s"", src);",0
+"memcpy(dst, src, size);",1
+"fgets(buffer, size, stdin);",0
+"scanf(""%s"", buffer);",1
+system(user_input);,1
+"strncpy(dest, src, n);",0
+char buf[10]; gets(buf);,1
+"printf(""Hello, world!\n"");",0
+"strcpy(dest, src);",1
+if (user_input) { printf(user_input); },1
+"snprintf(dest, sizeof(dest), ""%s"", src);",0
+"memcpy(dst, src, size);",1
+"fgets(buffer, size, stdin);",0
+"scanf(""%s"", buffer);",1
+system(user_input);,1
+"strncpy(dest, src, n);",0
+char buf[10]; gets(buf);,1
+"printf(""Hello, world!\n"");",0
+"strcpy(dest, src);",1
+if (user_input) { printf(user_input); },1
+"snprintf(dest, sizeof(dest), ""%s"", src);",0
+"memcpy(dst, src, size);",1
+"fgets(buffer, size, stdin);",0
+"scanf(""%s"", buffer);",1
+system(user_input);,1
+"strncpy(dest, src, n);",0
+char buf[10]; gets(buf);,1
+"printf(""Hello, world!\n"");",0
+"strcpy(dest, src);",1
+if (user_input) { printf(user_input); },1
+"snprintf(dest, sizeof(dest), ""%s"", src);",0
+"memcpy(dst, src, size);",1
+"fgets(buffer, size, stdin);",0
+"scanf(""%s"", buffer);",1
+system(user_input);,1
+"strncpy(dest, src, n);",0
+char buf[10]; gets(buf);,1
+"printf(""Hello, world!\n"");",0
+"strcpy(dest, src);",1
+if (user_input) { printf(user_input); },1
+"snprintf(dest, sizeof(dest), ""%s"", src);",0
+"memcpy(dst, src, size);",1
+"fgets(buffer, size, stdin);",0
+"scanf(""%s"", buffer);",1
+system(user_input);,1
+"strncpy(dest, src, n);",0
+char buf[10]; gets(buf);,1
+"printf(""Hello, world!\n"");",0
+"strcpy(dest, src);",1
+if (user_input) { printf(user_input); },1
+"snprintf(dest, sizeof(dest), ""%s"", src);",0
+"memcpy(dst, src, size);",1
+"fgets(buffer, size, stdin);",0
+"scanf(""%s"", buffer);",1
+system(user_input);,1
+"strncpy(dest, src, n);",0
+char buf[10]; gets(buf);,1
+"printf(""Hello, world!\n"");",0
+"strcpy(dest, src);",1
+if (user_input) { printf(user_input); },1
+"snprintf(dest, sizeof(dest), ""%s"", src);",0
+"memcpy(dst, src, size);",1
+"fgets(buffer, size, stdin);",0
+"scanf(""%s"", buffer);",1
+system(user_input);,1
+"strncpy(dest, src, n);",0
+char buf[10]; gets(buf);,1
+"printf(""Hello, world!\n"");",0
+"strcpy(dest, src);",1
+if (user_input) { printf(user_input); },1
+"snprintf(dest, sizeof(dest), ""%s"", src);",0
+"memcpy(dst, src, size);",1
+"fgets(buffer, size, stdin);",0
+"scanf(""%s"", buffer);",1
+system(user_input);,1
+"strncpy(dest, src, n);",0
+char buf[10]; gets(buf);,1
+"printf(""Hello, world!\n"");",0
+"strcpy(dest, src);",1
+if (user_input) { printf(user_input); },1
+"snprintf(dest, sizeof(dest), ""%s"", src);",0
+"memcpy(dst, src, size);",1
+"fgets(buffer, size, stdin);",0
+"scanf(""%s"", buffer);",1
+system(user_input);,1
+"strncpy(dest, src, n);",0
+char buf[10]; gets(buf);,1
+"printf(""Hello, world!\n"");",0
+"strcpy(dest, src);",1
+if (user_input) { printf(user_input); },1
+"snprintf(dest, sizeof(dest), ""%s"", src);",0
+"memcpy(dst, src, size);",1
+"fgets(buffer, size, stdin);",0
+"scanf(""%s"", buffer);",1
+system(user_input);,1
+"strncpy(dest, src, n);",0
+char buf[10]; gets(buf);,1
+"printf(""Hello, world!\n"");",0
+"strcpy(dest, src);",1
+if (user_input) { printf(user_input); },1
+"snprintf(dest, sizeof(dest), ""%s"", src);",0
+"memcpy(dst, src, size);",1
+"fgets(buffer, size, stdin);",0
+"scanf(""%s"", buffer);",1
+system(user_input);,1
+"strncpy(dest, src, n);",0
+char buf[10]; gets(buf);,1
+"printf(""Hello, world!\n"");",0
+"strcpy(dest, src);",1
+if (user_input) { printf(user_input); },1
+"snprintf(dest, sizeof(dest), ""%s"", src);",0
+"memcpy(dst, src, size);",1
+"fgets(buffer, size, stdin);",0
+"scanf(""%s"", buffer);",1
+system(user_input);,1
+"strncpy(dest, src, n);",0
+char buf[10]; gets(buf);,1
+"printf(""Hello, world!\n"");",0
+"strcpy(dest, src);",1
+if (user_input) { printf(user_input); },1
+"snprintf(dest, sizeof(dest), ""%s"", src);",0
+"memcpy(dst, src, size);",1
+"fgets(buffer, size, stdin);",0
+"scanf(""%s"", buffer);",1
+system(user_input);,1
+"strncpy(dest, src, n);",0
+char buf[10]; gets(buf);,1
+"printf(""Hello, world!\n"");",0
+"strcpy(dest, src);",1
+if (user_input) { printf(user_input); },1
+"snprintf(dest, sizeof(dest), ""%s"", src);",0
+"memcpy(dst, src, size);",1
+"fgets(buffer, size, stdin);",0
+"scanf(""%s"", buffer);",1
+system(user_input);,1
+"strncpy(dest, src, n);",0
+char buf[10]; gets(buf);,1
+"printf(""Hello, world!\n"");",0
+"strcpy(dest, src);",1
+if (user_input) { printf(user_input); },1
+"snprintf(dest, sizeof(dest), ""%s"", src);",0
+"memcpy(dst, src, size);",1
+"fgets(buffer, size, stdin);",0
+"scanf(""%s"", buffer);",1
+system(user_input);,1
+"strncpy(dest, src, n);",0
+char buf[10]; gets(buf);,1
+"printf(""Hello, world!\n"");",0
+"strcpy(dest, src);",1
+if (user_input) { printf(user_input); },1
+"snprintf(dest, sizeof(dest), ""%s"", src);",0
+"memcpy(dst, src, size);",1
+"fgets(buffer, size, stdin);",0
+"scanf(""%s"", buffer);",1
+system(user_input);,1
+"strncpy(dest, src, n);",0
+char buf[10]; gets(buf);,1
+"printf(""Hello, world!\n"");",0
+"strcpy(dest, src);",1
+if (user_input) { printf(user_input); },1
+"snprintf(dest, sizeof(dest), ""%s"", src);",0
+"memcpy(dst, src, size);",1
+"fgets(buffer, size, stdin);",0
+"scanf(""%s"", buffer);",1
+system(user_input);,1
+"strncpy(dest, src, n);",0
+char buf[10]; gets(buf);,1
+"printf(""Hello, world!\n"");",0
+"strcpy(dest, src);",1
+if (user_input) { printf(user_input); },1
+"snprintf(dest, sizeof(dest), ""%s"", src);",0
+"memcpy(dst, src, size);",1
+"fgets(buffer, size, stdin);",0
+"scanf(""%s"", buffer);",1
+system(user_input);,1
+"strncpy(dest, src, n);",0
+char buf[10]; gets(buf);,1
+"printf(""Hello, world!\n"");",0
+"strcpy(dest, src);",1
+if (user_input) { printf(user_input); },1
+"snprintf(dest, sizeof(dest), ""%s"", src);",0
+"memcpy(dst, src, size);",1
+"fgets(buffer, size, stdin);",0
+"scanf(""%s"", buffer);",1
+system(user_input);,1
+"strncpy(dest, src, n);",0
+char buf[10]; gets(buf);,1
+"printf(""Hello, world!\n"");",0
+"strcpy(dest, src);",1
+if (user_input) { printf(user_input); },1
+"snprintf(dest, sizeof(dest), ""%s"", src);",0
+"memcpy(dst, src, size);",1
+"fgets(buffer, size, stdin);",0
+"scanf(""%s"", buffer);",1
+system(user_input);,1
+"strncpy(dest, src, n);",0
+char buf[10]; gets(buf);,1
+"printf(""Hello, world!\n"");",0
+"strcpy(dest, src);",1
+if (user_input) { printf(user_input); },1
+"snprintf(dest, sizeof(dest), ""%s"", src);",0
+"memcpy(dst, src, size);",1
+"fgets(buffer, size, stdin);",0
+"scanf(""%s"", buffer);",1
+system(user_input);,1
+"strncpy(dest, src, n);",0
+char buf[10]; gets(buf);,1
+"printf(""Hello, world!\n"");",0
+"strcpy(dest, src);",1
+if (user_input) { printf(user_input); },1
+"snprintf(dest, sizeof(dest), ""%s"", src);",0
+"memcpy(dst, src, size);",1
+"fgets(buffer, size, stdin);",0
+"scanf(""%s"", buffer);",1
+system(user_input);,1
+"strncpy(dest, src, n);",0
+char buf[10]; gets(buf);,1
+"printf(""Hello, world!\n"");",0
+"strcpy(dest, src);",1
+if (user_input) { printf(user_input); },1
+"snprintf(dest, sizeof(dest), ""%s"", src);",0
+"memcpy(dst, src, size);",1
+"fgets(buffer, size, stdin);",0
+"scanf(""%s"", buffer);",1
+system(user_input);,1
+"strncpy(dest, src, n);",0
+char buf[10]; gets(buf);,1
+"printf(""Hello, world!\n"");",0
+"strcpy(dest, src);",1
+if (user_input) { printf(user_input); },1
+"snprintf(dest, sizeof(dest), ""%s"", src);",0
+"memcpy(dst, src, size);",1
+"fgets(buffer, size, stdin);",0
+"scanf(""%s"", buffer);",1
+system(user_input);,1
+"strncpy(dest, src, n);",0
+char buf[10]; gets(buf);,1
+"printf(""Hello, world!\n"");",0
+"strcpy(dest, src);",1
+if (user_input) { printf(user_input); },1
+"snprintf(dest, sizeof(dest), ""%s"", src);",0
+"memcpy(dst, src, size);",1
+"fgets(buffer, size, stdin);",0
+"scanf(""%s"", buffer);",1
+system(user_input);,1
+"strncpy(dest, src, n);",0
+char buf[10]; gets(buf);,1
+"printf(""Hello, world!\n"");",0
+"strcpy(dest, src);",1
+if (user_input) { printf(user_input); },1
+"snprintf(dest, sizeof(dest), ""%s"", src);",0
+"memcpy(dst, src, size);",1
+"fgets(buffer, size, stdin);",0
+"scanf(""%s"", buffer);",1
+system(user_input);,1
+"strncpy(dest, src, n);",0
+char buf[10]; gets(buf);,1
+"printf(""Hello, world!\n"");",0
+"strcpy(dest, src);",1
+if (user_input) { printf(user_input); },1
+"snprintf(dest, sizeof(dest), ""%s"", src);",0
+"memcpy(dst, src, size);",1
+"fgets(buffer, size, stdin);",0
+"scanf(""%s"", buffer);",1
+system(user_input);,1
+"strncpy(dest, src, n);",0
+char buf[10]; gets(buf);,1
+"printf(""Hello, world!\n"");",0
+"strcpy(dest, src);",1
+if (user_input) { printf(user_input); },1
+"snprintf(dest, sizeof(dest), ""%s"", src);",0
+"memcpy(dst, src, size);",1
+"fgets(buffer, size, stdin);",0
+"scanf(""%s"", buffer);",1
+system(user_input);,1
+"strncpy(dest, src, n);",0
+char buf[10]; gets(buf);,1
+"printf(""Hello, world!\n"");",0
+"strcpy(dest, src);",1
+if (user_input) { printf(user_input); },1
+"snprintf(dest, sizeof(dest), ""%s"", src);",0
+"memcpy(dst, src, size);",1
+"fgets(buffer, size, stdin);",0
+"scanf(""%s"", buffer);",1
+system(user_input);,1
+"strncpy(dest, src, n);",0
+char buf[10]; gets(buf);,1
+"printf(""Hello, world!\n"");",0
+"strcpy(dest, src);",1
+if (user_input) { printf(user_input); },1
+"snprintf(dest, sizeof(dest), ""%s"", src);",0
+"memcpy(dst, src, size);",1
+"fgets(buffer, size, stdin);",0
+"scanf(""%s"", buffer);",1
+system(user_input);,1
+"strncpy(dest, src, n);",0
+char buf[10]; gets(buf);,1
+"printf(""Hello, world!\n"");",0
+"strcpy(dest, src);",1
+if (user_input) { printf(user_input); },1
+"snprintf(dest, sizeof(dest), ""%s"", src);",0
+"memcpy(dst, src, size);",1
+"fgets(buffer, size, stdin);",0
+"scanf(""%s"", buffer);",1
+system(user_input);,1
+"strncpy(dest, src, n);",0
+char buf[10]; gets(buf);,1
+"printf(""Hello, world!\n"");",0
+"strcpy(dest, src);",1
+if (user_input) { printf(user_input); },1
+"snprintf(dest, sizeof(dest), ""%s"", src);",0
+"memcpy(dst, src, size);",1
+"fgets(buffer, size, stdin);",0
+"scanf(""%s"", buffer);",1
+system(user_input);,1
+"strncpy(dest, src, n);",0
+char buf[10]; gets(buf);,1
+"printf(""Hello, world!\n"");",0
+"strcpy(dest, src);",1
+if (user_input) { printf(user_input); },1
+"snprintf(dest, sizeof(dest), ""%s"", src);",0
+"memcpy(dst, src, size);",1
+"fgets(buffer, size, stdin);",0
+"scanf(""%s"", buffer);",1
+system(user_input);,1
+"strncpy(dest, src, n);",0
+char buf[10]; gets(buf);,1
+"printf(""Hello, world!\n"");",0
+"strcpy(dest, src);",1
+if (user_input) { printf(user_input); },1
+"snprintf(dest, sizeof(dest), ""%s"", src);",0
+"memcpy(dst, src, size);",1
+"fgets(buffer, size, stdin);",0
+"scanf(""%s"", buffer);",1
+system(user_input);,1
+"strncpy(dest, src, n);",0
+char buf[10]; gets(buf);,1
+"printf(""Hello, world!\n"");",0
+"strcpy(dest, src);",1
+if (user_input) { printf(user_input); },1
+"snprintf(dest, sizeof(dest), ""%s"", src);",0
+"memcpy(dst, src, size);",1
+"fgets(buffer, size, stdin);",0
+"scanf(""%s"", buffer);",1
+system(user_input);,1
+"strncpy(dest, src, n);",0
+char buf[10]; gets(buf);,1
+"printf(""Hello, world!\n"");",0
+"strcpy(dest, src);",1
+if (user_input) { printf(user_input); },1
+"snprintf(dest, sizeof(dest), ""%s"", src);",0
+"memcpy(dst, src, size);",1
+"fgets(buffer, size, stdin);",0
+"scanf(""%s"", buffer);",1
+system(user_input);,1
+"strncpy(dest, src, n);",0
+char buf[10]; gets(buf);,1
+"printf(""Hello, world!\n"");",0
+"strcpy(dest, src);",1
+if (user_input) { printf(user_input); },1
+"snprintf(dest, sizeof(dest), ""%s"", src);",0
+"memcpy(dst, src, size);",1
+"fgets(buffer, size, stdin);",0
+"scanf(""%s"", buffer);",1
+system(user_input);,1
+"strncpy(dest, src, n);",0
+char buf[10]; gets(buf);,1
+"printf(""Hello, world!\n"");",0
+"strcpy(dest, src);",1
+if (user_input) { printf(user_input); },1
+"snprintf(dest, sizeof(dest), ""%s"", src);",0
+"memcpy(dst, src, size);",1
+"fgets(buffer, size, stdin);",0
+"scanf(""%s"", buffer);",1
+system(user_input);,1
+"strncpy(dest, src, n);",0
+char buf[10]; gets(buf);,1
+"printf(""Hello, world!\n"");",0
+"strcpy(dest, src);",1
+if (user_input) { printf(user_input); },1
+"snprintf(dest, sizeof(dest), ""%s"", src);",0
+"memcpy(dst, src, size);",1
+"fgets(buffer, size, stdin);",0
+"scanf(""%s"", buffer);",1
+system(user_input);,1
+"strncpy(dest, src, n);",0
+char buf[10]; gets(buf);,1
+"printf(""Hello, world!\n"");",0
+"strcpy(dest, src);",1
+if (user_input) { printf(user_input); },1
+"snprintf(dest, sizeof(dest), ""%s"", src);",0
+"memcpy(dst, src, size);",1
+"fgets(buffer, size, stdin);",0
+"scanf(""%s"", buffer);",1
+system(user_input);,1
+"strncpy(dest, src, n);",0
+char buf[10]; gets(buf);,1
+"printf(""Hello, world!\n"");",0
+"strcpy(dest, src);",1
+if (user_input) { printf(user_input); },1
+"snprintf(dest, sizeof(dest), ""%s"", src);",0
+"memcpy(dst, src, size);",1
+"fgets(buffer, size, stdin);",0
+"scanf(""%s"", buffer);",1
+system(user_input);,1
+"strncpy(dest, src, n);",0
+char buf[10]; gets(buf);,1
+"printf(""Hello, world!\n"");",0
+"strcpy(dest, src);",1
+if (user_input) { printf(user_input); },1
+"snprintf(dest, sizeof(dest), ""%s"", src);",0
+"memcpy(dst, src, size);",1
+"fgets(buffer, size, stdin);",0
+"scanf(""%s"", buffer);",1
+system(user_input);,1
+"strncpy(dest, src, n);",0
+char buf[10]; gets(buf);,1
+"printf(""Hello, world!\n"");",0
+"strcpy(dest, src);",1
+if (user_input) { printf(user_input); },1
+"snprintf(dest, sizeof(dest), ""%s"", src);",0
+"memcpy(dst, src, size);",1
+"fgets(buffer, size, stdin);",0
+"scanf(""%s"", buffer);",1
+system(user_input);,1
+"strncpy(dest, src, n);",0
+char buf[10]; gets(buf);,1
+"printf(""Hello, world!\n"");",0
+"strcpy(dest, src);",1
+if (user_input) { printf(user_input); },1
+"snprintf(dest, sizeof(dest), ""%s"", src);",0
+"memcpy(dst, src, size);",1
+"fgets(buffer, size, stdin);",0
+"scanf(""%s"", buffer);",1
+system(user_input);,1
+"strncpy(dest, src, n);",0
+char buf[10]; gets(buf);,1
+"printf(""Hello, world!\n"");",0
+"strcpy(dest, src);",1
+if (user_input) { printf(user_input); },1
+"snprintf(dest, sizeof(dest), ""%s"", src);",0
+"memcpy(dst, src, size);",1
+"fgets(buffer, size, stdin);",0
+"scanf(""%s"", buffer);",1
+system(user_input);,1
+"strncpy(dest, src, n);",0
+char buf[10]; gets(buf);,1
+"printf(""Hello, world!\n"");",0
+"strcpy(dest, src);",1
+if (user_input) { printf(user_input); },1
+"snprintf(dest, sizeof(dest), ""%s"", src);",0
+"memcpy(dst, src, size);",1
+"fgets(buffer, size, stdin);",0
+"scanf(""%s"", buffer);",1
+system(user_input);,1
+"strncpy(dest, src, n);",0
+char buf[10]; gets(buf);,1
+"printf(""Hello, world!\n"");",0
+"strcpy(dest, src);",1
+if (user_input) { printf(user_input); },1
+"snprintf(dest, sizeof(dest), ""%s"", src);",0
+"memcpy(dst, src, size);",1
+"fgets(buffer, size, stdin);",0
+"scanf(""%s"", buffer);",1
+system(user_input);,1
+"strncpy(dest, src, n);",0
+char buf[10]; gets(buf);,1
+"printf(""Hello, world!\n"");",0
+"strcpy(dest, src);",1
+if (user_input) { printf(user_input); },1
+"snprintf(dest, sizeof(dest), ""%s"", src);",0
+"memcpy(dst, src, size);",1
+"fgets(buffer, size, stdin);",0
+"scanf(""%s"", buffer);",1
+system(user_input);,1
+"strncpy(dest, src, n);",0
+char buf[10]; gets(buf);,1
+"printf(""Hello, world!\n"");",0
+"strcpy(dest, src);",1
+if (user_input) { printf(user_input); },1
+"snprintf(dest, sizeof(dest), ""%s"", src);",0
+"memcpy(dst, src, size);",1
+"fgets(buffer, size, stdin);",0
+"scanf(""%s"", buffer);",1
+system(user_input);,1
+"strncpy(dest, src, n);",0
+char buf[10]; gets(buf);,1
+"printf(""Hello, world!\n"");",0
+"strcpy(dest, src);",1
+if (user_input) { printf(user_input); },1
+"snprintf(dest, sizeof(dest), ""%s"", src);",0
+"memcpy(dst, src, size);",1
+"fgets(buffer, size, stdin);",0
+"scanf(""%s"", buffer);",1
+system(user_input);,1
+"strncpy(dest, src, n);",0
+char buf[10]; gets(buf);,1
+"printf(""Hello, world!\n"");",0
+"strcpy(dest, src);",1
+if (user_input) { printf(user_input); },1
+"snprintf(dest, sizeof(dest), ""%s"", src);",0
+"memcpy(dst, src, size);",1
+"fgets(buffer, size, stdin);",0
+"scanf(""%s"", buffer);",1
+system(user_input);,1
+"strncpy(dest, src, n);",0
+char buf[10]; gets(buf);,1
+"printf(""Hello, world!\n"");",0
+"strcpy(dest, src);",1
+if (user_input) { printf(user_input); },1
+"snprintf(dest, sizeof(dest), ""%s"", src);",0
+"memcpy(dst, src, size);",1
+"fgets(buffer, size, stdin);",0
+"scanf(""%s"", buffer);",1
+system(user_input);,1
+"strncpy(dest, src, n);",0
+char buf[10]; gets(buf);,1
+"printf(""Hello, world!\n"");",0
+"strcpy(dest, src);",1
+if (user_input) { printf(user_input); },1
+"snprintf(dest, sizeof(dest), ""%s"", src);",0
+"memcpy(dst, src, size);",1
+"fgets(buffer, size, stdin);",0
+"scanf(""%s"", buffer);",1
+system(user_input);,1
+"strncpy(dest, src, n);",0
+char buf[10]; gets(buf);,1
+"printf(""Hello, world!\n"");",0
+"strcpy(dest, src);",1
+if (user_input) { printf(user_input); },1
+"snprintf(dest, sizeof(dest), ""%s"", src);",0
+"memcpy(dst, src, size);",1
+"fgets(buffer, size, stdin);",0
+"scanf(""%s"", buffer);",1
+system(user_input);,1
+"strncpy(dest, src, n);",0
+char buf[10]; gets(buf);,1
+"printf(""Hello, world!\n"");",0
+"strcpy(dest, src);",1
+if (user_input) { printf(user_input); },1
+"snprintf(dest, sizeof(dest), ""%s"", src);",0
+"memcpy(dst, src, size);",1
+"fgets(buffer, size, stdin);",0
+"scanf(""%s"", buffer);",1
+system(user_input);,1
+"strncpy(dest, src, n);",0
+char buf[10]; gets(buf);,1
+"printf(""Hello, world!\n"");",0
+"strcpy(dest, src);",1
+if (user_input) { printf(user_input); },1
+"snprintf(dest, sizeof(dest), ""%s"", src);",0
+"memcpy(dst, src, size);",1
+"fgets(buffer, size, stdin);",0
+"scanf(""%s"", buffer);",1
+system(user_input);,1
+"strncpy(dest, src, n);",0
+char buf[10]; gets(buf);,1
+"printf(""Hello, world!\n"");",0
+"strcpy(dest, src);",1
+if (user_input) { printf(user_input); },1
+"snprintf(dest, sizeof(dest), ""%s"", src);",0
+"memcpy(dst, src, size);",1
+"fgets(buffer, size, stdin);",0
+"scanf(""%s"", buffer);",1
+system(user_input);,1
+"strncpy(dest, src, n);",0
+char buf[10]; gets(buf);,1
+"printf(""Hello, world!\n"");",0
+"strcpy(dest, src);",1
+if (user_input) { printf(user_input); },1
+"snprintf(dest, sizeof(dest), ""%s"", src);",0
+"memcpy(dst, src, size);",1
+"fgets(buffer, size, stdin);",0
+"scanf(""%s"", buffer);",1
+system(user_input);,1
+"strncpy(dest, src, n);",0
+char buf[10]; gets(buf);,1
+"printf(""Hello, world!\n"");",0
+"strcpy(dest, src);",1
+if (user_input) { printf(user_input); },1
+"snprintf(dest, sizeof(dest), ""%s"", src);",0
+"memcpy(dst, src, size);",1
+"fgets(buffer, size, stdin);",0
+"scanf(""%s"", buffer);",1
+system(user_input);,1
+"strncpy(dest, src, n);",0
+char buf[10]; gets(buf);,1
+"printf(""Hello, world!\n"");",0
+"strcpy(dest, src);",1
+if (user_input) { printf(user_input); },1
+"snprintf(dest, sizeof(dest), ""%s"", src);",0
+"memcpy(dst, src, size);",1
+"fgets(buffer, size, stdin);",0
+"scanf(""%s"", buffer);",1
+system(user_input);,1
+"strncpy(dest, src, n);",0
+char buf[10]; gets(buf);,1
+"printf(""Hello, world!\n"");",0
+"strcpy(dest, src);",1
+if (user_input) { printf(user_input); },1
+"snprintf(dest, sizeof(dest), ""%s"", src);",0
+"memcpy(dst, src, size);",1
+"fgets(buffer, size, stdin);",0
+"scanf(""%s"", buffer);",1
+system(user_input);,1
+"strncpy(dest, src, n);",0
+char buf[10]; gets(buf);,1
+"printf(""Hello, world!\n"");",0
+"strcpy(dest, src);",1
+if (user_input) { printf(user_input); },1
+"snprintf(dest, sizeof(dest), ""%s"", src);",0
+"memcpy(dst, src, size);",1
+"fgets(buffer, size, stdin);",0
+"scanf(""%s"", buffer);",1
+system(user_input);,1
+"strncpy(dest, src, n);",0
+char buf[10]; gets(buf);,1
+"printf(""Hello, world!\n"");",0
+"strcpy(dest, src);",1
+if (user_input) { printf(user_input); },1
+"snprintf(dest, sizeof(dest), ""%s"", src);",0
+"memcpy(dst, src, size);",1
+"fgets(buffer, size, stdin);",0
+"scanf(""%s"", buffer);",1
+system(user_input);,1
+"strncpy(dest, src, n);",0
+char buf[10]; gets(buf);,1
+"printf(""Hello, world!\n"");",0
+"strcpy(dest, src);",1
+if (user_input) { printf(user_input); },1
+"snprintf(dest, sizeof(dest), ""%s"", src);",0
+"memcpy(dst, src, size);",1
+"fgets(buffer, size, stdin);",0
+"scanf(""%s"", buffer);",1
+system(user_input);,1
+"strncpy(dest, src, n);",0
+char buf[10]; gets(buf);,1
+"printf(""Hello, world!\n"");",0
+"strcpy(dest, src);",1
+if (user_input) { printf(user_input); },1
+"snprintf(dest, sizeof(dest), ""%s"", src);",0
+"memcpy(dst, src, size);",1
+"fgets(buffer, size, stdin);",0
+"scanf(""%s"", buffer);",1
+system(user_input);,1
+"strncpy(dest, src, n);",0
+char buf[10]; gets(buf);,1
+"printf(""Hello, world!\n"");",0
+"strcpy(dest, src);",1
+if (user_input) { printf(user_input); },1
+"snprintf(dest, sizeof(dest), ""%s"", src);",0
+"memcpy(dst, src, size);",1
+"fgets(buffer, size, stdin);",0
+"scanf(""%s"", buffer);",1
+system(user_input);,1
+"strncpy(dest, src, n);",0
+char buf[10]; gets(buf);,1
+"printf(""Hello, world!\n"");",0
+"strcpy(dest, src);",1
+if (user_input) { printf(user_input); },1
+"snprintf(dest, sizeof(dest), ""%s"", src);",0
+"memcpy(dst, src, size);",1
+"fgets(buffer, size, stdin);",0
+"scanf(""%s"", buffer);",1
+system(user_input);,1
+"strncpy(dest, src, n);",0
+char buf[10]; gets(buf);,1
+"printf(""Hello, world!\n"");",0
+"strcpy(dest, src);",1
+if (user_input) { printf(user_input); },1
+"snprintf(dest, sizeof(dest), ""%s"", src);",0
+"memcpy(dst, src, size);",1
+"fgets(buffer, size, stdin);",0
+"scanf(""%s"", buffer);",1
+system(user_input);,1
+"strncpy(dest, src, n);",0
+char buf[10]; gets(buf);,1
+"printf(""Hello, world!\n"");",0
+"strcpy(dest, src);",1
+if (user_input) { printf(user_input); },1
+"snprintf(dest, sizeof(dest), ""%s"", src);",0
+"memcpy(dst, src, size);",1
+"fgets(buffer, size, stdin);",0
+"scanf(""%s"", buffer);",1
+system(user_input);,1
+"strncpy(dest, src, n);",0
+char buf[10]; gets(buf);,1
+"printf(""Hello, world!\n"");",0
+"strcpy(dest, src);",1
+if (user_input) { printf(user_input); },1
+"snprintf(dest, sizeof(dest), ""%s"", src);",0
+"memcpy(dst, src, size);",1
+"fgets(buffer, size, stdin);",0
+"scanf(""%s"", buffer);",1
+system(user_input);,1
+"strncpy(dest, src, n);",0
+char buf[10]; gets(buf);,1
+"printf(""Hello, world!\n"");",0
+"strcpy(dest, src);",1
+if (user_input) { printf(user_input); },1
+"snprintf(dest, sizeof(dest), ""%s"", src);",0
+"memcpy(dst, src, size);",1
+"fgets(buffer, size, stdin);",0
+"scanf(""%s"", buffer);",1
+system(user_input);,1
+"strncpy(dest, src, n);",0
+char buf[10]; gets(buf);,1
+"printf(""Hello, world!\n"");",0
+"strcpy(dest, src);",1
+if (user_input) { printf(user_input); },1
+"snprintf(dest, sizeof(dest), ""%s"", src);",0
+"memcpy(dst, src, size);",1
+"fgets(buffer, size, stdin);",0
+"scanf(""%s"", buffer);",1
+system(user_input);,1
+"strncpy(dest, src, n);",0
+char buf[10]; gets(buf);,1
+"printf(""Hello, world!\n"");",0
+"strcpy(dest, src);",1
+if (user_input) { printf(user_input); },1
+"snprintf(dest, sizeof(dest), ""%s"", src);",0
+"memcpy(dst, src, size);",1
+"fgets(buffer, size, stdin);",0
+"scanf(""%s"", buffer);",1
+system(user_input);,1
+"strncpy(dest, src, n);",0
+char buf[10]; gets(buf);,1
+"printf(""Hello, world!\n"");",0
+"strcpy(dest, src);",1
+if (user_input) { printf(user_input); },1
+"snprintf(dest, sizeof(dest), ""%s"", src);",0
+"memcpy(dst, src, size);",1
+"fgets(buffer, size, stdin);",0
+"scanf(""%s"", buffer);",1
+system(user_input);,1
+"strncpy(dest, src, n);",0
+char buf[10]; gets(buf);,1
+"printf(""Hello, world!\n"");",0
+"strcpy(dest, src);",1
+if (user_input) { printf(user_input); },1
+"snprintf(dest, sizeof(dest), ""%s"", src);",0
+"memcpy(dst, src, size);",1
+"fgets(buffer, size, stdin);",0
+"scanf(""%s"", buffer);",1
+system(user_input);,1
+"strncpy(dest, src, n);",0
+char buf[10]; gets(buf);,1
+"printf(""Hello, world!\n"");",0
+"strcpy(dest, src);",1
+if (user_input) { printf(user_input); },1
+"snprintf(dest, sizeof(dest), ""%s"", src);",0
+"memcpy(dst, src, size);",1
+"fgets(buffer, size, stdin);",0
+"scanf(""%s"", buffer);",1
+system(user_input);,1
+"strncpy(dest, src, n);",0
+char buf[10]; gets(buf);,1
+"printf(""Hello, world!\n"");",0
+"strcpy(dest, src);",1
+if (user_input) { printf(user_input); },1
+"snprintf(dest, sizeof(dest), ""%s"", src);",0
+"memcpy(dst, src, size);",1
+"fgets(buffer, size, stdin);",0
+"scanf(""%s"", buffer);",1
+system(user_input);,1
+"strncpy(dest, src, n);",0
+char buf[10]; gets(buf);,1
+"printf(""Hello, world!\n"");",0
+"strcpy(dest, src);",1
+if (user_input) { printf(user_input); },1
+"snprintf(dest, sizeof(dest), ""%s"", src);",0
+"memcpy(dst, src, size);",1
+"fgets(buffer, size, stdin);",0
+"scanf(""%s"", buffer);",1
+system(user_input);,1
+"strncpy(dest, src, n);",0
+char buf[10]; gets(buf);,1
+"printf(""Hello, world!\n"");",0
+"strcpy(dest, src);",1
+if (user_input) { printf(user_input); },1
+"snprintf(dest, sizeof(dest), ""%s"", src);",0
+"memcpy(dst, src, size);",1
+"fgets(buffer, size, stdin);",0
+"scanf(""%s"", buffer);",1
+system(user_input);,1
+"strncpy(dest, src, n);",0
+char buf[10]; gets(buf);,1
+"printf(""Hello, world!\n"");",0
+"strcpy(dest, src);",1
+if (user_input) { printf(user_input); },1
+"snprintf(dest, sizeof(dest), ""%s"", src);",0
+"memcpy(dst, src, size);",1
+"fgets(buffer, size, stdin);",0
+"scanf(""%s"", buffer);",1
+system(user_input);,1
+"strncpy(dest, src, n);",0
+char buf[10]; gets(buf);,1
+"printf(""Hello, world!\n"");",0
+"strcpy(dest, src);",1
+if (user_input) { printf(user_input); },1
+"snprintf(dest, sizeof(dest), ""%s"", src);",0
+"memcpy(dst, src, size);",1
+"fgets(buffer, size, stdin);",0
+"scanf(""%s"", buffer);",1
+system(user_input);,1
+"strncpy(dest, src, n);",0
+char buf[10]; gets(buf);,1
+"printf(""Hello, world!\n"");",0
+"strcpy(dest, src);",1
+if (user_input) { printf(user_input); },1
+"snprintf(dest, sizeof(dest), ""%s"", src);",0
+"memcpy(dst, src, size);",1
+"fgets(buffer, size, stdin);",0
+"scanf(""%s"", buffer);",1
+system(user_input);,1
+"strncpy(dest, src, n);",0
+char buf[10]; gets(buf);,1
+"printf(""Hello, world!\n"");",0
+"strcpy(dest, src);",1
+if (user_input) { printf(user_input); },1
+"snprintf(dest, sizeof(dest), ""%s"", src);",0
+"memcpy(dst, src, size);",1
+"fgets(buffer, size, stdin);",0
+"scanf(""%s"", buffer);",1
+system(user_input);,1
+"strncpy(dest, src, n);",0
+char buf[10]; gets(buf);,1
+"printf(""Hello, world!\n"");",0
+"strcpy(dest, src);",1
+if (user_input) { printf(user_input); },1
+"snprintf(dest, sizeof(dest), ""%s"", src);",0
+"memcpy(dst, src, size);",1
+"fgets(buffer, size, stdin);",0
+"scanf(""%s"", buffer);",1
+system(user_input);,1
+"strncpy(dest, src, n);",0
+char buf[10]; gets(buf);,1
+"printf(""Hello, world!\n"");",0
+"strcpy(dest, src);",1
+if (user_input) { printf(user_input); },1
+"snprintf(dest, sizeof(dest), ""%s"", src);",0
+"memcpy(dst, src, size);",1
+"fgets(buffer, size, stdin);",0
+"scanf(""%s"", buffer);",1
+system(user_input);,1
+"strncpy(dest, src, n);",0
+char buf[10]; gets(buf);,1
+"printf(""Hello, world!\n"");",0
+"strcpy(dest, src);",1
+if (user_input) { printf(user_input); },1
+"snprintf(dest, sizeof(dest), ""%s"", src);",0
+"memcpy(dst, src, size);",1
+"fgets(buffer, size, stdin);",0
+"scanf(""%s"", buffer);",1
+system(user_input);,1
+"strncpy(dest, src, n);",0
+char buf[10]; gets(buf);,1
+"printf(""Hello, world!\n"");",0
+"strcpy(dest, src);",1
+if (user_input) { printf(user_input); },1
+"snprintf(dest, sizeof(dest), ""%s"", src);",0
+"memcpy(dst, src, size);",1
+"fgets(buffer, size, stdin);",0
+"scanf(""%s"", buffer);",1
+system(user_input);,1
+"strncpy(dest, src, n);",0
+char buf[10]; gets(buf);,1
+"printf(""Hello, world!\n"");",0
+"strcpy(dest, src);",1
+if (user_input) { printf(user_input); },1
+"snprintf(dest, sizeof(dest), ""%s"", src);",0
+"memcpy(dst, src, size);",1
+"fgets(buffer, size, stdin);",0
+"scanf(""%s"", buffer);",1
+system(user_input);,1
+"strncpy(dest, src, n);",0
+char buf[10]; gets(buf);,1
+"printf(""Hello, world!\n"");",0
+"strcpy(dest, src);",1
+if (user_input) { printf(user_input); },1
+"snprintf(dest, sizeof(dest), ""%s"", src);",0
+"memcpy(dst, src, size);",1
+"fgets(buffer, size, stdin);",0
+"scanf(""%s"", buffer);",1
+system(user_input);,1
+"strncpy(dest, src, n);",0
+char buf[10]; gets(buf);,1
+"printf(""Hello, world!\n"");",0
+"strcpy(dest, src);",1
+if (user_input) { printf(user_input); },1
+"snprintf(dest, sizeof(dest), ""%s"", src);",0
+"memcpy(dst, src, size);",1
+"fgets(buffer, size, stdin);",0
+"scanf(""%s"", buffer);",1
+system(user_input);,1
+"strncpy(dest, src, n);",0
+char buf[10]; gets(buf);,1
+"printf(""Hello, world!\n"");",0
+"strcpy(dest, src);",1
+if (user_input) { printf(user_input); },1
+"snprintf(dest, sizeof(dest), ""%s"", src);",0
+"memcpy(dst, src, size);",1
+"fgets(buffer, size, stdin);",0
+"scanf(""%s"", buffer);",1
+system(user_input);,1
+"strncpy(dest, src, n);",0
+char buf[10]; gets(buf);,1
+"printf(""Hello, world!\n"");",0
+"strcpy(dest, src);",1
+if (user_input) { printf(user_input); },1
+"snprintf(dest, sizeof(dest), ""%s"", src);",0
+"memcpy(dst, src, size);",1
+"fgets(buffer, size, stdin);",0
+"scanf(""%s"", buffer);",1
+system(user_input);,1
+"strncpy(dest, src, n);",0
+char buf[10]; gets(buf);,1
+"printf(""Hello, world!\n"");",0
+"strcpy(dest, src);",1
+if (user_input) { printf(user_input); },1
+"snprintf(dest, sizeof(dest), ""%s"", src);",0
+"memcpy(dst, src, size);",1
+"fgets(buffer, size, stdin);",0
+"scanf(""%s"", buffer);",1
+system(user_input);,1
+"strncpy(dest, src, n);",0
+char buf[10]; gets(buf);,1
+"printf(""Hello, world!\n"");",0
+"strcpy(dest, src);",1
+if (user_input) { printf(user_input); },1
+"snprintf(dest, sizeof(dest), ""%s"", src);",0
+"memcpy(dst, src, size);",1
+"fgets(buffer, size, stdin);",0
+"scanf(""%s"", buffer);",1
+system(user_input);,1
+"strncpy(dest, src, n);",0
+char buf[10]; gets(buf);,1
+"printf(""Hello, world!\n"");",0
+"strcpy(dest, src);",1
+if (user_input) { printf(user_input); },1
+"snprintf(dest, sizeof(dest), ""%s"", src);",0
+"memcpy(dst, src, size);",1
+"fgets(buffer, size, stdin);",0
+"scanf(""%s"", buffer);",1
+system(user_input);,1
+"strncpy(dest, src, n);",0
+char buf[10]; gets(buf);,1
+"printf(""Hello, world!\n"");",0
+"strcpy(dest, src);",1
+if (user_input) { printf(user_input); },1
+"snprintf(dest, sizeof(dest), ""%s"", src);",0
+"memcpy(dst, src, size);",1
+"fgets(buffer, size, stdin);",0
+"scanf(""%s"", buffer);",1
+system(user_input);,1
+"strncpy(dest, src, n);",0
+char buf[10]; gets(buf);,1
+"printf(""Hello, world!\n"");",0
+"strcpy(dest, src);",1
+if (user_input) { printf(user_input); },1
+"snprintf(dest, sizeof(dest), ""%s"", src);",0
+"memcpy(dst, src, size);",1
+"fgets(buffer, size, stdin);",0
+"scanf(""%s"", buffer);",1
+system(user_input);,1
+"strncpy(dest, src, n);",0
+char buf[10]; gets(buf);,1
+"printf(""Hello, world!\n"");",0
+"strcpy(dest, src);",1
+if (user_input) { printf(user_input); },1
+"snprintf(dest, sizeof(dest), ""%s"", src);",0
+"memcpy(dst, src, size);",1
+"fgets(buffer, size, stdin);",0
+"scanf(""%s"", buffer);",1
+system(user_input);,1
+"strncpy(dest, src, n);",0
+char buf[10]; gets(buf);,1
+"printf(""Hello, world!\n"");",0
+"strcpy(dest, src);",1
+if (user_input) { printf(user_input); },1
+"snprintf(dest, sizeof(dest), ""%s"", src);",0
+"memcpy(dst, src, size);",1
+"fgets(buffer, size, stdin);",0
+"scanf(""%s"", buffer);",1
+system(user_input);,1
+"strncpy(dest, src, n);",0
+char buf[10]; gets(buf);,1
+"printf(""Hello, world!\n"");",0
+"strcpy(dest, src);",1
+if (user_input) { printf(user_input); },1
+"snprintf(dest, sizeof(dest), ""%s"", src);",0
+"memcpy(dst, src, size);",1
+"fgets(buffer, size, stdin);",0
+"scanf(""%s"", buffer);",1
+system(user_input);,1
+"strncpy(dest, src, n);",0
+char buf[10]; gets(buf);,1
+"printf(""Hello, world!\n"");",0
+"strcpy(dest, src);",1
+if (user_input) { printf(user_input); },1
+"snprintf(dest, sizeof(dest), ""%s"", src);",0
+"memcpy(dst, src, size);",1
+"fgets(buffer, size, stdin);",0
+"scanf(""%s"", buffer);",1
+system(user_input);,1
+"strncpy(dest, src, n);",0
+char buf[10]; gets(buf);,1
+"printf(""Hello, world!\n"");",0
+"strcpy(dest, src);",1
+if (user_input) { printf(user_input); },1
+"snprintf(dest, sizeof(dest), ""%s"", src);",0
+"memcpy(dst, src, size);",1
+"fgets(buffer, size, stdin);",0
+"scanf(""%s"", buffer);",1
+system(user_input);,1
+"strncpy(dest, src, n);",0
+char buf[10]; gets(buf);,1
+"printf(""Hello, world!\n"");",0
+"strcpy(dest, src);",1
+if (user_input) { printf(user_input); },1
+"snprintf(dest, sizeof(dest), ""%s"", src);",0
+"memcpy(dst, src, size);",1
+"fgets(buffer, size, stdin);",0
+"scanf(""%s"", buffer);",1
+system(user_input);,1
+"strncpy(dest, src, n);",0
+char buf[10]; gets(buf);,1
+"printf(""Hello, world!\n"");",0
+"strcpy(dest, src);",1
+if (user_input) { printf(user_input); },1
+"snprintf(dest, sizeof(dest), ""%s"", src);",0
+"memcpy(dst, src, size);",1
+"fgets(buffer, size, stdin);",0
+"scanf(""%s"", buffer);",1
+system(user_input);,1
+"strncpy(dest, src, n);",0
+char buf[10]; gets(buf);,1
+"printf(""Hello, world!\n"");",0
+"strcpy(dest, src);",1
+if (user_input) { printf(user_input); },1
+"snprintf(dest, sizeof(dest), ""%s"", src);",0
+"memcpy(dst, src, size);",1
+"fgets(buffer, size, stdin);",0
+"scanf(""%s"", buffer);",1
+system(user_input);,1
+"strncpy(dest, src, n);",0
+char buf[10]; gets(buf);,1
+"printf(""Hello, world!\n"");",0
+"strcpy(dest, src);",1
+if (user_input) { printf(user_input); },1
+"snprintf(dest, sizeof(dest), ""%s"", src);",0
+"memcpy(dst, src, size);",1
+"fgets(buffer, size, stdin);",0
+"scanf(""%s"", buffer);",1
+system(user_input);,1
+"strncpy(dest, src, n);",0
+char buf[10]; gets(buf);,1
+"printf(""Hello, world!\n"");",0
+"strcpy(dest, src);",1
+if (user_input) { printf(user_input); },1
+"snprintf(dest, sizeof(dest), ""%s"", src);",0
+"memcpy(dst, src, size);",1
+"fgets(buffer, size, stdin);",0
+"scanf(""%s"", buffer);",1
+system(user_input);,1
+"strncpy(dest, src, n);",0
+char buf[10]; gets(buf);,1
+"printf(""Hello, world!\n"");",0
+"strcpy(dest, src);",1
+if (user_input) { printf(user_input); },1
+"snprintf(dest, sizeof(dest), ""%s"", src);",0
+"memcpy(dst, src, size);",1
+"fgets(buffer, size, stdin);",0
+"scanf(""%s"", buffer);",1
+system(user_input);,1
+"strncpy(dest, src, n);",0
+char buf[10]; gets(buf);,1
+"printf(""Hello, world!\n"");",0
+"strcpy(dest, src);",1
+if (user_input) { printf(user_input); },1
+"snprintf(dest, sizeof(dest), ""%s"", src);",0
+"memcpy(dst, src, size);",1
+"fgets(buffer, size, stdin);",0
+"scanf(""%s"", buffer);",1
+system(user_input);,1
+"strncpy(dest, src, n);",0
+char buf[10]; gets(buf);,1
+"printf(""Hello, world!\n"");",0
+"strcpy(dest, src);",1
+if (user_input) { printf(user_input); },1
+"snprintf(dest, sizeof(dest), ""%s"", src);",0
+"memcpy(dst, src, size);",1
+"fgets(buffer, size, stdin);",0
+"scanf(""%s"", buffer);",1
+system(user_input);,1
+"strncpy(dest, src, n);",0
+char buf[10]; gets(buf);,1
+"printf(""Hello, world!\n"");",0
+"strcpy(dest, src);",1
+if (user_input) { printf(user_input); },1
+"snprintf(dest, sizeof(dest), ""%s"", src);",0
+"memcpy(dst, src, size);",1
+"fgets(buffer, size, stdin);",0
+"scanf(""%s"", buffer);",1
+system(user_input);,1
+"strncpy(dest, src, n);",0
+char buf[10]; gets(buf);,1
+"printf(""Hello, world!\n"");",0
+"strcpy(dest, src);",1
+if (user_input) { printf(user_input); },1
+"snprintf(dest, sizeof(dest), ""%s"", src);",0
+"memcpy(dst, src, size);",1
+"fgets(buffer, size, stdin);",0
+"scanf(""%s"", buffer);",1
+system(user_input);,1
+"strncpy(dest, src, n);",0
+char buf[10]; gets(buf);,1
+"printf(""Hello, world!\n"");",0
+"strcpy(dest, src);",1
+if (user_input) { printf(user_input); },1
+"snprintf(dest, sizeof(dest), ""%s"", src);",0
+"memcpy(dst, src, size);",1
+"fgets(buffer, size, stdin);",0
+"scanf(""%s"", buffer);",1
+system(user_input);,1
+"strncpy(dest, src, n);",0
+char buf[10]; gets(buf);,1
+"printf(""Hello, world!\n"");",0
+"strcpy(dest, src);",1
+if (user_input) { printf(user_input); },1
+"snprintf(dest, sizeof(dest), ""%s"", src);",0
+"memcpy(dst, src, size);",1
+"fgets(buffer, size, stdin);",0
+"scanf(""%s"", buffer);",1
+system(user_input);,1
+"strncpy(dest, src, n);",0
+char buf[10]; gets(buf);,1
+"printf(""Hello, world!\n"");",0
+"strcpy(dest, src);",1
+if (user_input) { printf(user_input); },1
+"snprintf(dest, sizeof(dest), ""%s"", src);",0
+"memcpy(dst, src, size);",1
+"fgets(buffer, size, stdin);",0
+"scanf(""%s"", buffer);",1
+system(user_input);,1
+"strncpy(dest, src, n);",0
+char buf[10]; gets(buf);,1
+"printf(""Hello, world!\n"");",0
+"strcpy(dest, src);",1
+if (user_input) { printf(user_input); },1
+"snprintf(dest, sizeof(dest), ""%s"", src);",0
+"memcpy(dst, src, size);",1
+"fgets(buffer, size, stdin);",0
+"scanf(""%s"", buffer);",1
+system(user_input);,1
+"strncpy(dest, src, n);",0
+char buf[10]; gets(buf);,1
+"printf(""Hello, world!\n"");",0
+"strcpy(dest, src);",1
+if (user_input) { printf(user_input); },1
+"snprintf(dest, sizeof(dest), ""%s"", src);",0
+"memcpy(dst, src, size);",1
+"fgets(buffer, size, stdin);",0
+"scanf(""%s"", buffer);",1
+system(user_input);,1
+"strncpy(dest, src, n);",0
+char buf[10]; gets(buf);,1
+"printf(""Hello, world!\n"");",0
+"strcpy(dest, src);",1
+if (user_input) { printf(user_input); },1
+"snprintf(dest, sizeof(dest), ""%s"", src);",0
+"memcpy(dst, src, size);",1
+"fgets(buffer, size, stdin);",0
+"scanf(""%s"", buffer);",1
+system(user_input);,1
+"strncpy(dest, src, n);",0
+char buf[10]; gets(buf);,1
+"printf(""Hello, world!\n"");",0
+"strcpy(dest, src);",1
+if (user_input) { printf(user_input); },1
+"snprintf(dest, sizeof(dest), ""%s"", src);",0
+"memcpy(dst, src, size);",1
+"fgets(buffer, size, stdin);",0
+"scanf(""%s"", buffer);",1
+system(user_input);,1
+"strncpy(dest, src, n);",0
+char buf[10]; gets(buf);,1
+"printf(""Hello, world!\n"");",0
+"strcpy(dest, src);",1
+if (user_input) { printf(user_input); },1
+"snprintf(dest, sizeof(dest), ""%s"", src);",0
+"memcpy(dst, src, size);",1
+"fgets(buffer, size, stdin);",0
+"scanf(""%s"", buffer);",1
+system(user_input);,1
+"strncpy(dest, src, n);",0
+char buf[10]; gets(buf);,1
+"printf(""Hello, world!\n"");",0
+"strcpy(dest, src);",1
+if (user_input) { printf(user_input); },1
+"snprintf(dest, sizeof(dest), ""%s"", src);",0
+"memcpy(dst, src, size);",1
+"fgets(buffer, size, stdin);",0
+"scanf(""%s"", buffer);",1
+system(user_input);,1
+"strncpy(dest, src, n);",0
+char buf[10]; gets(buf);,1
+"printf(""Hello, world!\n"");",0
+"strcpy(dest, src);",1
+if (user_input) { printf(user_input); },1
+"snprintf(dest, sizeof(dest), ""%s"", src);",0
+"memcpy(dst, src, size);",1
+"fgets(buffer, size, stdin);",0
+"scanf(""%s"", buffer);",1
+system(user_input);,1
+"strncpy(dest, src, n);",0
+char buf[10]; gets(buf);,1
+"printf(""Hello, world!\n"");",0
+"strcpy(dest, src);",1
+if (user_input) { printf(user_input); },1
+"snprintf(dest, sizeof(dest), ""%s"", src);",0
+"memcpy(dst, src, size);",1
+"fgets(buffer, size, stdin);",0
+"scanf(""%s"", buffer);",1
+system(user_input);,1
+"strncpy(dest, src, n);",0
+char buf[10]; gets(buf);,1
+"printf(""Hello, world!\n"");",0
+"strcpy(dest, src);",1
+if (user_input) { printf(user_input); },1
+"snprintf(dest, sizeof(dest), ""%s"", src);",0
+"memcpy(dst, src, size);",1
+"fgets(buffer, size, stdin);",0
+"scanf(""%s"", buffer);",1
+system(user_input);,1
+"strncpy(dest, src, n);",0
+char buf[10]; gets(buf);,1
+"printf(""Hello, world!\n"");",0
+"strcpy(dest, src);",1
+if (user_input) { printf(user_input); },1
+"snprintf(dest, sizeof(dest), ""%s"", src);",0
+"memcpy(dst, src, size);",1
+"fgets(buffer, size, stdin);",0
+"scanf(""%s"", buffer);",1
+system(user_input);,1
+"strncpy(dest, src, n);",0
+char buf[10]; gets(buf);,1
+"printf(""Hello, world!\n"");",0
+"strcpy(dest, src);",1
+if (user_input) { printf(user_input); },1
+"snprintf(dest, sizeof(dest), ""%s"", src);",0
+"memcpy(dst, src, size);",1
+"fgets(buffer, size, stdin);",0
+"scanf(""%s"", buffer);",1
+system(user_input);,1
+"strncpy(dest, src, n);",0
+char buf[10]; gets(buf);,1
+"printf(""Hello, world!\n"");",0
+"strcpy(dest, src);",1
+if (user_input) { printf(user_input); },1
+"snprintf(dest, sizeof(dest), ""%s"", src);",0
+"memcpy(dst, src, size);",1
+"fgets(buffer, size, stdin);",0
+"scanf(""%s"", buffer);",1
+system(user_input);,1
+"strncpy(dest, src, n);",0
+char buf[10]; gets(buf);,1
+"printf(""Hello, world!\n"");",0
+"strcpy(dest, src);",1
+if (user_input) { printf(user_input); },1
+"snprintf(dest, sizeof(dest), ""%s"", src);",0
+"memcpy(dst, src, size);",1
+"fgets(buffer, size, stdin);",0
+"scanf(""%s"", buffer);",1
+system(user_input);,1
+"strncpy(dest, src, n);",0
+char buf[10]; gets(buf);,1
+"printf(""Hello, world!\n"");",0
+"strcpy(dest, src);",1
+if (user_input) { printf(user_input); },1
+"snprintf(dest, sizeof(dest), ""%s"", src);",0
+"memcpy(dst, src, size);",1
+"fgets(buffer, size, stdin);",0
+"scanf(""%s"", buffer);",1
+system(user_input);,1
+"strncpy(dest, src, n);",0
+char buf[10]; gets(buf);,1
+"printf(""Hello, world!\n"");",0
+"strcpy(dest, src);",1
+if (user_input) { printf(user_input); },1
+"snprintf(dest, sizeof(dest), ""%s"", src);",0
+"memcpy(dst, src, size);",1
+"fgets(buffer, size, stdin);",0
+"scanf(""%s"", buffer);",1
+system(user_input);,1
+"strncpy(dest, src, n);",0
+char buf[10]; gets(buf);,1
+"printf(""Hello, world!\n"");",0
+"strcpy(dest, src);",1
+if (user_input) { printf(user_input); },1
+"snprintf(dest, sizeof(dest), ""%s"", src);",0
+"memcpy(dst, src, size);",1
+"fgets(buffer, size, stdin);",0
+"scanf(""%s"", buffer);",1
+system(user_input);,1
+"strncpy(dest, src, n);",0
+char buf[10]; gets(buf);,1
+"printf(""Hello, world!\n"");",0
+"strcpy(dest, src);",1
+if (user_input) { printf(user_input); },1
+"snprintf(dest, sizeof(dest), ""%s"", src);",0
+"memcpy(dst, src, size);",1
+"fgets(buffer, size, stdin);",0
+"scanf(""%s"", buffer);",1
+system(user_input);,1
+"strncpy(dest, src, n);",0
+char buf[10]; gets(buf);,1
+"printf(""Hello, world!\n"");",0
+"strcpy(dest, src);",1
+if (user_input) { printf(user_input); },1
+"snprintf(dest, sizeof(dest), ""%s"", src);",0
+"memcpy(dst, src, size);",1
+"fgets(buffer, size, stdin);",0
+"scanf(""%s"", buffer);",1
+system(user_input);,1
+"strncpy(dest, src, n);",0
+char buf[10]; gets(buf);,1
+"printf(""Hello, world!\n"");",0
+"strcpy(dest, src);",1
+if (user_input) { printf(user_input); },1
+"snprintf(dest, sizeof(dest), ""%s"", src);",0
+"memcpy(dst, src, size);",1
+"fgets(buffer, size, stdin);",0
+"scanf(""%s"", buffer);",1
+system(user_input);,1
+"strncpy(dest, src, n);",0
+char buf[10]; gets(buf);,1
+"printf(""Hello, world!\n"");",0
+"strcpy(dest, src);",1
+if (user_input) { printf(user_input); },1
+"snprintf(dest, sizeof(dest), ""%s"", src);",0
+"memcpy(dst, src, size);",1
+"fgets(buffer, size, stdin);",0
+"scanf(""%s"", buffer);",1
+system(user_input);,1
+"strncpy(dest, src, n);",0
+char buf[10]; gets(buf);,1
+"printf(""Hello, world!\n"");",0
+"strcpy(dest, src);",1
+if (user_input) { printf(user_input); },1
+"snprintf(dest, sizeof(dest), ""%s"", src);",0
+"memcpy(dst, src, size);",1
+"fgets(buffer, size, stdin);",0
+"scanf(""%s"", buffer);",1
+system(user_input);,1
+"strncpy(dest, src, n);",0
+char buf[10]; gets(buf);,1
+"printf(""Hello, world!\n"");",0
+"strcpy(dest, src);",1
+if (user_input) { printf(user_input); },1
+"snprintf(dest, sizeof(dest), ""%s"", src);",0
+"memcpy(dst, src, size);",1
+"fgets(buffer, size, stdin);",0
+"scanf(""%s"", buffer);",1
+system(user_input);,1
+"strncpy(dest, src, n);",0
+char buf[10]; gets(buf);,1
+"printf(""Hello, world!\n"");",0
+"strcpy(dest, src);",1
+if (user_input) { printf(user_input); },1
+"snprintf(dest, sizeof(dest), ""%s"", src);",0
+"memcpy(dst, src, size);",1
+"fgets(buffer, size, stdin);",0
+"scanf(""%s"", buffer);",1
+system(user_input);,1
+"strncpy(dest, src, n);",0
+char buf[10]; gets(buf);,1
+"printf(""Hello, world!\n"");",0
+"strcpy(dest, src);",1
+if (user_input) { printf(user_input); },1
+"snprintf(dest, sizeof(dest), ""%s"", src);",0
+"memcpy(dst, src, size);",1
+"fgets(buffer, size, stdin);",0
+"scanf(""%s"", buffer);",1
+system(user_input);,1
+"strncpy(dest, src, n);",0
+char buf[10]; gets(buf);,1
+"printf(""Hello, world!\n"");",0
+"strcpy(dest, src);",1
+if (user_input) { printf(user_input); },1
+"snprintf(dest, sizeof(dest), ""%s"", src);",0
+"memcpy(dst, src, size);",1
+"fgets(buffer, size, stdin);",0
+"scanf(""%s"", buffer);",1
+system(user_input);,1
+"strncpy(dest, src, n);",0
